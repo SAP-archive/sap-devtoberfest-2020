@@ -11,4 +11,6 @@ Level up using the content linked from the [SAP Cloud Platform Workflow enableme
 
 ## ABAP RESTful Application Programming(RAP) Model
 
+Session Owner: [Rich Heilman](https://github.com/rich-heilman/)
+
 In this overview of the ABAP RESTful Application Programming Model, learn how to use proven and new technologies, such as Core Data Services (CDS) and Behavior definition and implementation languages, to build SAP Fiori apps and Odata services with SAP Cloud Platform, ABAP Environment and on premise SAP S/4HANA.

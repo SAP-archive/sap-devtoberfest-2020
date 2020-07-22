@@ -4,7 +4,7 @@ The Devtoberfest initiative is being run by the SAP Developer Advocates. You can
 
 | Advocate | Info |
 | - | - |
-| <img src="https://avatars3.githubusercontent.com/u/12159356?s=460&u=8cd9551de92e8a098b7b54649fd381f638deb36e" width="100" height="100" /> | **Thomas Jung**<br>Thomas Jung is currently Head of SAP Developer Advocacy team at @SAP . Coder, speaker, troublemaker. Views and comments are my own, not SAP's.<br>[More...](https://github.com/jung-thomas) |
+| <img src="https://avatars3.githubusercontent.com/u/12159356?s=460&u=8cd9551de92e8a098b7b54649fd381f638deb36e" width="100" height="100" /> | **Thomas Jung**<br>Thomas Jung is currently Head of SAP Developer Advocacy team at @SAP .<br>Coder, speaker, troublemaker. Views and comments are my own, not SAP's.<br>[More...](https://github.com/jung-thomas) |
 | <img src="https://avatars2.githubusercontent.com/u/17751119" width="100" height="100" /> | **Rich Heilman**<br>Developer Advocate with SAP Global Developer Relations & Community Team<br>[More ...](https://github.com/rich-heilman) |
 | <img src="https://avatars3.githubusercontent.com/u/1873245" width="100" height="100" /> | **Marius Obert**<br>Trying to inspire my peer developers around the globe to build scalable cloud-native enterprise apps.<br>[More ...](https://github.com/IObert) |
 | <img src="https://avatars3.githubusercontent.com/u/8822534" width="100" height="100" /> | **Vitaliy Rudnytskiy**<br>Developer Advocate at SAP with focus on Data and Analytics<br>[More ...](https://github.com/Sygyzmundovych) |

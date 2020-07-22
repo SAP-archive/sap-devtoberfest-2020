@@ -24,3 +24,5 @@ In this overview of the ABAP RESTful Application Programming Model, learn how to
 Session Owner: [Marius Obert](https://github.com/IObert)
 
 This session will provide the first glimpse of SAP's latest development environment - the SAP Business Application Studio. You will learn how to use this developement platform to build a Fiori Application that sits on top of an existing OData service. The content focuses on the developement of the Fiori Application as well as the tooling that enables the development process. 
+
+Find more information about this session on the [topic page](./appstudio.md).

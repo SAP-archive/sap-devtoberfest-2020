@@ -16,3 +16,11 @@ Level up using the content linked from the [SAP Cloud Platform Workflow enableme
 Session Owner: [Rich Heilman](https://github.com/rich-heilman)
 
 In this overview of the ABAP RESTful Application Programming Model, learn how to use proven and new technologies, such as Core Data Services (CDS) and Behavior definition and implementation languages, to build SAP Fiori apps and Odata services with SAP Cloud Platform, ABAP Environment and on premise SAP S/4HANA.
+
+
+
+## SAP Business Application Studio for Fiori Development
+
+Session Owner: [Marius Obert](https://github.com/IObert)
+
+This session will provide the first glimpse of SAP's latest development environment - the SAP Business Application Studio. You will learn how to use this developement platform to build a Fiori Application that sits on top of an existing OData service. The content focuses on the developement of the Fiori Application as well as the tooling that enables the development process. 

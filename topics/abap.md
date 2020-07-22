@@ -11,4 +11,4 @@ We have a set of exercises that will teach you the basic fundamentals of HTTP Co
 |Overview| Date / 9:00 am|-|
 |[Hello World](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex1) |  | -|
 |[Consuming Services via HTTP](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex2) |  | -|
-|[ |  | -|
+| |  | -|

@@ -8,4 +8,9 @@ We have a set of exercises that help you get to know the workflow service. They 
 
 You can follow these exercises yourself, at your own pace, using the resources in the [Virtual Event Pilot - SAP Cloud Platform Workflow](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/) repository. You can also watch video equivalents of each of the exercises, recorded by the Developer Advocates team, where we run through each of the exercises one by one.
 
+### Videos
 
+| Video | Description | Length |
+| - | - | - |
+| Introduction | An introduction to the exercise content | 5 mins |
+| Exercise 01  | Setting up for Workflow on SAP Cloud Platform | 16 mins |

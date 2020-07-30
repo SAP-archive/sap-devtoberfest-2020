@@ -13,8 +13,8 @@ You can also watch video equivalents of each of the exercises, recorded by the D
 ## Parts
 
 | Description | Premiers on |Duration | Link to recording |
-|-|-|-|
+|-|-|-|-|
 |Set the development environment up and create a basic Fiori Elements Project.| Date / 9:00 am CET|-|-|
-|Use the Fiori Tools to add annotation to the web application. |  Date / 9:00 am CET | -|-|
+|Use the Fiori Tools to add annotation to the web application. |  Date / 9:00 am CET |-|-|
 |Deploy the web app to SAP Cloud Platform and integrate it in the Fiori Launchpad.|  Date / 9:00 am CET | -|-|
 

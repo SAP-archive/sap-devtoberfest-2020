@@ -10,17 +10,11 @@ to the creation and fine-tuning of a Fiori Elements project. While doing so, you
 You can follow these exercises yourself, at your own pace, using the resources in the [Enablement Session - SAP Business Application Studio for Fiori Development](https://github.tools.sap/D056949/Virtual-Event-Pilot/) repository. 
 You can also watch video equivalents of each of the exercises, recorded by the Developer Advocates team, where we run through each of the exercises one by one.
 
-## Units
+## Parts
 
-| Description | Starts at | Link to recording |
+| Description | Premiers on |Duration | Link to recording |
 |-|-|-|
-|Welcome| Date / 9:00 am|-|
-|[Create Destination](https://github.tools.sap/D056949/Virtual-Event-Pilot/exercises/01.md) |  | -|
-|[Create Dev Space](https://github.tools.sap/D056949/Virtual-Event-Pilot/exercises/02.md) |  | -|
-|[Set Up and Generate a New SAP Fiori App Project](https://github.tools.sap/D056949/Virtual-Event-Pilot/exercises/03.md)|  | -|
-|[Configure a List Report Page Using SAP Fiori Tools](https://github.tools.sap/D056949/Virtual-Event-Pilot/exercises/04.md)|  | -|
-|[Clone and deploy app router](https://github.tools.sap/D056949/Virtual-Event-Pilot/exercises/05.md) |  | -|
-|Add annotations to show all columns|  | -|
-|[Configure Object Pages Using SAP Fiori Tools](https://developers.sap.com/tutorials/fiori-tools-configure-object-pages.html)|  | -|
-|Deploy once more |  | -|
-|Deep dive into UI5 tooling extensions |  | -|
+|Set the development environment up and create a basic Fiori Elements Project.| Date / 9:00 am CET|-|-|
+|Use the Fiori Tools to add annotation to the web application. |  Date / 9:00 am CET | -|-|
+|Deploy the web app to SAP Cloud Platform and integrate it in the Fiori Launchpad.|  Date / 9:00 am CET | -|-|
+

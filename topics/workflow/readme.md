@@ -12,7 +12,7 @@ You can follow these exercises yourself, at your own pace, using the resources i
 
 | Video | Description | Length |
 | - | - | - |
-| [![Introduction](thumbnail-0.jpg)](https://youtu.be/KlNLbSxsM6s) | [An introduction to the exercise content](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event) | 5 mins |
+| [![Introduction](thumbnail-0.jpg)](https://youtu.be/KlNLbSxsM6s) | [An introduction to the exercise content](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event) | 05 mins |
 | [![Exercise 01](thumbnail-1.jpg)](https://youtu.be/DyjM-VoRLjw)  | [Exercise 01 - Setting up for Workflow on SAP Cloud Platform](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/01/readme.md) | 16 mins |
 | [![Exercise 02](thumbnail-2.jpg)](https://youtu.be/tG_oUPs67CY) | [Exercise 02 - Deploying the Workflow tools](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/02/readme.md) | 18 mins |
 | [![Exercise 03](thumbnail-3.jpg)](https://youtu.be/JjiMA9gT8ss) | [Exercise 03 - Installing & configuring the SAP Cloud Connector](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/03/readme.md) | 20 mins |

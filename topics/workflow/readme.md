@@ -21,6 +21,4 @@ You can follow these exercises yourself, at your own pace, using the resources i
 | [![Exercise 06](thumbnail-6.jpg)](https://youtu.be/SKfEfYOVQYA) | [Exercise 06 - Exploring the API Hub and the Workflow API](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/06/readme.md) | 18 mins |
 | [![Exercise 07](thumbnail-7.jpg)](https://youtu.be/TVirKnU86cw) | [Exercise 07 - Calling the Workflow API from Postman](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/07/readme.md) | 11 mins |
 | [![Exercise 08](thumbnail-8.jpg)](https://youtu.be/ZNg60jB8jik) | [Exercise 08 - Adding a Service Task to the workflow definition](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/08/readme.md) | 09 mins |
-| [![Exercise 09](thumbnail-9.jpg)](https://youtu.be/O0ye689G-1g) | [Exercise 09 - Adding a User Task to the workflow definition](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/09/readme.md) | 14 mins |
-
-
+| [![Exercise 10](thumbnail-10.jpg)](https://youtu.be/UDF1xHUpL2Y) | [Exercise 10 - Accessing contextual information in a Script Task](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/10/readme.md) | 14 mins |

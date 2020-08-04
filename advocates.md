@@ -11,4 +11,4 @@ The Devtoberfest initiative is being run by the SAP Developer Advocates. You can
 | <img src="https://avatars3.githubusercontent.com/u/9074514" width="100" height="100" /> | **Kevin Muessig**<br>Developer Evangelist @SAP<br>[More ...](https://github.com/KevinMuessig) |
 | <img src="https://avatars1.githubusercontent.com/u/36535298" width="100" height="100" /> | **Max Streifeneder**<br>Developer Advocate @ SAP<br>[More ...](https://github.com/maxstreifeneder) |
 | <img src="https://avatars2.githubusercontent.com/u/41022600" width="100" height="100" /> | **Josh Bentley**<br>Developer Advocate @ SAP for the SAP Cloud Platform and other tech like mobile and open source.<br>[More...](https://github.com/jarjarbentley)|
-| <img src="https://avatars2.githubusercontent.com/u/73068" width="100" height="100" /> | **DJ Adams**<br>Developer, Author, Speaker, Teacher.<br>[More ...](https://github.com/qmacro) |
+| <img src="https://avatars2.githubusercontent.com/u/73068" width="100" height="100" /> | **DJ Adams**<br>Developer, Author, Speaker, Teacher.<br>Enablement content: [SAP Cloud Platform Workflow](/topics/workflow/)<br>[More ...](https://github.com/qmacro) |

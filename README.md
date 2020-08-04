@@ -33,8 +33,7 @@ This is a 6 week celebration by developers, for developers to kick off the SAP T
   * The real “prize” here is for the whole developer community which will benefit from what is built or started during this event
 * Github is the open platform for this entire event! Code, collaboration, planning, submission, support from SAP, etc - - all via Github
   * Even our planning and communication will be done primarily via Github: <https://github.com/sap-samples/sap-devtoberfest-2020>
-* Participants – 100 main participants divided into 10 teams grouped by time zone and topic interest to facilitate communication
-  * But the whole SAP developer community will be encouraged to participate as well.  Like any open source project teams are encouraged to do as much as possible in the open and even accept issues and pull requests from non-team members during the build week
+* The whole SAP developer community will be encouraged to participate.  Like any open source project teams are encouraged to do as much as possible in the open and even accept issues and pull requests from non-team members during the build week
 * Throughout the week of the main build event we will also do live streams to interview and expose the community to the teams competing //  Make it a spectator sport! Pundit, updates – sports metaphor
 * The output of the week will be code published to Github and a 6 minute video demo of the solution (video due date can be slightly later than the end of the event but still well before the main TechEd for the community to review in advance)
 * During TechEd, voting will be open for the community to select the winner

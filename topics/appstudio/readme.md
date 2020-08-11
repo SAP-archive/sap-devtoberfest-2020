@@ -6,7 +6,7 @@ Here you'll find content to help you level up with the [SAP Business Application
 
 We have a set of exercises that help you get to know the SAP Business Application Studio. They take you through a series of tasks, covering everything from setting the service up in an SAP Cloud Platform trial account, to the creation and fine-tuning of a Fiori Elements project. While doing so, you will also get to know the Fiori Tools, which are integrated into the development environment. While doing so, you will also get to know the extensibility concept of the UI5 tooling, which you could leverage for your project in the build week.
 
-You can follow these exercises yourself, at your own pace, using the resources in the [Enablement Session - SAP Business Application Studio for Fiori Development](https://github.tools.sap/D056949/Virtual-Event-Pilot/) repository. 
+You can follow these exercises yourself, at your own pace, using the resources in the Enablement Session - SAP Business Application Studio for Fiori Development repository. 
 You can also watch video equivalents of each of the exercises, recorded by the Developer Advocates team, where we run through each of the exercises one by one.
 
 ## Parts

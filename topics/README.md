@@ -39,4 +39,4 @@ What is Kyma???  Kyma /kee-ma/ is a platform for extending applications with ser
 
 SAP has launched the SAP Kyma Runtime, officially “SAP Cloud Platform Extension Factory, Kyma runtime”. With this, you can now get a Kubernetes-based offering as part of SAP Cloud Platform next to the Cloud Foundry application runtime, or ABAP runtime – letting you choose what best fits your needs.  
 
-Find more information about this session on the [topic page] (./kyma/readme.md).
+Find more information about this session on the [topic page](./kyma/readme.md).

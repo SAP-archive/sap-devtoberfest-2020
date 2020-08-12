@@ -47,4 +47,4 @@ Session Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom 
 
 Get to know the Big Picture of the SAP Cloud Application Programming Model (CAP) and learn how to build your first standalone application using SAP Business Application Studio, CDS, Node.js. SQLite, SAP HANA Cloud and SAP Cloud Platform. 
 
-Find more information about this session on the [topic page](./cap/readme.md).
+Find more information about this session on the [topic page](./cap/README.md).

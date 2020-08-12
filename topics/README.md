@@ -38,3 +38,13 @@ SAP has launched the SAP Kyma Runtime, officially “SAP Cloud Platform Extensio
 Learn what Kyma is and how you can adopt it as a company to better extend your existing On-Prem and Cloud solutions.
 
 Find more information about this session on the [topic page](./kyma/readme.md).
+
+## SAP Cloud Application Programming Model (CAP)
+
+Session Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom Jung](https://github.com/jung-thomas)
+
+"The SAP Cloud Application Programming Model is a framework of languages, libraries, and tools for building enterprise-grade services and applications. It guides developers along a ‘golden path’ of proven best practices and a great wealth of out-of-the-box solutions to recurring tasks."
+
+Get to know the Big Picture of the SAP Cloud Application Programming Model (CAP) and learn how to build your first standalone application using SAP Business Application Studio, CDS, Node.js. SQLite, SAP HANA Cloud and SAP Cloud Platform. 
+
+Find more information about this session on the [topic page](./cap/readme.md).

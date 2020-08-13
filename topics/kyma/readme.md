@@ -1,18 +1,30 @@
 # SAP Kyma Runtime
 
+Here you'll find content to help you level up with the Kyma runtime:
+
+- [Kyma Project](https://kyma-project.io)
+- [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
+- [Thomas Hertz - Get a fully managed runtime based on Kyma and Kubernetes](https://blogs.sap.com/2020/05/12/get-a-fully-managed-runtime-based-on-kyma-and-kubernetes/)
+
 ## Learning by doing
 
 What is Kyma??? - Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions.  
 
-SAP has launched the SAP Kyma Runtime, officially “SAP Cloud Platform Extension Factory, Kyma runtime”. With this, you can now get a Kubernetes-based offering as part of SAP Cloud Platform next to the Cloud Foundry application runtime, or ABAP runtime – letting you choose what best fits your needs.  
+This series of instructional videos will introduce you to the Kyma Open Source Runtime. During the course of these exercises you will learn not only what Kyma is but also how to setup Kyma locally on your machine as well as on an Hyper-Scaler. You will experience how you can successfully deploy to the Kyma environment and extend it through different services.
 
-In this overview we have a set of exercises and videos that will teach you the basic fundamentals of Kyma open source, and additional content highlghting how you will be able to access Kyma via the SAP Cloud Platform.
+In an additional exercise you will get walked through how you can connect an SAP Cloud Platform Fiori for iOS SDK app to your Kyma deployed APIs and consume data through SAP Cloud Platform Mobile Services.
+
+Get ready and excited for some Kyma-ing!
 
 ### Videos  
 
 | Video | Description | Length |
 | - | - | - |
-| [![Exercise 1](thumbnail-01.jpg)](youtube tbd) | [Exercise 1 - #1](https://github.com/SAP-samples) | - |
-| [![Exercise 2](thumbnail-02.jpg)](youtube tbd)  | [Exercise 2 - #2](https://github.com/SAP-samples) | - |
-<!-- | [![Exercise 3](thumbnail-03.jpg)](youtube tbd)  | [Exercise 3 - #3](https://github.com/SAP-samples) | - |
- | [![Exercise 4](thumbnail-04.jpg)](youtube tbd)  | [Exercise 4 - #4](https://github.com/SAP-samples) | - |  -->
+| [![Introduction](thumbnail-01.jpg)](youtube tbd)  | [What is Kyma?](https://github.com/SAP-samples)                                                  | - |
+| [![Exercise 1](thumbnail-02.jpg)](youtube tbd)    | [Exercise 1 - Setup a local Kyma installment](https://github.com/SAP-samples)                    | - |
+| [![Exercise 2](thumbnail-03.jpg)](youtube tbd)    | [Exercise 2 - Run Kyma on a Hyper-Scaler](https://github.com/SAP-samples)                        | - |
+| [![Exercise 3](thumbnail-04.jpg)](youtube tbd)    | [Exercise 3 - How to deploy to the Kyma Environment](https://github.com/SAP-samples)             | - |
+| [![Exercise 4](thumbnail-05.jpg)](youtube tbd)    | [Exercise 4 - Expose your Service through an Oauth2 secured API](https://github.com/SAP-samples) | - |
+| [![Exercise 5](thumbnail-06.jpg)](youtube tbd)    | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples)      | - |
+| [![Exercise 6](thumbnail-07.jpg)](youtube tbd)    | [Exercise 6 - Prepare your Kyma environment for Scale](https://github.com/SAP-samples)           | - |
+| [![Managed Kyma](thumbnail-08.jpg)](youtube tbd)  | [Why is SAP providing a managed Kyma offering? – Make your life easier in a blink!](https://github.com/SAP-samples) | - |

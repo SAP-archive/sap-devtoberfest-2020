@@ -23,7 +23,7 @@ Get ready and excited for some Kyma-ing!
 | [![Introduction](thumbnail-01.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)  | [What is Kyma?](https://github.com/SAP-samples)                                                  | ?? mins |
 | [![Exercise 1](thumbnail-02.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 1 - Setup a local Kyma installment](https://github.com/SAP-samples)                    | ?? mins |
 | [![Exercise 2](thumbnail-03.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 2 - Run Kyma on a Hyper-Scaler](https://github.com/SAP-samples)                        | ?? mins |
-| [![Exercise 3](thumbnail-04.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 3 - How to deploy to the Kyma Environment](https://github.com/SAP-samples)             | ?? mins |
+| [![Exercise 3](thumbnail-04.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 3 - Deploy to the Kyma Runtime](https://github.com/SAP-samples)             | ?? mins |
 | [![Exercise 4](thumbnail-05.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 4 - Expose your Service through an Oauth2 secured API](https://github.com/SAP-samples) | ?? mins |
 | [![Exercise 5](thumbnail-06.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples)      | ?? mins |
 | [![Exercise 6](thumbnail-07.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 6 - Prepare your Kyma environment for Scale](https://github.com/SAP-samples)           | ?? mins |

@@ -27,5 +27,5 @@ Get ready and excited for some Kyma-ing!
 | [![Exercise 4](thumbnail-05.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 4 - Expose your Service through an Oauth2 secured API](https://github.com/SAP-samples) | ?? mins |
 | [![Exercise 5](thumbnail-06.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples)      | ?? mins |
 | [![Exercise 6](thumbnail-07.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 6 - Prepare your Kyma environment for Scale](https://github.com/SAP-samples)           | ?? mins |
-| [![Managed Kyma](thumbnail-09.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)  | [SAP Cloud Platform Extension Factory, Kyma runtime](https://github.com/SAP-samples) | ?? mins |
-| [![Challenge](thumbnail-08.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)        | [Challenge - Consume a Kyma exposed API in your iOS app](https://github.com/SAP-samples)          | ?? mins |
+| [![Managed Kyma](thumbnail-08.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)  | [SAP Cloud Platform Extension Factory, Kyma runtime](https://github.com/SAP-samples) | ?? mins |
+| [![Challenge](thumbnail-09.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)        | [Challenge - Consume a Kyma exposed API in your iOS app](https://github.com/SAP-samples)          | ?? mins |

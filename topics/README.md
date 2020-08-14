@@ -48,3 +48,14 @@ Session Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom 
 Get to know the Big Picture of the SAP Cloud Application Programming Model (CAP) and learn how to build your first standalone application using SAP Business Application Studio, CDS, Node.js. SQLite, SAP HANA Cloud and SAP Cloud Platform. 
 
 Find more information about this session on the [topic page](./cap/README.md).
+
+## SAP HANA: Multi-model
+
+Session Owners: [Mathias Kemeter](https://github.com/mkemeter), [Markus Fath](https://github.com/fath-markus) and [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
+
+**SAP HANA’s Spatial Engine** allows you to process and analyze spatial data like a geo-ninja. Learn how to handle geo-spatial data and derive advanced insights on an SQL level. Since SAP HANA is following the OGC standards, you will be easily able to visualize your work on almost any map.
+
+Networks are all around us - road networks, social networks, supplier networks, communication networks etc. The **SAP HANA Graph engine** allows you to model, process, and analyze connected data. Learn how to work with graphs within the SAP HANA database.
+
+
+Find more information about this session on the [topic page](./hana-multimodel/README.md).

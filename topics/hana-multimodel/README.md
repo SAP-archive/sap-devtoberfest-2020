@@ -12,5 +12,5 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 | Description | Premiers on |Duration | Link to recording |
 |-|-|-|-|
-|SAP HANA's Spatial Engine| Date / 9:00 am CET|-|-|
-|SAP HANA's Graph Engine|  Date / 9:00 am CET | -|-|
+|SAP HANA's Spatial Engine| tba |-|-|
+|SAP HANA's Graph Engine| tba |-|-|

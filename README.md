@@ -1,14 +1,7 @@
-# SAP TechEd Devtoberfest
+# Devtoberfest from SAP
 
 ```shell
-
-     _______.     ___      .______      .___________. _______   ______  __    __   _______  _______                              
-    /       |    /   \     |   _  \     |           ||   ____| /      ||  |  |  | |   ____||       \                             
-   |   (----`   /  ^  \    |  |_)  |    `---|  |----`|  |__   |  ,----'|  |__|  | |  |__   |  .--.  |                            
-    \   \      /  /_\  \   |   ___/         |  |     |   __|  |  |     |   __   | |   __|  |  |  |  |                            
-.----)   |    /  _____  \  |  |             |  |     |  |____ |  `----.|  |  |  | |  |____ |  '--'  |                            
-|_______/    /__/     \__\ | _|             |__|     |_______| \______||__|  |__| |_______||_______/                             
-                                                                                                                                 
+                                                                                           
  _______   ___________    ____ .___________.  ______   .______    _______ .______       _______  _______     _______.___________.
 |       \ |   ____\   \  /   / |           | /  __  \  |   _  \  |   ____||   _  \     |   ____||   ____|   /       |           |
 |  .--.  ||  |__   \   \/   /  `---|  |----`|  |  |  | |  |_)  | |  |__   |  |_)  |    |  |__   |  |__     |   (----`---|  |----`
@@ -21,7 +14,7 @@
 
 ## Description
 
-**SAP TechEd Devtoberfest – An open celebration of what makes us developers – Coding and Collaboration!**
+**Devtoberfest from SAP – An open celebration of what makes us developers – Coding and Collaboration!**
 
 This is an eight week celebration by developers, for developers to kick off the SAP TechEd 2020 season
 

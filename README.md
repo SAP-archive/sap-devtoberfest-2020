@@ -30,11 +30,36 @@ This is an eight week celebration by developers, for developers to kick off the 
 * Throughout the week of the main build sprint we will also do live streams to interview and expose the community to the teams competing. So this is also a great opportunity to get more exposure for your community project
 * The output will be code published to a public, git-based repository and a maximum 6 minute video demo of the project (ideally linked from the readme of your project)
 * During TechEd 2020, voting will be open for the community to select the winner
-* Judging
-  * **How relevant/helpful is your solution to other SAP developers**
-  * No commercial license
-  * How well does it utilize the key SAP technologies
-  * How much of its was actually built during the event and how much was reuse
+
+## Judging
+
+* **How relevant/helpful is your solution to other SAP developers**
+* No commercial license - [Suggested Licenses](https://opensource.org/licenses/alphabetical)
+* How well does it utilize the key SAP technologies
+* How much of its was actually built during the event and how much was reuse. Existing projects are allowed, but judging will focus on commits done during the Contest Period.
+* Technological fascination.  Innovative use of technology.  Use of multiple types of technology.  Use of popular trending technology.
+* Entertainment value.  Does the presentation grab your attention?  Does it stand out compared to others?  Does it tell a story that is memorable?
+* Only pull requests/commits from users who have met the individual eligibility requirements in will be considered.
+
+## How to Enter
+
+Even if you aren't sure yet if you want to create or contribute to an open source project; everyone is welcome to attend any of the educational enablement sessions.  We encourage anyone intersted to please registry via Eventbrite. We can use this registry to inform you of any important information about Devtoberfest.
+
+If you want to particpate in the contest/building challenge, then you must register as an individual with Eventbrite.
+
+In order to track the open source projects that will be judged, we also ask that add the URL to your project in the [entry.json](entry.json) via pull request.
+
+## Enablement Topics
+
+## Schedule
+
+We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). Each topic page will also list the detailed dates, times and URLs. Once you [registry for the event](#how-to-enter), we will also notify you via mail of the major events in the schedule.
+
+## Questions or Comments
+
+Questions about the event?  Or the judging?  Need some help getting your open source project?  Or maybe you have a follow up question after participating in one of the educational enablement sessions?  For any question or comment related to Devtoberfest we ask that you please [create an issue in this repository](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new)
+
+## Legal Stuff
 
 ## License
 

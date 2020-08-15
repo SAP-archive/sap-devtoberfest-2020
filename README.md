@@ -49,17 +49,29 @@ If you want to particpate in the contest/building challenge, then you must regis
 
 In order to track the open source projects that will be judged, we also ask that add the URL to your project in the [entry.json](entry.json) via pull request.
 
+## Open Source and SAP
+
+For more infromation on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html)
+
+If you are an SAP employee and interested in participating in this event; we also welcome your contributions. However please review this [SAP internal only WIKI link on the process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Contributing).
+
 ## Enablement Topics
+
+The topics for our educational enablement sessions are all listed here: [https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics)
+
+This is an initial list and we will be adding more sessions and details as the event progresses.
 
 ## Schedule
 
-We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). Each topic page will also list the detailed dates, times and URLs. Once you [registry for the event](#how-to-enter), we will also notify you via mail of the major events in the schedule.
+We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). [Each topic page](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics) will also list the detailed dates, times and URLs. Once you [register for the event](#how-to-enter), we will also notify you via mail of the major events in the schedule.
 
 ## Questions or Comments
 
 Questions about the event?  Or the judging?  Need some help getting your open source project?  Or maybe you have a follow up question after participating in one of the educational enablement sessions?  For any question or comment related to Devtoberfest we ask that you please [create an issue in this repository](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new)
 
 ## Legal Stuff
+
+The legal terms and conditions of for this event are detailed in the [TOC](TOC.md)
 
 ## License
 

@@ -59,3 +59,13 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 
 Find more information about this session on the [topic page](./hana-multimodel/README.md).
+
+## Google Chrome Extensions
+
+"Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences. They are built on web technologies such as HTML, JavaScript, and CSS.
+
+An extension must fulfill a single purpose that is narrowly defined and easy to understand. A single extension can include multiple components and a range of functionality, as long as everything contributes towards a common purpose.", so the [short description of Google Chrome Extensions](https://developer.chrome.com/extensions). 
+
+Do you use some chrome extensions yourself and have often thought about writing a chrome extension yourself, but you don't know what's necessary and what the first steps are? We interviewed Jeffrey Groneberg, Principal Cloud Solution Architect, about his first Chrome Extension. 
+
+Find more information about this session on the [topic page](./hana-multimodel/README.md).

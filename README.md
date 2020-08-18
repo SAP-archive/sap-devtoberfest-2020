@@ -51,7 +51,7 @@ In order to track the open source projects that will be judged, we also ask that
 
 ## Open Source and SAP
 
-For more infromation on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html).
+For more information on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html).
 
 If you are an SAP employee and interested in participating in this event; we also welcome your contributions. However please review this [SAP internal only wiki link on the process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Contributing).
 

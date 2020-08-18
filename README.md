@@ -16,7 +16,7 @@
 
 **Devtoberfest from SAP – An open celebration of what makes us developers – Coding and Collaboration!**
 
-This is an eight week celebration by developers, for developers to kick off the SAP TechEd 2020 season
+This is an eight week celebration by developers, for developers to kick off the SAP TechEd 2020 season.
 
 * The event will launch with 7 weeks of technical enablement/educational online sessions open to the entire community to highlight key technologies and techniques and plant seed ideas
   * Topics will include: Kyma, CAP, Fiori, ABAP, SCP APIs, Workflow, Building VSCode Extensions, Running Community Open Source Projects
@@ -43,35 +43,35 @@ This is an eight week celebration by developers, for developers to kick off the 
 
 ## How to Enter
 
-Even if you aren't sure yet if you want to create or contribute to an open source project; everyone is welcome to attend any of the educational enablement sessions.  We encourage anyone intersted to please registry via Eventbrite. We can use this registry to inform you of any important information about Devtoberfest.
+Even if you aren't sure yet if you want to create or contribute to an open source project, everyone is welcome to attend any of the educational enablement sessions.  We encourage anyone interested to please register via Eventbrite. We can use this registration to inform you of any important information about Devtoberfest.
 
 If you want to particpate in the contest/building challenge, then you must register as an individual with Eventbrite.
 
-In order to track the open source projects that will be judged, we also ask that add the URL to your project in the [entry.json](entry.json) via pull request.
+In order to track the open source projects that will be judged, we also ask that you add the URL to your project in the [entry.json](entry.json) via pull request.
 
 ## Open Source and SAP
 
-For more infromation on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html)
+For more infromation on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html).
 
-If you are an SAP employee and interested in participating in this event; we also welcome your contributions. However please review this [SAP internal only WIKI link on the process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Contributing).
+If you are an SAP employee and interested in participating in this event; we also welcome your contributions. However please review this [SAP internal only wiki link on the process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Contributing).
 
 ## Enablement Topics
 
-The topics for our educational enablement sessions are all listed here: [https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics)
+The topics for our educational enablement sessions are all listed here: [https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics).
 
 This is an initial list and we will be adding more sessions and details as the event progresses.
 
 ## Schedule
 
-We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). [Each topic page](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics) will also list the detailed dates, times and URLs. Once you [register for the event](#how-to-enter), we will also notify you via mail of the major events in the schedule.
+We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). [Each topic page](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics) will also list the detailed dates, times and URLs. Once you [register for the event](#how-to-enter), we will also notify you via e-mail of the major events in the schedule.
 
 ## Questions or Comments
 
-Questions about the event?  Or the judging?  Need some help getting your open source project?  Or maybe you have a follow up question after participating in one of the educational enablement sessions?  For any question or comment related to Devtoberfest we ask that you please [create an issue in this repository](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new)
+Questions about the event?  Or the judging?  Need some help getting your open source project?  Or maybe you have a follow up question after participating in one of the educational enablement sessions?  For any question or comment related to Devtoberfest we ask that you please [create an issue in this repository](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new).
 
 ## Legal Stuff
 
-The legal terms and conditions of for this event are detailed in the [TOC](TOC.md)
+The legal terms and conditions of for this event are detailed in the [TOC](TOC.md).
 
 ## License
 

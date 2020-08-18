@@ -45,7 +45,7 @@ This is an eight week celebration by developers, for developers to kick off the 
 
 Even if you aren't sure yet if you want to create or contribute to an open source project, everyone is welcome to attend any of the educational enablement sessions.  We encourage anyone interested to please register via Eventbrite. We can use this registration to inform you of any important information about Devtoberfest.
 
-If you want to particpate in the contest/building challenge, then you must register as an individual with Eventbrite.
+If you want to particpate in the contest/building challenge, then you must [register as an individual with Eventbrite](https://www.eventbrite.com/e/devtoberfest-registration-116904322977).
 
 In order to track the open source projects that will be judged, we also ask that you add the URL to your project in the [entry.json](entry.json) via pull request.
 

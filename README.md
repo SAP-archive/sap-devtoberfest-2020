@@ -24,8 +24,8 @@ This is an eight week celebration by developers, for developers to kick off the 
 * The Challenge:
   * Come up with your own developer problem – for the pure love of being a developer. Build something that makes your fellow SAP developers lives better and do so in open source so everyone can share in it. All projects during the build sprint will be given back to the SAP developer community. What you decide to build could be a tool, a library, or even just a code sample. Or an enhancement to an existing community project
   * The real “prize” here is for the whole developer community which will benefit from what is built or started during this event
-* Github is the open platform for this entire event! Code, collaboration, planning, submission, support from SAP, etc - - all via Github
-  * Even our planning and communication will be done primarily via Github: <https://github.com/sap-samples/sap-devtoberfest-2020>
+* GitHub is the open platform for this entire event! Code, collaboration, planning, submission, support from SAP, etc - - all via GitHub
+  * Even our planning and communication will be done primarily via GitHub: <https://github.com/sap-samples/sap-devtoberfest-2020>
 * The whole SAP developer community will be encouraged to participate.  Like any open source project teams are encouraged to do as much as possible in the open and even accept issues and pull requests from non-team members during the build week
 * Throughout the week of the main build sprint we will also do live streams to interview and expose the community to the teams competing. So this is also a great opportunity to get more exposure for your community project
 * The output will be code published to a public, git-based repository and a maximum 6 minute video demo of the project (ideally linked from the readme of your project)

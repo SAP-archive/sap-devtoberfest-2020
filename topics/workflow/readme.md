@@ -1,16 +1,16 @@
 # SAP Cloud Platform Workflow
 
-Here you'll find content to help you level up with the [SAP Cloud Platform Workflow](https://help.sap.com/viewer/product/WORKFLOW_SERVICE/Cloud/en-US) service.
+Here you'll find content to help you level up with the [SAP Cloud Platform Workflow](https://help.sap.com/viewer/product/WORKFLOW_SERVICE/Cloud/en-US) service. This content consists of exercises, videos of those exercises, and an Office Hours session. 
 
-## Learning by doing
+All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them.
 
-### Exercises
+## Exercises
 
 We have a set of exercises that help you get to know the workflow service. They take you through a series of tasks, covering everything from setting the service and tools up in an SAP Cloud Platform trial account, through installing and configuring an SAP Cloud Connector, just in case you want to make service calls to on-prem systems, to creating your own workflow definitions, invoking them directly and also through the Workflow APIs.
 
 You can follow these exercises yourself, at your own pace, using the resources in the [Virtual Event - SAP Cloud Platform Workflow](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/) repository. 
 
-### Videos 
+## Videos 
 
 We've also recorded these exercises individually, for you to watch. We'll be airing them all for the first time on YouTube as [premieres](https://support.google.com/youtube/answer/9080341). Premieres are videos that appear on YouTube for the first time at a specific date and time, and the video author is usually there in the chat and available to answer questions on the content. 
 
@@ -29,19 +29,23 @@ Here's what the premiere schedule looks like:
 
 There's also a short (5 mins) video that gives [an introduction to the exercise content](https://youtu.be/KlNLbSxsM6s) that you can watch now or any time. 
 
+## Office hours
 
-## The content - video and exercise links
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold an hour-long "office oours" session in the week following the video premieres. It will be in the form of a Zoom meeting and scheduled for 1400 BST (UTC+1) on Wed 02 Sep. To join the meeting at that time, use this [Zoom meeting link](https://sap-se.zoom.us/j/99812944506).
+
+
+# The content - video & exercise links
 
 | Video | Description | Length |
 | - | - | - |
 | [![Introduction](thumbnail-0.jpg)](https://youtu.be/KlNLbSxsM6s) | [An introduction to the exercise content](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event) | 05 mins |
 | [![Exercise 01](thumbnail-1.jpg)](https://youtu.be/DyjM-VoRLjw)  | [Exercise 01 - Setting up for Workflow on SAP Cloud Platform](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/01/readme.md)  <br><br>[Premieres](https://youtu.be/DyjM-VoRLjw) on Mon 24 Aug at 1100 BST (UTC+1) | 16 mins |
 | [![Exercise 02](thumbnail-2.jpg)](https://youtu.be/tG_oUPs67CY) | [Exercise 02 - Deploying the Workflow tools](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/02/readme.md) <br><br>[Premieres](https://youtu.be/tG_oUPs67CY) on Mon 24 Aug at 1130 BST (UTC+1) | 18 mins |
-| [![Exercise 03](thumbnail-3.jpg)](https://youtu.be/JjiMA9gT8ss) | [Exercise 03 - Installing & configuring the SAP Cloud Connector](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/03/readme.md) <br><br>[Premieres](https://youtu.be/JjiMA9gT8ss) on Mon 24 Aug at 1130 BST (UTC+1) | 20 mins |
-| [![Exercise 04](thumbnail-4.jpg)](https://youtu.be/47XVi1B2KyI) | [Exercise 04 - Establishing a destination in SAP Cloud Platform](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/04/readme.md) <br><br>[Premieres](https://youtu.be/47XVi1B2KyI) on Mon 24 Aug at 1130 BST (UTC+1) | 15 mins |
-| [![Exercise 05](thumbnail-5.jpg)](https://youtu.be/P4EVoc-lmAI) | [Exercise 05 - Creating, deploying & instantiating a simple workflow](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/05/readme.md) <br><br>[Premieres](https://youtu.be/P4EVoc-lmAI) on Mon 24 Aug at 1130 BST (UTC+1) | 19 mins |
-| [![Exercise 06](thumbnail-6.jpg)](https://youtu.be/SKfEfYOVQYA) | [Exercise 06 - Exploring the API Hub and the Workflow API](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/06/readme.md) <br><br>[Premieres](https://youtu.be/SKfEfYOVQYA) on Mon 24 Aug at 1130 BST (UTC+1) | 18 mins |
-| [![Exercise 07](thumbnail-7.jpg)](https://youtu.be/TVirKnU86cw) | [Exercise 07 - Calling the Workflow API from Postman](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/07/readme.md) <br><br>[Premieres](https://youtu.be/TVirKnU86cw) on Mon 24 Aug at 1130 BST (UTC+1) | 11 mins |
-| [![Exercise 08](thumbnail-8.jpg)](https://youtu.be/ZNg60jB8jik) | [Exercise 08 - Adding a Service Task to the workflow definition](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/08/readme.md) <br><br>[Premieres](https://youtu.be/ZNg60jB8jik) on Mon 24 Aug at 1130 BST (UTC+1) | 09 mins |
-| [![Exercise 09](thumbnail-9.jpg)](https://youtu.be/O0ye689G-1g) | [Exercise 09 - Adding a User Task to the workflow definition](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/09/readme.md) <br><br>[Premieres](https://youtu.be/O0ye689G-1g) on Mon 24 Aug at 1130 BST (UTC+1) | 14 mins |
-| [![Exercise 10](thumbnail-10.jpg)](https://youtu.be/UDF1xHUpL2Y) | [Exercise 10 - Accessing contextual information in a Script Task](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/10/readme.md) <br><br>[Premieres](https://youtu.be/UDF1xHUpL2Y) on Mon 24 Aug at 1130 BST (UTC+1) | 09 mins |
+| [![Exercise 03](thumbnail-3.jpg)](https://youtu.be/JjiMA9gT8ss) | [Exercise 03 - Installing & configuring the SAP Cloud Connector](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/03/readme.md) <br><br>[Premieres](https://youtu.be/JjiMA9gT8ss) on Tue 25 Aug at 1100 BST (UTC+1) | 20 mins |
+| [![Exercise 04](thumbnail-4.jpg)](https://youtu.be/47XVi1B2KyI) | [Exercise 04 - Establishing a destination in SAP Cloud Platform](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/04/readme.md) <br><br>[Premieres](https://youtu.be/47XVi1B2KyI) on Tue 25 Aug at 1130 BST (UTC+1) | 15 mins |
+| [![Exercise 05](thumbnail-5.jpg)](https://youtu.be/P4EVoc-lmAI) | [Exercise 05 - Creating, deploying & instantiating a simple workflow](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/05/readme.md) <br><br>[Premieres](https://youtu.be/P4EVoc-lmAI) on Wed 26 Aug at 1100 BST (UTC+1) | 19 mins |
+| [![Exercise 06](thumbnail-6.jpg)](https://youtu.be/SKfEfYOVQYA) | [Exercise 06 - Exploring the API Hub and the Workflow API](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/06/readme.md) <br><br>[Premieres](https://youtu.be/SKfEfYOVQYA) on Wed 26 Aug at 1130 BST (UTC+1) | 18 mins |
+| [![Exercise 07](thumbnail-7.jpg)](https://youtu.be/TVirKnU86cw) | [Exercise 07 - Calling the Workflow API from Postman](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/07/readme.md) <br><br>[Premieres](https://youtu.be/TVirKnU86cw) on Thu 27 Aug at 1100 BST (UTC+1) | 11 mins |
+| [![Exercise 08](thumbnail-8.jpg)](https://youtu.be/ZNg60jB8jik) | [Exercise 08 - Adding a Service Task to the workflow definition](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/08/readme.md) <br><br>[Premieres](https://youtu.be/ZNg60jB8jik) on Thu 27 Aug at 1130 BST (UTC+1) | 09 mins |
+| [![Exercise 09](thumbnail-9.jpg)](https://youtu.be/O0ye689G-1g) | [Exercise 09 - Adding a User Task to the workflow definition](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/09/readme.md) <br><br>[Premieres](https://youtu.be/O0ye689G-1g) on Fri 28 Aug at 1100 BST (UTC+1) | 14 mins |
+| [![Exercise 10](thumbnail-10.jpg)](https://youtu.be/UDF1xHUpL2Y) | [Exercise 10 - Accessing contextual information in a Script Task](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/10/readme.md) <br><br>[Premieres](https://youtu.be/UDF1xHUpL2Y) on Fri 28 Aug at 1130 BST (UTC+1) | 09 mins |

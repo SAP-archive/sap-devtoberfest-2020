@@ -12,14 +12,14 @@ The videos are based on a series of exercises. You can follow these exercises yo
 
 | Video     | Description                                                        | Length  |
 | --------- | ------------------------------------------------------------------ | ------- |
-| Thumbnail | SAP Cloud Application Programming Model - The Big Picture]         | xx mins |
-| Thumbnail | Exercise 01 - Get to know the Development Tools                    | xx mins |
-| Thumbnail | Exercise 02 - Generate your first CAP application and play with it | xx mins |
-| Thumbnail | Exercise 03 - Add a database connection to your project            | xx mins |
-| Thumbnail | Exercise 04 - Add sample data using CSV files and call the app     | xx mins |
-| Thumbnail | Exercise 05 - enhance the data model and use the cds cli           | xx mins |
-| Thumbnail | Exercise 06 - TBD                                                  | xx mins |
-| Thumbnail | Exercise 07 - TBD                                                  | xx mins |
-| Thumbnail | Exercise 08 - TBD                                                  | xx mins |
-| Thumbnail | Exercise 09 - TBD                                                  | xx mins |
-| Thumbnail | Exercise 10 - TBD                                                  | xx mins |
+| tbd | SAP Cloud Application Programming Model - The Big Picture]         | tbd     |
+| tbd | Exercise 01 - Get to know the Development Tools                    | tbd     |
+| tbd | Exercise 02 - Generate your first CAP application and play with it | tbd     |
+| tbd | Exercise 03 - Add a database connection to your project            | tbd     |
+| tbd | Exercise 04 - Add sample data using CSV files and call the app     | tbd     |
+| tbd | Exercise 05 - enhance the data model and use the cds cli           | tbd     |
+| tbd | Exercise 06 - Enhancing the service with annotations               | tbd     |
+| tbd | Exercise 07 - Defining a second service                            | tbd     |
+| tbd | Exercise 08 - Adding custom logic, and debugging                   | tbd     |
+| tbd | Exercise 09 - Introducing an app at the UI layer                   | tbd     |
+| tbd | Exercise 10 - Deploy to SAP Cloud Platform and SAP HANA Cloud      | tbd     |

@@ -18,8 +18,8 @@
 
 This is an eight week celebration by developers, for developers to kick off the SAP TechEd 2020 season.
 
-* The event will launch with 7 weeks of technical enablement/educational online sessions open to the entire community to highlight key technologies and techniques and plant seed ideas
-  * Topics will include: Kyma, CAP, Fiori, ABAP, SCP APIs, Workflow, Building VSCode Extensions, Running Community Open Source Projects
+* The event will launch with 8 weeks of technical enablement/educational online sessions open to the entire community to highlight key technologies and techniques and plant seed ideas
+  * Topics will include: Kyma, Cloud Application Programming Model, Fiori, ABAP, SAP Cloud Platform APIs, Workflow, Building VSCode Extensions, Running Community Open Source Projects
 * Then event will culminate in a one week, build sprint
 * The Challenge:
   * Come up with your own developer problem – for the pure love of being a developer. Build something that makes your fellow SAP developers lives better and do so in open source so everyone can share in it. All projects during the build sprint will be given back to the SAP developer community. What you decide to build could be a tool, a library, or even just a code sample. Or an enhancement to an existing community project

@@ -1,6 +1,6 @@
 # Prerequisites
 
-There are hardware, software, and service prerequisites for participating in this Virtual Event.
+There are hardware, software, and service prerequisites for participating in this enablement session.
 
 Please ensure you complete all the prerequisites **before you start watching the vieos**. In case you need help in setting up these requirements, don't hesitate to raise an issue in this repository. There will also be chat support during the live premier of the enablement session on YouTube.
 
@@ -33,7 +33,7 @@ In case some entitlements are missing, or you are unsure how to find the entitle
 
 ## Software
 
-Before the Virtual Event, participants must ensure they have the following installed on their laptops:
+Before starting the enablement session, participants must ensure they have the following installed on their laptops:
 
 - Chrome (latest version) : [https://www.google.com/chrome/](https://www.google.com/chrome/)
 

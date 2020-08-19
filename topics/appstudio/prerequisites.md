@@ -2,7 +2,7 @@
 
 There are hardware, software, and service prerequisites for participating in this enablement session.
 
-Please ensure you complete all the prerequisites **before you start watching the vieos**. In case you need help in setting up these requirements, don't hesitate to raise an issue in this repository. There will also be chat support during the live premier of the enablement session on YouTube.
+Please ensure you complete all the prerequisites **before you start watching the videos**. In case you need help in setting up these requirements, don't hesitate to raise an issue in this repository. There will also be chat support during the live premiere of the enablement session on YouTube.
 
 ## Hardware
 
@@ -45,8 +45,8 @@ Each attendee must have an account on the SAP NetWeaver Gateway Demo system "ES5
 ## Recommendations
 
 
-### Set Up
-We recommend that you have at least two monitors during the exericses. This will allow you do all development-related actitivties on desktop 1 while you can use desktop 2 to display the YouTube video and the exercise tasks. 
+### Set-Up
+We recommend that you have at least two monitors during the exercises. This will allow you to do all development-related actitvities on desktop 1 while you can use desktop 2 to display the YouTube video and the exercise tasks. 
 
 
 ### Attendees

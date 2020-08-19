@@ -18,7 +18,7 @@ For you, this means that you can set a reminder for the premieres to get notific
 
 Don't worry if you can't make a premiere, though! After the premiere is over, the video will be available for anyone to watch at any time after that, just like a normal YouTube video (and it will keep the same URL). 
 
-We've scheduled the premieres for the videos of these 10 exercises over 5 consecutive days in August - two a day, between Mon 24 Aug and Fri 28 Aug. They'll be at the same time on each of those days, 1100 BST (UTC+1). Note that each exercise video is less than 30 mins in length, meaning that a single, one-hour block will be enough for two exercise video premieres, and meaning also that we can use the time between the end of the first video and the start of the second (at 1130) to continue the chat if necessary.
+We've scheduled the premieres for the videos of these 10 exercises over 5 consecutive days in August - two a day, between Mon 24 Aug and Fri 28 Aug. They'll be at the same time on each of those days, contained in a one-hour block starting at 1100 BST (UTC+1). Note that each exercise video is less than 30 mins in length, meaning that we can use the time between the end of the first video and the start of the second (at 1130) to continue the chat if necessary.
 
 Here's what the premiere schedule looks like:
 

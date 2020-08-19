@@ -29,9 +29,9 @@ Here's what the premiere schedule looks like:
 
 There's also a short (5 mins) video that gives [an introduction to the exercise content](https://youtu.be/KlNLbSxsM6s) that you can watch now or any time. 
 
-## Office hours
+## Office hours session
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold an hour-long "office oours" session in the week following the video premieres. It will be in the form of a Zoom meeting and scheduled for 1400 BST (UTC+1) on Wed 02 Sep. To join the meeting at that time, use this [Zoom meeting link](https://sap-se.zoom.us/j/99812944506).
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold an hour-long "office hours" session in the week following the video premieres. It will be in the form of a Zoom meeting and scheduled for 1400 BST (UTC+1) on Wed 02 Sep. To join the meeting at that time, use this [Zoom meeting link](https://sap-se.zoom.us/j/99812944506).
 
 
 # The content - video & exercise links

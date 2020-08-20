@@ -16,7 +16,7 @@ The videos are based on a series of exercises. You can follow these exercises yo
 | tbd | Exercise 01 - Get to know the Development Tools                    | tbd     |
 | tbd | Exercise 02 - Create a new CAP project                             | tbd     |
 | tbd | Exercise 03 - Associations & adding persistence                    | tbd     |
-| tbd | Exercise 04 - Add sample data using CSV files and call the app     | tbd     |
+| tbd | Exercise 04 - Add sample data using CSV files & using Rest Client  | tbd     |
 | tbd | Exercise 05 - enhance the data model and use the cds cli           | tbd     |
 | tbd | Exercise 06 - Enhancing the service with annotations               | tbd     |
 | tbd | Exercise 07 - Defining a second service                            | tbd     |

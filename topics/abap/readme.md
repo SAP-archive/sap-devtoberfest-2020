@@ -8,7 +8,7 @@ We have a set of exercises that will teach you the basic fundamentals of HTTP Co
 
 | Video | Description | Length |
 | - | - | - |
-| [![Overview](thumbnail-00.jpg)]() | Overview Session | 8 mins |
+<!--| [![Overview](thumbnail-00.jpg)]() | Overview Session | 45 mins | -->
 | [![Exercise 1](thumbnail-01.jpg)]() | [Exercise 1 - Hello World](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex1) | 8 mins |
 | [![Exercise 2](thumbnail-02.jpg)]()  | [Exercise 2 - Consuming HTTP Services](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex2) | 11 mins |
 | [![Exercise 3](thumbnail-03.jpg)]()  | [Exercise 3 - ABAP RESTful Application Programming Model, Unmanaged Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex3) | 38 mins |

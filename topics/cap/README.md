@@ -12,7 +12,7 @@ The videos are based on a series of exercises. You can follow these exercises yo
 
 | Video     | Description                                                        | Length  |
 | --------- | ------------------------------------------------------------------ | ------- |
-| tbd | SAP Cloud Application Programming Model - The Big Picture]         | tbd     |
+| tbd | SAP Cloud Application Programming Model - The Big Picture          | tbd     |
 | tbd | Exercise 01 - Get to know the Development Tools                    | tbd     |
 | tbd | Exercise 02 - Create a new CAP project                             | tbd     |
 | tbd | Exercise 03 - Associations & adding persistence                    | tbd     |

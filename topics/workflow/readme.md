@@ -1,6 +1,6 @@
 # SAP Cloud Platform Workflow
 
-Here you'll find content to help you level up with the [SAP Cloud Platform Workflow](https://help.sap.com/viewer/product/WORKFLOW_SERVICE/Cloud/en-US) service. This content consists of **exercises**, **videos** of those exercises, and an **office hours** session. 
+Here you'll find content to help you level up with the [SAP Cloud Platform Workflow](https://help.sap.com/viewer/product/WORKFLOW_SERVICE/Cloud/en-US) service. This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions. 
 
 All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos. 
 
@@ -29,7 +29,7 @@ Here's what the premiere schedule looks like:
 
 There's also a short (5 mins) video that gives [an introduction to the exercise content](https://youtu.be/KlNLbSxsM6s) that you can watch now or any time. 
 
-## Office hours session
+## Office hours sessions
 
 In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" session in the week following the video premieres, on Wed 02 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 

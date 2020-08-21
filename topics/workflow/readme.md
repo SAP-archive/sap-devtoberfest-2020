@@ -31,7 +31,7 @@ There's also a short (5 mins) video that gives [an introduction to the exercise 
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" session in the week following the video premieres, on Wed 02 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 02 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
 - 0800 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/95873935644)
 - 1400 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/99812944506)

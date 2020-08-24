@@ -1,5 +1,5 @@
 {
-  "name": "jung-thomas",
+  "name": "sap-devtoberfest-2020",
   "version": "1.0.0",
   "description": "Devtoberfest 2020 build Contest Projects",
   "main": "./actions/build.js",

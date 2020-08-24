@@ -18,7 +18,7 @@ jobs:
       - name: Install packages
         run: npm install
 
-      - name: (Re)build README
+      - name: (Re)build entries.md
         run: npm run build 
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}         

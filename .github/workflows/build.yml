@@ -23,13 +23,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}        
 
-      - name: Commit changes if required
-        if: ${{ success() }}
-        run: |
-          git config --global user.email "thomas.jung@sap.com"
-          git config --global user.name "jung-thomas"
-          git add entries.md
-          git commit -m 'update entries.md' || exit 0
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}           
+          

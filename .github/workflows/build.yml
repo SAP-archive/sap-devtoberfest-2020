@@ -1,5 +1,6 @@
 name: Entries builder
 on:
+  workflow_dispatch:
   pull_request:
     types: [closed]
       

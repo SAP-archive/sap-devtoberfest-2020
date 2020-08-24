@@ -23,13 +23,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}        
 
-      - name: Check for changes (fail if none)
-        
-        run: |
-          ! git diff
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
-
       - name: Commit changes if required
         if: ${{ success() }}
         run: |

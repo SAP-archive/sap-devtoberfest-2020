@@ -7,7 +7,7 @@ const main = async _ => {
 
         const auth = createActionAuth()
         const authentication = await auth()
-        const octokit = new Octokit({ auth: authentication })
+        const octokit = new Octokit({ auth: authentication.token })
         const gh = require('parse-github-url')
 
         const Handlebars = require('handlebars')

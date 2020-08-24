@@ -19,6 +19,7 @@ const main = async _ => {
         let list = text.split("\n")
         list.sort()
 
+        console.log(`#Devtoberfest 2020 Project Entries`)
         for (const item of list) {
             if (item.includes('https://github.com/')) {
                 const parts = gh(item)
@@ -31,6 +32,7 @@ const main = async _ => {
                 console.log(template({ data }))
             }
         }
+        console.log(`![Entries builder](https://github.com/sap-samples/sap-devtoberfest-2020/workflows/Entries%20builder/badge.svg)`)
     } catch (error) {
         console.log(`${error}`)
         process.exit(1)

@@ -1,8 +1,8 @@
 name: Entries builder
 on:
   workflow_dispatch:
-  pull_request:
-    types: [closed]
+  schedule:
+    - cron:  '0 */6 * * *'
       
 jobs:
   build:

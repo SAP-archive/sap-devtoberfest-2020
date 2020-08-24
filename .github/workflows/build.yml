@@ -27,7 +27,9 @@ jobs:
         
         run: |
           ! git diff --quiet
-          
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
+
       - name: Commit changes if required
         if: ${{ success() }}
         run: |
@@ -36,3 +38,5 @@ jobs:
           git add README.md
           git commit -m 'update README' || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}           

@@ -1,6 +1,10 @@
 # Devtoberfest from SAP
 <img src="./Devtoberfest2020.png" width="200">
 
+## This week (Week 1 : 24 → 28 Aug 2020)
+
+This week we have the SAP Cloud Platform Workflow enablement content for you - as [a series of premieres on YouTube and exercises](topics/workflow/readme.md) for you to do at your own pace. 
+
 ## Description
 
 **Devtoberfest from SAP – An open celebration of what makes us developers – Coding and Collaboration!**

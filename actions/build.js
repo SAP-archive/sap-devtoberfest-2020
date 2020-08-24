@@ -16,7 +16,7 @@ const main = async _ => {
 
 
         text = fs.readFileSync("./entry.txt", "utf8")
-        let list = text.split("\r\n")
+        let list = text.split("\n")
         list.sort()
 
         for (const item of list) {

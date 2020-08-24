@@ -19,7 +19,7 @@ const main = async _ => {
         let list = text.split("\n")
         list.sort()
 
-        console.log(`#Devtoberfest 2020 Project Entries`)
+        console.log(`# Devtoberfest 2020 Project Entries`)
         for (const item of list) {
             if (item.includes('https://github.com/')) {
                 const parts = gh(item)

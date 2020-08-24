@@ -42,6 +42,10 @@ If you want to participate in the contest/building challenge, then you must [reg
 
 In order to track the open source projects that will be judged, we also ask that you add the URL to your project in the [entry.txt](entry.txt) via pull request.
 
+## Entries
+
+For a current list of contest entries and details about their projects, [please see details here](entries.md)
+
 ## Open Source and SAP
 
 For more information on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html).

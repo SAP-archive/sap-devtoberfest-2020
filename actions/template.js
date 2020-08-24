@@ -7,6 +7,6 @@ module.exports = `
 * Created At: {{data.created_at}}, Updated At: {{data.updated_at}}
 * License: [{{data.license.name}}]({{data.license.url}})
 * Owner: [{{data.owner.login}}]({{data.owner.url}})
-* Contributors: [{{data.contributors_url}}]({{contributors_url}})
+* Contributors: [{{data.contributors_url}}]({{data.contributors_url}})
 
 `

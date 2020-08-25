@@ -1,12 +1,51 @@
 # ABAP HTTP Connectivity and ABAP RESTful Application Programming Model(RAP)
 
-## Learning by doing
+**This enablement content is for Devtoberfest Week 1 : 24 → 28 Aug 2020.**
 
-We have a set of exercises that will teach you the basic fundamentals of HTTP Connectivity and the ABAP RESTful Application Programming Model aka RAP. You can follow these exercises yourself, at your own pace, using the resources in the [ABAP Codejam](https://github.com/SAP-samples/abap-exercises-codejam) repository. You can also watch video equivalents of each of the exercises, recorded by the Developer Advocates team, where we run through each of the exercises one by one.
+Here you'll find content to help you level up with the [SAP Cloud Platform Workflow](https://help.sap.com/viewer/product/WORKFLOW_SERVICE/Cloud/en-US) service. This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions. 
 
-### Videos(Coming Soon!!!)  
+All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos. 
 
-| Video | Description | Length |
+## Exercises
+
+We have a set of exercises that help you get to know the workflow service. They take you through a series of tasks, covering everything from setting the service and tools up in an SAP Cloud Platform trial account, through installing and configuring an SAP Cloud Connector, just in case you want to make service calls to on-prem systems, to creating your own workflow definitions, invoking them directly and also through the Workflow APIs.
+
+You can follow these exercises yourself, at your own pace, using the resources in the [ABAP Codejam](https://github.com/SAP-samples/abap-exercises-codejam) repository. 
+
+If you have any questions when doing the exercises for this topic, you can [create an issue](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=sap-cloud-platform-workflow-topic-question.md&title=Ask+a+question) on this repository - please make sure you [use this issue template](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=sap-cloud-platform-workflow-topic-question.md&title=Ask+a+question) with the labels 'topic-workflow' and 'question'. Thanks!
+
+## Videos 
+
+We've also recorded these exercises individually, for you to watch. We'll be airing them all for the first time on YouTube as [premieres](https://support.google.com/youtube/answer/9080341). Premieres are videos that appear initially on YouTube at a specific date and time, and the video author is usually there in the chat and available to answer questions on the content. 
+
+For you, this means that you can set a reminder for the premieres to get notifications of when they're going live, and then join on YouTube to watch the content together, along with your fellow developers and friends, and also with the SAP Developer Advocate responsible. This means that you can chat live with them and ask questions during the event.
+
+Don't worry if you can't make a premiere, though! After the premiere is over, the video will be available for anyone to watch at any time after that, just like a normal YouTube video (and it will keep the same URL). 
+
+We've scheduled the premieres for the videos of these 10 exercises over 5 consecutive days in August - two a day, between Mon 24 Aug and Fri 28 Aug. They'll be at the same time on each of those days, contained in a one-hour block starting at 1100 BST (UTC+1). Note that each exercise video is less than 30 mins in length, meaning that we can use the time between the end of the first video and the start of the second (at 1130) to continue the chat if necessary.
+
+Here's what the premiere schedule looks like:
+
+| Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep |
+| - | - | - | - | - | - |
+| 1100 EDT (UTC+1) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 03](https://youtu.be/JjiMA9gT8ss) | [Exercise 05](https://youtu.be/P4EVoc-lmAI) | [Exercise 07](https://youtu.be/TVirKnU86cw) | 
+| 1130 EDT (UTC+1) | [Exercise 02](https://youtu.be/tG_oUPs67CY) | [Exercise 04](https://youtu.be/47XVi1B2KyI) | [Exercise 06](https://youtu.be/SKfEfYOVQYA) | [Exercise 08](https://youtu.be/ZNg60jB8jik) | 
+
+There's also a short (5 mins) video that gives [an introduction to the exercise content](https://youtu.be/KlNLbSxsM6s) that you can watch now or any time. 
+
+## Office hours sessions
+
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 02 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
+
+- 0800 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/95873935644) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours2.ics)
+- 1400 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/99812944506) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours1.ics)
+
+These office hours sessions are also in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier.
+
+
+# The content - video & exercise links
+
+| Video | Description | Video Length |
 | - | - | - |
 | [![Exercise 1](thumbnail-01.jpg)]() | [Exercise 1 - Hello World](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex1) | 8 mins |
 | [![Exercise 2](thumbnail-02.jpg)]()  | [Exercise 2 - Consuming HTTP Services](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex2) | 11 mins |

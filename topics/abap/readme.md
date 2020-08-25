@@ -28,13 +28,9 @@ Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep |
 | - | - | - | - | - |
-| 1100 EDT (UTC-4) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | 
+| 1100 EDT (UTC-4) | [Introduction](https://youtu.be/) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | 
 | 1115 EDT (UTC-4) |  | [Exercise 02](https://youtu.be/47XVi1B2KyI) |  |  | 
 
-| Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep|  |
-| - | - | - | - | - | - |
-| 1100 BST (UTC+1) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | [Exercise 09](https://youtu.be/O0ye689G-1g) |
-| 1130 BST (UTC+1) |  | [Exercise 02](https://youtu.be/47XVi1B2KyI) | [Exercise 06](https://youtu.be/SKfEfYOVQYA) | [Exercise 08](https://youtu.be/ZNg60jB8jik) | [Exercise 10](https://youtu.be/O0ye689G-1g) |
 
 ## Office hours sessions
 
@@ -53,6 +49,6 @@ These office hours sessions are also in the [public Google Calendar](https://cal
 | [![Exercise 1](thumbnail-01.jpg)]() | [Exercise 1 - Hello World](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex1) | 8 mins |
 | [![Exercise 2](thumbnail-02.jpg)]()  | [Exercise 2 - Consuming HTTP Services](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex2) | 11 mins |
 | [![Exercise 3](thumbnail-03.jpg)]()  | [Exercise 3 - ABAP RESTful Application Programming Model, Unmanaged Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex3) | 38 mins |
-| [![Exercise 4](thumbnail-04.jpg)](https://youtu.be/xUnC0DrCF7U)  | [Exercise 4 - ABAP RESTful Application Programming Model, Managed Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex4) | 34 mins |  
+| [![Exercise 4](thumbnail-04.jpg)]()  | [Exercise 4 - ABAP RESTful Application Programming Model, Managed Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex4) | 34 mins |  
 
 <!-- | [![Overview](thumbnail-00.jpg)]() | Overview Session | 45 mins | -->

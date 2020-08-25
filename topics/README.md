@@ -13,7 +13,7 @@ With the SAP Cloud Platform Workflow service you can build process definitions t
 
 Level up using the content linked from the [SAP Cloud Platform Workflow enablement topic page](./workflow/readme.md).
 
-## ABAP HTTP Connectivity & ABAP RESTful Application Programming(RAP) Model - CW36 - August 31st - September 4th
+## SAP Cloud Platform, ABAP Environment & ABAP RESTful Application Programming Model(RAP) - CW36 - August 31st - September 4th
 
 Topic Owner: [Rich Heilman](https://github.com/rich-heilman)
 

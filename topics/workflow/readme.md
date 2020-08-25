@@ -45,7 +45,7 @@ These office hours sessions are also in the [public Google Calendar](https://cal
 
 # The content - video & exercise links
 
-| Video | Description | Length |
+| Video | Description | Video Length |
 | - | - | - |
 | [![Introduction](thumbnail-0.jpg)](https://youtu.be/KlNLbSxsM6s) | [An introduction to the exercise content](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event) | 05 mins |
 | [![Exercise 01](thumbnail-1.jpg)](https://youtu.be/DyjM-VoRLjw)  | [Exercise 01 - Setting up for Workflow on SAP Cloud Platform](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/01/readme.md)  <br><br>[Premieres](https://youtu.be/DyjM-VoRLjw) on Mon 24 Aug at 1100 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_ex1.ics) | 16 mins |

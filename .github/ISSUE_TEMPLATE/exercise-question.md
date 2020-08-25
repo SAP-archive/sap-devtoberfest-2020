@@ -1,7 +1,7 @@
 ---
 name: Exercise question
 about: Use this to ask a question about the exercise you're doing
-title: Ask a question
+title: Summarize your question here
 labels: question
 assignees: ''
 

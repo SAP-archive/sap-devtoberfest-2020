@@ -3,7 +3,7 @@
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
 level up before you get started.
 
-[Current Week's Content](#sap-cloud-platform-workflow)
+[Current Week's Content](./workflow/readme.md)
 
 ## SAP Cloud Platform Workflow - CW35 - August 24th - 28th
 
@@ -13,7 +13,7 @@ With the SAP Cloud Platform Workflow service you can build process definitions t
 
 Level up using the content linked from the [SAP Cloud Platform Workflow enablement topic page](./workflow/readme.md).
 
-## ABAP HTTP Connectivity & ABAP RESTful Application Programming(RAP) Model
+## ABAP HTTP Connectivity & ABAP RESTful Application Programming(RAP) Model - CW36 - August 31st - September 4th
 
 Topic Owner: [Rich Heilman](https://github.com/rich-heilman)
 
@@ -21,7 +21,17 @@ In this overview of the ABAP RESTful Application Programming Model, learn how to
 
 Find more information about this session on the [topic page](./abap/readme.md).
 
-## SAP Business Application Studio for Fiori Development
+## SAP Cloud Application Programming Model (CAP) - CW37 - September 7th - 11th
+
+Topic Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom Jung](https://github.com/jung-thomas)
+
+"The SAP Cloud Application Programming Model is a framework of languages, libraries, and tools for building enterprise-grade services and applications. It guides developers along a ‘golden path’ of proven best practices and a great wealth of out-of-the-box solutions to recurring tasks."
+
+Get to know the Big Picture of the SAP Cloud Application Programming Model (CAP) and learn how to build your first standalone application using SAP Business Application Studio, CDS, Node.js. SQLite, SAP HANA Cloud and SAP Cloud Platform. 
+
+Find more information about this session on the [topic page](./cap/README.md).
+
+## SAP Business Application Studio for Fiori Development - CW38 - September 14th - 18th
 
 Topic Owner: [Marius Obert](https://github.com/IObert)
 
@@ -29,7 +39,17 @@ This session will provide the first glimpse of SAP's latest development environm
 
 Find more information about this session on the [topic page](./appstudio/readme.md).
 
-## SAP Kyma Runtime
+## SAP HANA: Multi-model - CW39 - September 21 - 25th
+
+Topic Owners: [Mathias Kemeter](https://github.com/mkemeter), [Markus Fath](https://github.com/fath-markus) and [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
+
+**SAP HANA’s Spatial Engine** allows you to process and analyze spatial data like a geo-ninja. Learn how to handle geo-spatial data and derive advanced insights on an SQL level. Since SAP HANA is following the OGC standards, you will be easily able to visualize your work on almost any map.
+
+Networks are all around us - road networks, social networks, supplier networks, communication networks etc. The **SAP HANA Graph engine** allows you to model, process, and analyze connected data. Learn how to work with graphs within the SAP HANA database.
+
+Find more information about this session on the [topic page](./hana-multimodel/README.md).
+
+## SAP Kyma Runtime - CW41 - October 5th - 9th
 
 Topic Owners:  [Kevin Muessig](https://github.com/KevinMuessig) and [Josh Bentley](https://github.com/jarjarbentley)
 
@@ -40,27 +60,6 @@ SAP has launched the SAP Kyma Runtime, officially “SAP Cloud Platform Extensio
 Learn what Kyma is and how you can adopt it as a company to better extend your existing On-Prem and Cloud solutions.
 
 Find more information about this session on the [topic page](./kyma/readme.md).
-
-## SAP Cloud Application Programming Model (CAP)
-
-Topic Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom Jung](https://github.com/jung-thomas)
-
-"The SAP Cloud Application Programming Model is a framework of languages, libraries, and tools for building enterprise-grade services and applications. It guides developers along a ‘golden path’ of proven best practices and a great wealth of out-of-the-box solutions to recurring tasks."
-
-Get to know the Big Picture of the SAP Cloud Application Programming Model (CAP) and learn how to build your first standalone application using SAP Business Application Studio, CDS, Node.js. SQLite, SAP HANA Cloud and SAP Cloud Platform. 
-
-Find more information about this session on the [topic page](./cap/README.md).
-
-## SAP HANA: Multi-model
-
-Topic Owners: [Mathias Kemeter](https://github.com/mkemeter), [Markus Fath](https://github.com/fath-markus) and [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
-
-**SAP HANA’s Spatial Engine** allows you to process and analyze spatial data like a geo-ninja. Learn how to handle geo-spatial data and derive advanced insights on an SQL level. Since SAP HANA is following the OGC standards, you will be easily able to visualize your work on almost any map.
-
-Networks are all around us - road networks, social networks, supplier networks, communication networks etc. The **SAP HANA Graph engine** allows you to model, process, and analyze connected data. Learn how to work with graphs within the SAP HANA database.
-
-
-Find more information about this session on the [topic page](./hana-multimodel/README.md).
 
 ## Google Chrome Extensions
 

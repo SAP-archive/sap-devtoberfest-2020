@@ -31,7 +31,7 @@ Here's what the premiere schedule looks like:
 | 1100 EDT (UTC-4) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | 
 | 1115 EDT (UTC-4) |  | [Exercise 02](https://youtu.be/47XVi1B2KyI) |  |  | 
 
-| Date / Time | Mon 24 Aug | Tue 25 Aug | Wed 26 Aug | Thu 27 Aug | Fri 28 Aug |
+| Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep|  |
 | - | - | - | - | - | - |
 | 1100 BST (UTC+1) | [Exercise 01](https://youtu.be/DyjM-VoRLjw) | [Exercise 03](https://youtu.be/JjiMA9gT8ss) | [Exercise 05](https://youtu.be/P4EVoc-lmAI) | [Exercise 07](https://youtu.be/TVirKnU86cw) | [Exercise 09](https://youtu.be/O0ye689G-1g) |
 | 1130 BST (UTC+1) | [Exercise 02](https://youtu.be/tG_oUPs67CY) | [Exercise 04](https://youtu.be/47XVi1B2KyI) | [Exercise 06](https://youtu.be/SKfEfYOVQYA) | [Exercise 08](https://youtu.be/ZNg60jB8jik) | [Exercise 10](https://youtu.be/O0ye689G-1g) |

@@ -62,6 +62,8 @@ This is an initial list and we will be adding more sessions and details as the e
 
 We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). [Each topic page](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics) will also list the detailed dates, times and URLs. Once you [register for the event](#how-to-enter), we will also notify you via e-mail of the major events in the schedule.
 
+All of the scheduled content is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos.
+
 ## Questions or Comments
 
 Questions about the event?  Or the judging?  Need some help getting your open source project?  Or maybe you have a follow up question after participating in one of the educational enablement sessions?  For any question or comment related to Devtoberfest we ask that you please [create an issue in this repository](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new).

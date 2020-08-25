@@ -9,7 +9,7 @@ assignees: ''
 
 Please: 
 
-1. Ensure you add a topic label to this issue - for example, the "topic-workflow" or the "topic-abap" label. Any question issue that is not assigned to a topic label may be closed.
+1. Ensure there is a topic label assigned to this issue - for example, the "topic-workflow" or the "topic-abap" label. Any question issue that is not assigned to a topic label may be closed.
 
 2. Specify the exercise number and step number within that exercise.
 

@@ -28,8 +28,8 @@ Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep |
 | - | - | - | - | - |
-| 1100 EDT (UTC-4) | [Introduction](https://youtu.be/) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | 
-| 1115 EDT (UTC-4) |  | [Exercise 02](https://youtu.be/47XVi1B2KyI) |  |  | 
+| 1100 EDT (UTC-4) | [Introduction](https://youtu.be/9wM-EyQa-5Q) | [Exercise 01](https://youtu.be/-ZxpAt8QgfM) | [Exercise 03](https://youtu.be/PYMkEhg-VTU) | [Exercise 04](https://youtu.be/xUnC0DrCF7U) | 
+| 1115 EDT (UTC-4) |  | [Exercise 02](https://youtu.be/2-4jBdEXeOM) |  |  | 
 
 
 ## Office hours sessions
@@ -46,10 +46,10 @@ These office hours sessions are also in the [public Google Calendar](https://cal
 
 | Video | Description | Video Length |
 | - | - | - |
-| [![Overview](thumbnail-00.jpg)]() | Introduction Session | 25 mins | 
-| [![Exercise 1](thumbnail-01.jpg)]() | [Exercise 1 - Hello World](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex1) | 8 mins |
-| [![Exercise 2](thumbnail-02.jpg)]()  | [Exercise 2 - Consuming HTTP Services](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex2) | 11 mins |
-| [![Exercise 3](thumbnail-03.jpg)]()  | [Exercise 3 - ABAP RESTful Application Programming Model, Unmanaged Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex3) | 38 mins |
-| [![Exercise 4](thumbnail-04.jpg)]()  | [Exercise 4 - ABAP RESTful Application Programming Model, Managed Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex4) | 34 mins |  
+| [![Overview](thumbnail-00.jpg)](https://youtu.be/9wM-EyQa-5Q) | Introduction | 18 mins | 
+| [![Exercise 1](thumbnail-01.jpg)](https://youtu.be/-ZxpAt8QgfM) | [Exercise 1 - Hello World](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex1) | 8 mins |
+| [![Exercise 2](thumbnail-02.jpg)](https://youtu.be/2-4jBdEXeOM)  | [Exercise 2 - Consuming HTTP Services](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex2) | 11 mins |
+| [![Exercise 3](thumbnail-03.jpg)](https://youtu.be/PYMkEhg-VTU)  | [Exercise 3 - ABAP RESTful Application Programming Model, Unmanaged Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex3) | 38 mins |
+| [![Exercise 4](thumbnail-04.jpg)](https://youtu.be/xUnC0DrCF7U)  | [Exercise 4 - ABAP RESTful Application Programming Model, Managed Scenario](https://github.com/SAP-samples/abap-exercises-codejam/tree/master/exercises/ex4) | 34 mins |  
 
 

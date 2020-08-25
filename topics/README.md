@@ -68,4 +68,4 @@ An extension must fulfill a single purpose that is narrowly defined and easy to 
 
 Do you use some chrome extensions yourself and have often thought about writing a chrome extension yourself, but you don't know what's necessary and what the first steps are? We interviewed Jeffrey Groneberg, Principal Cloud Solution Architect, about his first Chrome Extension. 
 
-Find more information about this session on the [topic page](./hana-multimodel/README.md).
+Find more information about this session on the [topic page](./chrome-extensions/README.md).

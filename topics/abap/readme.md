@@ -2,7 +2,7 @@
 
 **This enablement content is for Devtoberfest Week 2 : 31 Aug → 03 Sep 2020.**
 
-Here you'll find content to help you level up with the [SAP Cloud Platform, ABAP Environment aka Steampunk](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2ffdd2412aff494dbf3de31089c965d4.html) and the ABAP [RESTful Application Programming Model(RAP)](https://help.sap.com/viewer/923180ddb98240829d935862025004d6/Cloud/en-US/289477a81eec4d4e84c0302fb6835035.html). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions. 
+Here you'll find content to help you level up with the [SAP Cloud Platform, ABAP Environment aka Steampunk](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/2ffdd2412aff494dbf3de31089c965d4.html) and the [ABAP RESTful Application Programming Model(RAP)](https://help.sap.com/viewer/923180ddb98240829d935862025004d6/Cloud/en-US/289477a81eec4d4e84c0302fb6835035.html). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions. 
 
 All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos. 
 

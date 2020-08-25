@@ -27,7 +27,7 @@ We've scheduled the premieres for the videos of these 10 exercises over 5 consec
 Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep |
-| - | - | - | - | - | - |
+| - | - | - | - | - |
 | 1100 EDT (UTC-4) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | 
 | 1115 EDT (UTC-4) |  | [Exercise 02](https://youtu.be/47XVi1B2KyI) |  |  | 
 

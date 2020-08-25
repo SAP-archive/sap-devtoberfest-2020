@@ -51,9 +51,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 33, Forks: 6, Watchers: 33
-* Open Issues: 24, Has Projects: true, Has Wiki: true
-* Created At: 2020-07-03T17:23:37Z, Updated At: 2020-08-25T04:56:52Z
+* Stars: 34, Forks: 6, Watchers: 34
+* Open Issues: 23, Has Projects: true, Has Wiki: true
+* Created At: 2020-07-03T17:23:37Z, Updated At: 2020-08-25T09:05:19Z
 * License: [Apache License 2.0](https://api.github.com/licenses/apache-2.0)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [https://api.github.com/repos/SAP-samples/sap-devtoberfest-2020/contributors](https://api.github.com/repos/SAP-samples/sap-devtoberfest-2020/contributors)

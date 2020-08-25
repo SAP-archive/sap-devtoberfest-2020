@@ -5,10 +5,10 @@
 
 * Stars: 0, Forks: 0, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: 2020-08-21T06:05:03Z, Updated At: 2020-08-21T06:05:07Z
-* License: [MIT License](https://api.github.com/licenses/mit)
+* Created At: Fri, 21 Aug 2020 06:05:03 GMT, Updated At: Fri, 21 Aug 2020 06:05:07 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [bmaciag](https://github.com/bmaciag)
-* Contributors: [bmaciag](https://github.com/bmaciag), [bmaciag](https://github.com/bmaciag)
+* Contributors: [bmaciag](https://github.com/bmaciag)
 
 
 
@@ -17,10 +17,10 @@
 
 * Stars: 0, Forks: 0, Watchers: 0
 * Open Issues: 5, Has Projects: true, Has Wiki: true
-* Created At: 2020-06-22T13:20:54Z, Updated At: 2020-08-24T10:46:14Z
-* License: [MIT License](https://api.github.com/licenses/mit)
+* Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Mon, 24 Aug 2020 10:46:14 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [goreraks](https://github.com/goreraks)
-* Contributors: [goreraks](https://github.com/goreraks), [goreraks](https://github.com/goreraks)
+* Contributors: [goreraks](https://github.com/goreraks)
 
 
 
@@ -29,10 +29,10 @@
 
 * Stars: 0, Forks: 0, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: 2020-08-06T16:43:59Z, Updated At: 2020-08-24T10:36:44Z
-* License: [MIT License](https://api.github.com/licenses/mit)
+* Created At: Thu, 06 Aug 2020 16:43:59 GMT, Updated At: Mon, 24 Aug 2020 10:36:44 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
-* Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc), [jrodriguez-rc](https://github.com/jrodriguez-rc)
+* Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc)
 
 
 
@@ -41,10 +41,10 @@
 
 * Stars: 9, Forks: 1, Watchers: 9
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: 2020-03-25T20:26:15Z, Updated At: 2020-08-24T18:43:01Z
-* License: [Other]()
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 24 Aug 2020 18:43:01 GMT
+* License: Other
 * Owner: [js-soft](https://github.com/js-soft)
-* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dominikfeininger](https://github.com/dominikfeininger)
+* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger)
 
 
 
@@ -53,10 +53,10 @@
 
 * Stars: 37, Forks: 7, Watchers: 37
 * Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: 2020-07-03T17:23:37Z, Updated At: 2020-08-25T18:56:26Z
-* License: [Apache License 2.0](https://api.github.com/licenses/apache-2.0)
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 25 Aug 2020 19:41:01 GMT
+* License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [bmaciag](https://github.com/bmaciag)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
 
 
 
@@ -65,10 +65,10 @@
 
 * Stars: 15, Forks: 2, Watchers: 15
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: 2020-08-13T13:40:34Z, Updated At: 2020-08-25T18:31:36Z
-* License: [MIT License](https://api.github.com/licenses/mit)
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Tue, 25 Aug 2020 18:31:36 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
-* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [gregorwolf](https://github.com/gregorwolf)
+* Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf)
 
 
 ![Entries builder](https://github.com/sap-samples/sap-devtoberfest-2020/workflows/Entries%20builder/badge.svg)

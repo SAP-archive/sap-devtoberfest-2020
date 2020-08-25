@@ -1,4 +1,4 @@
-# ABAP HTTP Connectivity and ABAP RESTful Application Programming Model(RAP)
+# SAP Cloud Platform, ABAP Environment & ABAP RESTful Application Programming Model(RAP)
 
 **This enablement content is for Devtoberfest Week 2 : 31 Aug → 03 Sep 2020.**
 

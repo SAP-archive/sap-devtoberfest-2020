@@ -29,7 +29,7 @@ const main = async _ => {
                     repo: parts.name
                 })
                 const data = response.data
-                let contributors = await octokit.request('GET /repos/{owner}/{repo}/collaborators', {
+                let contributors = await octokit.request('GET /repos/{owner}/{repo}/contributors', {
                     owner: parts.owner,
                     repo: parts.name
                 })

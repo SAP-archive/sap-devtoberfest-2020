@@ -12,7 +12,7 @@ We have a set of exercises that help you get started with creating applications 
 
 You can follow these exercises yourself, at your own pace, using the resources in the [ABAP Codejam](https://github.com/SAP-samples/abap-exercises-codejam) repository. 
 
-If you have any questions when doing the exercises for this topic, you can [create an issue](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=sap-cloud-platform-workflow-topic-question.md&title=Ask+a+question) on this repository - please make sure you [use this issue template](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=sap-cloud-platform-workflow-topic-question.md&title=Ask+a+question) with the labels 'topic-workflow' and 'question'. Thanks!
+If you have any questions when doing the exercises for this topic, you can [create an issue](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-abap&template=exercise-question.md&title=Summarize+your+question+here) on this repository - please make sure you [use this issue template](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-abap&template=exercise-question.md&title=Summarize+your+question+here) with the labels 'topic-abap' and 'question'. Thanks!
 
 ## Videos 
 

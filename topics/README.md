@@ -1,9 +1,11 @@
 # Enablement Topics
 
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
-level up before you get started. 
+level up before you get started.
 
-## SAP Cloud Platform Workflow
+[Current Week's Content](#sap-cloud-platform-workflow)
+
+## SAP Cloud Platform Workflow - CW35 - August 24th - 28th
 
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 

@@ -1,14 +1,14 @@
 # ABAP HTTP Connectivity and ABAP RESTful Application Programming Model(RAP)
 
-**This enablement content is for Devtoberfest Week 1 : 24 → 28 Aug 2020.**
+**This enablement content is for Devtoberfest Week 2 : 31 Aug → 03 Sep 2020.**
 
-Here you'll find content to help you level up with the [SAP Cloud Platform Workflow](https://help.sap.com/viewer/product/WORKFLOW_SERVICE/Cloud/en-US) service. This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions. 
+Here you'll find content to help you level up with the SAP Cloud Platform, ABAP Environment aka Steampunk and the ABAP [RESTful Application Programming Model(RAP)](https://help.sap.com/viewer/923180ddb98240829d935862025004d6/Cloud/en-US/289477a81eec4d4e84c0302fb6835035.html). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions. 
 
 All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos. 
 
 ## Exercises
 
-We have a set of exercises that help you get to know the workflow service. They take you through a series of tasks, covering everything from setting the service and tools up in an SAP Cloud Platform trial account, through installing and configuring an SAP Cloud Connector, just in case you want to make service calls to on-prem systems, to creating your own workflow definitions, invoking them directly and also through the Workflow APIs.
+We have a set of exercises that help you get started with creating applications in Steampunk and leveraging the ABAP RESTful Application Prorgramming Model. They take you through a series of tasks, covering everything from creating an HTTP service and consuming an external HTTP service in ABAP, as well as a deep dive into the ABAP RESTful Application Programming Model, both the unmanaged and managed scenarios.
 
 You can follow these exercises yourself, at your own pace, using the resources in the [ABAP Codejam](https://github.com/SAP-samples/abap-exercises-codejam) repository. 
 
@@ -28,17 +28,16 @@ Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 31 Aug | Tue 01 Sep | Wed 02 Sep | Thu 03 Sep |
 | - | - | - | - | - | - |
-| 1100 EDT (UTC+1) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 03](https://youtu.be/JjiMA9gT8ss) | [Exercise 05](https://youtu.be/P4EVoc-lmAI) | [Exercise 07](https://youtu.be/TVirKnU86cw) | 
-| 1130 EDT (UTC+1) | [Exercise 02](https://youtu.be/tG_oUPs67CY) | [Exercise 04](https://youtu.be/47XVi1B2KyI) | [Exercise 06](https://youtu.be/SKfEfYOVQYA) | [Exercise 08](https://youtu.be/ZNg60jB8jik) | 
+| 1100 EDT (UTC-4) | [Introduction](https://youtu.be/DyjM-VoRLjw) | [Exercise 01](https://youtu.be/JjiMA9gT8ss) | [Exercise 03](https://youtu.be/P4EVoc-lmAI) | [Exercise 04](https://youtu.be/TVirKnU86cw) | 
+| 1115 EDT (UTC-4) |  | [Exercise 02](https://youtu.be/47XVi1B2KyI) |  |  | 
 
-There's also a short (5 mins) video that gives [an introduction to the exercise content](https://youtu.be/KlNLbSxsM6s) that you can watch now or any time. 
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 02 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 09 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
-- 0800 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/95873935644) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours2.ics)
-- 1400 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/99812944506) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours1.ics)
+- 0800 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/95873935644) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours2.ics)
+- 1400 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/99812944506) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours1.ics)
 
 These office hours sessions are also in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier.
 

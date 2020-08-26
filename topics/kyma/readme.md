@@ -28,4 +28,3 @@ Get ready and excited for some Kyma-ing!
 | [![Exercise 5](thumbnail-06.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples)      | tba |
 | [![Exercise 6](thumbnail-07.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)    | [Exercise 6 - Prepare your Kyma environment for Scale](https://github.com/SAP-samples)           | tba |
 | [![Managed Kyma](thumbnail-08.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)  | [SAP Cloud Platform Extension Factory, Kyma runtime](https://github.com/SAP-samples) | tba |
-| [![Challenge](thumbnail-09.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)        | [Challenge - Consume a Kyma exposed API in your iOS app](https://github.com/SAP-samples)          | tba |

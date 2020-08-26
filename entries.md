@@ -51,21 +51,21 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 43, Forks: 9, Watchers: 43
+* Stars: 44, Forks: 9, Watchers: 44
 * Open Issues: 22, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 26 Aug 2020 12:04:48 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 26 Aug 2020 18:11:55 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [rich-heilman](https://github.com/rich-heilman), [qmacro](https://github.com/qmacro), [IObert](https://github.com/IObert), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [rich-heilman](https://github.com/rich-heilman), [qmacro](https://github.com/qmacro), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
 
 
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
-* Stars: 15, Forks: 2, Watchers: 15
+* Stars: 16, Forks: 2, Watchers: 16
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Tue, 25 Aug 2020 18:31:36 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 26 Aug 2020 14:48:35 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf)

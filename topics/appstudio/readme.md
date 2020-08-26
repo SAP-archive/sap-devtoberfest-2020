@@ -41,9 +41,8 @@ These office hours sessions **will also be** in the [public Google Calendar](htt
 ## The content - video & exercise links
 
 
-
 | Video | Description | Covers | Length | 
 | - | - | - | - |
-| ![video1](video1.png) | Set the development environment up<br><br>Premieres on Tue 15 Sep  | [Exercise_1](exercises/01) ||
-| ![video2](video2.png) | Use the Fiori Tools to create a Fiori app <br><br>Premieres on Tue 15 Sep  |  [Exercise_2](exercises/02)||
-| ![video3](video3.png) | Deploy the Fiori app to SAP Cloud Platform  <br><br>Premieres on Thu 17 Sep  | [Exercise_3](exercises/03) ||
+| ![video1](video1.png) | Set the development environment up<br><br>Premieres on Tue 15 Sep  | [Exercise 1](exercises/01.md) ||
+| ![video2](video2.png) | Use the Fiori Tools to create a Fiori app <br><br>Premieres on Tue 15 Sep  |  [Exercise 2](exercises/02.md)||
+| ![video3](video3.png) | Deploy the Fiori app to SAP Cloud Platform  <br><br>Premieres on Thu 17 Sep  | [Exercise 3](exercises/03.md) ||

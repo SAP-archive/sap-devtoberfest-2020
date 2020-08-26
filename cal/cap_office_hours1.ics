@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200826T130328Z
+DTSTART;TZID=America/New_York:20200916T030000
+DTEND;TZID=America/New_York:20200916T040000
+SUMMARY:Devtoberfest - CAP Office Hours
+UID:20200826T130328Z-92815359419@fe80:0:0:0:ce6:7cff:fef8:359beth0
+TZID:America/New_York
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://sap-se.zoom.com/j/92815359419\n	D
+ escription: https://github.com/SAP-samples/sap-devtoberfest-2020/blob/ma
+ ster/topics/cap/README.md\n\n&quot\;The SAP Cloud Application Programmin
+ g Model is a framework of languages\, libraries\, and tools for building
+  enterprise-grade services and applications. It guides developers along 
+ a ‘golden path’ of proven best practices and a great wealth of out-of-th
+ e-box solutions to recurring tasks.&quot\;\n\nGet to know the Big Pictur
+ e of the SAP Cloud Application Programming Model (CAP) and learn how to 
+ build your first standalone application using SAP Business Application S
+ tudio\, CDS\, Node.js. SQLite\, SAP HANA Cloud and SAP Cloud Platform.\n
+ \nOr join by phone:\n    Dial(for higher quality\, dial a number based o
+ n your current location):\n        US: +1 312 626 6799  or +1 929 205 60
+ 99  or +1 301 715 8592  or +1 346 248 7799  or +1 669 900 6833  or +1 25
+ 3 215 8782 \n        Germany: +49 69 3807 9883  or +49 695 050 2596  or 
+ +49 69 7104 9922  or +49 30 5679 5800 \n    Webinar ID: 928 1535 9419\n 
+    International numbers available: https://sap-se.zoom.com/u/aVADAhUT\n
+ \n\nOr an H.323/SIP room system:\n    H.323: \n        162.255.37.11 (US
+  West)\n        162.255.36.11 (US East)\n        221.122.88.195 (China)\
+ n        115.114.131.7 (India Mumbai)\n        115.114.115.7 (India Hyde
+ rabad)\n        213.19.144.110 (Amsterdam Netherlands)\n        213.244.
+ 140.110 (Germany)\n        103.122.166.55 (Australia)\n        209.9.211
+ .110 (Hong Kong SAR)\n        149.137.40.110 (Singapore)\n        64.211
+ .144.160 (Brazil)\n        69.174.57.160 (Canada)\n        207.226.132.1
+ 10 (Japan)\n    Webinar ID: 928 1535 9419\n\n    SIP: 92815359419@zoomcr
+ c.com\n
+LOCATION:https://sap-se.zoom.us/j/92815359419
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

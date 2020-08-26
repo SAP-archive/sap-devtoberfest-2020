@@ -29,7 +29,7 @@
 
 * Stars: 0, Forks: 0, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 06 Aug 2020 16:43:59 GMT, Updated At: Mon, 24 Aug 2020 10:36:44 GMT
+* Created At: Thu, 06 Aug 2020 16:43:59 GMT, Updated At: Wed, 26 Aug 2020 09:05:16 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jrodriguez-rc](https://github.com/jrodriguez-rc)
 * Contributors: [jrodriguez-rc](https://github.com/jrodriguez-rc)
@@ -51,12 +51,12 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 40, Forks: 9, Watchers: 40
-* Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 26 Aug 2020 06:13:18 GMT
+* Stars: 43, Forks: 9, Watchers: 43
+* Open Issues: 22, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 26 Aug 2020 12:04:48 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [rich-heilman](https://github.com/rich-heilman), [qmacro](https://github.com/qmacro), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [rich-heilman](https://github.com/rich-heilman), [qmacro](https://github.com/qmacro), [IObert](https://github.com/IObert), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
 
 
 

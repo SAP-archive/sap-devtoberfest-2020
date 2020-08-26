@@ -47,7 +47,7 @@ Here's what the premiere schedule looks like:
 
 In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 16 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
-- 0300 EDT (UTC-4) → [Zoom meeting link]() | [ICS Download]()
-- 1200 EDT (UTC-4) → [Zoom meeting link]() | [ICS Download]()
+- 0300 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.com/j/92815359419) | [ICS Download]()
+- 1200 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/94809437003) | [ICS Download]()
 
 These office hours sessions are also in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier.

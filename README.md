@@ -1,5 +1,5 @@
 # Devtoberfest 2020 from SAP
-<img src="./Devtoberfest2020.png" width="200">
+<img src="./Devtoberfest2020.jpg" width="200">
 
 ## This week (Week 1 : 24 → 28 Aug 2020)
 

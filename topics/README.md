@@ -5,15 +5,34 @@ level up before you get started.
 
 [Current Week's Content](./workflow/readme.md)
 
-## SAP Cloud Platform Workflow - CW35 - August 24th - 28th
+<table>
+<tr>
+<td>
+<p><b>CURRENT WEEK</b></p>
+<p>Calendar Week 35</p>
+<p>Aug 24 - Aug 28</p>
+</td>
+<td>
+
+## SAP Cloud Platform Workflow
 
 Topic Owner: [DJ Adams](https://github.com/qmacro)
 
 With the SAP Cloud Platform Workflow service you can build process definitions that combine system access, business logic and user tasks (for people to be given the chance to make decisions) in an easy and intuitive way. Add to this the fact that you can use the integration capabilities to make HTTP calls to external services, and also interact with running instances of these definitions via a rich set of APIs, and the workflow service just might be the backbone of the whatever you'll end up building.
 
 Level up using the content linked from the [SAP Cloud Platform Workflow enablement topic page](./workflow/readme.md).
+</td>
+</tr>
 
-## SAP Cloud Platform, ABAP Environment & ABAP RESTful Application Programming Model(RAP) - CW36 - August 31st - September 4th
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Calendar Week 36</p>
+<p>Aug 31 - Sep 04</p>
+</td>
+<td>
+
+## SAP Cloud Platform, ABAP Environment & ABAP RESTful Application Programming Model(RAP)
 
 Topic Owner: [Rich Heilman](https://github.com/rich-heilman)
 
@@ -21,7 +40,18 @@ In this overview of the ABAP RESTful Application Programming Model, learn how to
 
 Find more information about this session on the [topic page](./abap/readme.md).
 
-## SAP Cloud Application Programming Model (CAP) - CW37 - September 7th - 11th
+</td>
+</tr>
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Calendar Week 37</p>
+<p>Sep 07 - Sep 11</p>
+</td>
+<td>
+
+## SAP Cloud Application Programming Model (CAP)
 
 Topic Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom Jung](https://github.com/jung-thomas)
 
@@ -31,7 +61,18 @@ Get to know the Big Picture of the SAP Cloud Application Programming Model (CAP)
 
 Find more information about this session on the [topic page](./cap/README.md).
 
-## SAP Business Application Studio for Fiori Development - CW38 - September 14th - 18th
+</td>
+</tr>
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Calendar Week 38</p>
+<p>Sep 14 - Sep 18</p>
+</td>
+<td>
+
+## SAP Business Application Studio for Fiori Development
 
 Topic Owner: [Marius Obert](https://github.com/IObert)
 
@@ -39,7 +80,18 @@ This session will provide the first glimpse of SAP's latest development environm
 
 Find more information about this session on the [topic page](./appstudio/readme.md).
 
-## SAP HANA: Multi-model - CW39 - September 21 - 25th
+</td>
+</tr>
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Calendar Week 39</p>
+<p>Sep 21 - Sep 25</p>
+</td>
+<td>
+
+## SAP HANA: Multi-model
 
 Topic Owners: [Mathias Kemeter](https://github.com/mkemeter), [Markus Fath](https://github.com/fath-markus) and [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
 
@@ -48,8 +100,18 @@ Topic Owners: [Mathias Kemeter](https://github.com/mkemeter), [Markus Fath](http
 Networks are all around us - road networks, social networks, supplier networks, communication networks etc. The **SAP HANA Graph engine** allows you to model, process, and analyze connected data. Learn how to work with graphs within the SAP HANA database.
 
 Find more information about this session on the [topic page](./hana-multimodel/README.md).
+</td>
+</tr>
 
-## SAP Kyma Runtime - CW41 - October 5th - 9th
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Calendar Week 41</p>
+<p>Oct 05 - Oct 09</p>
+</td>
+<td>
+
+## SAP Kyma Runtime
 
 Topic Owners:  [Kevin Muessig](https://github.com/KevinMuessig) and [Josh Bentley](https://github.com/jarjarbentley)
 
@@ -60,6 +122,16 @@ SAP has launched the SAP Kyma Runtime, officially “SAP Cloud Platform Extensio
 Learn what Kyma is and how you can adopt it as a company to better extend your existing On-Prem and Cloud solutions.
 
 Find more information about this session on the [topic page](./kyma/readme.md).
+</td>
+</tr>
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p><!--Calendar Week NN--></p>
+<p>TBD</p>
+</td>
+<td>
 
 ## Google Chrome Extensions
 
@@ -70,3 +142,7 @@ An extension must fulfill a single purpose that is narrowly defined and easy to 
 Do you use some chrome extensions yourself and have often thought about writing a chrome extension yourself, but you don't know what's necessary and what the first steps are? We interviewed Jeffrey Groneberg, Principal Cloud Solution Architect, about his first Chrome Extension. 
 
 Find more information about this session on the [topic page](./chrome-extensions/README.md).
+
+</td>
+</tr>
+</table>

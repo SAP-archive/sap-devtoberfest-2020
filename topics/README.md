@@ -9,6 +9,7 @@ level up before you get started.
 <tr>
 <td>
 <p><b>CURRENT WEEK</b></p>
+<p>Week 1</p>
 <p>Calendar Week 35</p>
 <p>Aug 24 - Aug 28</p>
 </td>
@@ -27,6 +28,7 @@ Level up using the content linked from the [SAP Cloud Platform Workflow enableme
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
+<p>Week 2</p>
 <p>Calendar Week 36</p>
 <p>Aug 31 - Sep 04</p>
 </td>
@@ -46,6 +48,7 @@ Find more information about this session on the [topic page](./abap/readme.md).
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
+<p>Week 3</p>
 <p>Calendar Week 37</p>
 <p>Sep 07 - Sep 11</p>
 </td>
@@ -67,6 +70,7 @@ Find more information about this session on the [topic page](./cap/README.md).
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
+<p>Week 4</p>
 <p>Calendar Week 38</p>
 <p>Sep 14 - Sep 18</p>
 </td>
@@ -86,6 +90,7 @@ Find more information about this session on the [topic page](./appstudio/readme.
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
+<p>Week 5</p>
 <p>Calendar Week 39</p>
 <p>Sep 21 - Sep 25</p>
 </td>
@@ -106,6 +111,7 @@ Find more information about this session on the [topic page](./hana-multimodel/R
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
+<p>Week 7</p>
 <p>Calendar Week 41</p>
 <p>Oct 05 - Oct 09</p>
 </td>
@@ -128,6 +134,7 @@ Find more information about this session on the [topic page](./kyma/readme.md).
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
+<p><!--Week N--></p>  
 <p><!--Calendar Week NN--></p>
 <p>TBD</p>
 </td>

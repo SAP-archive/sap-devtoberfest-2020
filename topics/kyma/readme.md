@@ -34,8 +34,8 @@ Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 05 Oct | Tue 06 Oct | Wed 07 Oct | Thu 08 Oct | Fri 09 Oct |
 | - | - | - | - | - | - |
-| TBD | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 04](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
-| TBD | [Exercise 02](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
+| TBD | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
+| TBD | [Exercise 02](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 04](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
 
 There is also an introduction to the [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our SAP Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
 
@@ -57,7 +57,7 @@ In case you have anything you want to ask or discuss, relating to the content he
 
 | Video | Description | Video Length |
 | - | - | - |
-| [![Introduction](thumbnail-01.jpg)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [What is Kyma?](https://github.com/SAP-samples) | tba |
+| [![Introduction](thumbnail-01.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [What is Kyma?](https://github.com/SAP-samples) | tba |
 | [![Exercise 1](thumbnail-02.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 1 - Setup a local Kyma installment](https://github.com/SAP-samples) | tba |
 | [![Exercise 2](thumbnail-03.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 2 - Run Kyma on a Hyper-Scaler](https://github.com/SAP-samples)| tba 
 | [![Exercise 3](thumbnail-04.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 3 - Deploy to the Kyma Runtime](https://github.com/SAP-samples) | tba | 

@@ -1,6 +1,6 @@
 # SAP Kyma Runtime
 
-**This enablement content is for Devtoberfest Week 7: 05 → 09 Aug 2020.**
+**This enablement content is for Devtoberfest Week 7: 05 Oct → 09 Oct 2020.**
 
 Here you'll find content to help you level up with the [Kyma runtime](https://kyma-project.io). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions.
 

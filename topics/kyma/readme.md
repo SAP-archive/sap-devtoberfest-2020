@@ -1,10 +1,10 @@
-# SAP Kyma Runtime
+# project "Kyma."
 
 **This enablement content is for Devtoberfest Week 7: 05 Oct → 09 Oct 2020.**
 
-Here you'll find content to help you level up with the [Kyma runtime](https://kyma-project.io). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions.
+Here you'll find content to help you level up with the [project "Kyma."](https://kyma-project.io). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions.
 
-- [Kyma Project](https://kyma-project.io)
+- [project "Kyma."](https://kyma-project.io)
 - [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
 - [Thomas Hertz - Get a fully managed runtime based on Kyma and Kubernetes](https://blogs.sap.com/2020/05/12/get-a-fully-managed-runtime-based-on-kyma-and-kubernetes/)
 
@@ -15,7 +15,7 @@ All of the scheduled content described on this page (the premieres and the offic
 We have a set of exercises that help you get to know the open source Kyma project as well as an introduction into the [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6). 
 They take you through a series of tasks, covering everything from a basic overview and introduction, through setting up a local Kyma installment as well as using a Hyper-Scaler, interaction and development for the Kyma runtime. You will learn how to utilize different services to extend your application deployments and how to make your application scalable.
 
-<!-- You can follow these exercises yourself, at your own pace, using the resources in the [Virtual Event - SAP Kyma Runtime]() repository. -->
+<!-- You can follow these exercises yourself, at your own pace, using the resources in the [Virtual Event - project "Kyma."]() repository. -->
 
 If you have any questions when doing the exercises for this topic, you can [create an issue](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question&template=exercise-question.md&title=Summarize+your+question+here) on this repository - please make sure you [use this issue template](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question&template=exercise-question.md&title=Summarize+your+question+here) with the labels 'topic-kyma' and 'question'. Thanks!
 
@@ -37,7 +37,7 @@ Here's what the premiere schedule looks like:
 | TBD | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
 | TBD | [Exercise 02](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 04](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
 
-There is also an introduction to the [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our SAP Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
+There is also an introduction to the [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
 
 <!-- Need links to videos as soon as online, also needs time information-->
 

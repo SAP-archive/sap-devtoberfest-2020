@@ -117,13 +117,13 @@ Find more information about this session on the [topic page](./hana-multimodel/R
 </td>
 <td>
 
-## SAP Kyma Runtime
+## project "Kyma."
 
 Topic Owners:  [Kevin Muessig](https://github.com/KevinMuessig) and [Josh Bentley](https://github.com/jarjarbentley)
 
 What is Kyma??? - Kyma /kee-ma/ is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions.  
 
-SAP has launched the SAP Kyma Runtime, officially “SAP Cloud Platform Extension Factory, Kyma runtime”. With this, you can now get a Kubernetes-based runtime offering as part of SAP Cloud Platform next to the Cloud Foundry application runtime, or ABAP runtime – letting you choose what best fits your needs.
+SAP has launched the SAP Cloud Platform Extension Factory, Kyma runtime. With this, you can now get a Kubernetes-based runtime offering as part of SAP Cloud Platform next to the Cloud Foundry application runtime, or ABAP runtime – letting you choose what best fits your needs.
 
 Learn what Kyma is and how you can adopt it as a company to better extend your existing On-Prem and Cloud solutions.
 

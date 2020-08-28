@@ -14,6 +14,8 @@ You can follow these exercises yourself, at your own pace, using the resources i
 
 If you have any questions when doing the exercises for this topic, you can [create an issue](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=exercise-question.md&title=Summarize+your+question+here) on this repository - please make sure you [use this issue template](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=exercise-question.md&title=Summarize+your+question+here) with the labels 'topic-workflow' and 'question'. Thanks!
 
+You may find it useful to browse the [closed issues tagged "topic-workflow"](https://github.com/SAP-samples/sap-devtoberfest-2020/issues?q=label%3Atopic-workflow+is%3Aclosed) for additional information. For example, a newly available one-click method of getting to the Workflow tools is described in [issue #32 Will the Workflow tools be available via a simpler route?](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/32).
+
 ## Videos 
 
 We've also recorded these exercises individually, for you to watch. We'll be airing them all for the first time on YouTube as [premieres](https://support.google.com/youtube/answer/9080341). Premieres are videos that appear initially on YouTube at a specific date and time, and the video author is usually there in the chat and available to answer questions on the content. 

@@ -63,9 +63,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 51, Forks: 11, Watchers: 51
+* Stars: 52, Forks: 11, Watchers: 52
 * Open Issues: 22, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sat, 29 Aug 2020 00:20:03 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sat, 29 Aug 2020 10:37:48 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [rich-heilman](https://github.com/rich-heilman), [qmacro](https://github.com/qmacro), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)

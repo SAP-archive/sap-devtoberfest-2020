@@ -39,7 +39,7 @@ Here's what the premiere schedule looks like:
 | tbd | Exercise 05 - Common Types & Aspects                               | tbd     |
 | tbd | Exercise 06 - Enhancing the service with annotations               | 09 mins     |
 | tbd | Exercise 07 - Second Service & Namespaces                          | tbd     |
-| tbd | Exercise 08 - Adding custom logic, and debugging                   | 14 mins     |
+| tbd | Exercise 08 - Custom Logic & Debugging                             | 14 mins     |
 | tbd | Exercise 09 - Introducing an app at the UI layer                   | 20 mins     |
 | tbd | Exercise 10 - Deploy to SAP Cloud Platform and SAP HANA Cloud      | tbd     |
 | [![Bonus Video](thumbnail-bonus1.jpg)](https://www.youtube.com/watch?v=wdfJ4ZP4aQs)  | [Bonus Video - Stored Procedure as Action](https://www.youtube.com/watch?v=wdfJ4ZP4aQs) <br>Available Now      | 20 mins     |

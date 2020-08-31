@@ -36,7 +36,7 @@ Here's what the premiere schedule looks like:
 | tbd | Exercise 02 - Create a new CAP project                             | 12 mins     |
 | tbd | Exercise 03 - Associations & adding persistence                    | 12 mins     |
 | tbd | Exercise 04 - Loading CSV files & Rest Client usage                | 08 mins     |
-| tbd | Exercise 05 - enhance the data model and use the cds cli           | tbd     |
+| tbd | Exercise 05 - Common Types & Aspects                               | tbd     |
 | tbd | Exercise 06 - Enhancing the service with annotations               | 09 mins     |
 | tbd | Exercise 07 - Second Service & Namespaces                          | tbd     |
 | tbd | Exercise 08 - Adding custom logic, and debugging                   | 14 mins     |

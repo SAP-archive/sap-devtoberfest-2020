@@ -3,12 +3,12 @@
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
 level up before you get started.
 
-[Current Week's Content](./workflow/readme.md)
+[Current Week's Content](./abap/readme.md)
 
 <table>
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
+<p><b><!--CURRENT WEEK--></b></p>
 <p>Week 1</p>
 <p>Calendar Week 35</p>
 <p>Aug 24 - Aug 28</p>
@@ -27,7 +27,7 @@ Level up using the content linked from the [SAP Cloud Platform Workflow enableme
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 2</p>
 <p>Calendar Week 36</p>
 <p>Aug 31 - Sep 04</p>

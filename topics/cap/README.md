@@ -33,7 +33,7 @@ Here's what the premiere schedule looks like:
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------- |
 | [![Introduction](thumbnail-0.png)](https://youtu.be/T1gqalbwzHk)                    | [SAP Cloud Application Programming Model - The Big Picture](https://youtu.be/T1gqalbwzHk)                 | 24 mins |
 | [![Exercise 01](thumbnail-1.png)](https://youtu.be/Qr7W78UA4Zo)                     | [Exercise 01 - Get to know the Development Tools](https://youtu.be/Qr7W78UA4Zo)                           | 06 mins |
-| [![Exercise 02](thumbnail-2.png)](https://youtu.be/GOv8LqKQnmw)                     | [Exercise 02 - Create a new CAP project ]((https://youtu.be/GOv8LqKQnmw))                                 | 12 mins |
+| [![Exercise 02](thumbnail-2.png)](https://youtu.be/GOv8LqKQnmw)                     | [Exercise 02 - Create a new CAP project ](https://youtu.be/GOv8LqKQnmw)                                   | 12 mins |
 | [![Exercise 03](thumbnail-3.png)](https://youtu.be/0F2_gqDNcbI)                     | [Exercise 03 - Associations & adding persistence](https://youtu.be/0F2_gqDNcbI)                           | 12 mins |
 | [![Exercise 04](thumbnail-4.png)](https://youtu.be/VGmeUtCnSKU)                     | [Exercise 04 - Loading CSV files & Rest Client usage](https://youtu.be/VGmeUtCnSKU)                       | 08 mins |
 | [![Exercise 05](thumbnail-5.png)](https://youtu.be/fBo6ru4_s_0)                     | [Exercise 05 - Common Types & Aspects](https://youtu.be/fBo6ru4_s_0)                                      | tbd     |

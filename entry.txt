@@ -6,3 +6,4 @@ https://github.com/goreraks/abapGitcustomizing
 https://github.com/jrodriguez-rc/abap-dev-utilities
 https://github.com/marcellourbani/vscode_abap_remote_fs
 https://github.com/larshp/abapGit
+https://github.com/larshp/abap-wasm

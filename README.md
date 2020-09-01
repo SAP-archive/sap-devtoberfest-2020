@@ -1,9 +1,9 @@
 # Devtoberfest 2020 from SAP
 <img src="./Devtoberfest2020.jpg" width="200">
 
-## This week (Week 1 : 24 → 28 Aug 2020)
+## This week (Week 2 : 31 Aug → 04 Sep Aug 2020)
 
-This week we have the SAP Cloud Platform Workflow enablement content for you - as [a series of premieres on YouTube and exercises](topics/workflow/readme.md) for you to do at your own pace. 
+This week we have the SAP Cloud Platform, ABAP Environment & ABAP RESTful Application Programming Model (RAP) content for you - as [a series of premieres on YouTube and exercises](topics/abap/readme.md) for you to do at your own pace. 
 
 ## Description
 

@@ -42,7 +42,7 @@ Here's what the premiere schedule looks like:
 | [![Exercise 08](thumbnail-8.png)](https://youtu.be/1snsOK5Tq2Y)                     | [Exercise 08 - Custom Logic & Debugging](https://youtu.be/1snsOK5Tq2Y)                                    | 14 mins |
 | [![Exercise 09](thumbnail-9.png)](https://youtu.be/2ySplQUIpvk)                     | [Exercise 09 - Introducing an app at the UI layer](https://youtu.be/2ySplQUIpvk)                          | 20 mins |
 | [![Exercise 10](thumbnail-10.png)](https://youtu.be/YwNdBSfZdjU)                    | [Exercise 10 - Deploy to SAP Cloud Platform and SAP HANA Cloud](https://youtu.be/YwNdBSfZdjU)             | 28 mins |
-| [![Bonus Video](thumbnail-bonus1.jpg)](https://www.youtube.com/watch?v=wdfJ4ZP4aQs) | [Bonus Video - Stored Procedure as Action](https://www.youtube.com/watch?v=wdfJ4ZP4aQs) <br>Available Now | 20 mins |
+| [![Bonus Video](thumbnail-bonus1.png)](https://www.youtube.com/watch?v=wdfJ4ZP4aQs) | [Bonus Video - Stored Procedure as Action](https://www.youtube.com/watch?v=wdfJ4ZP4aQs) <br>Available Now | 20 mins |
 
 ## Office hours sessions
 

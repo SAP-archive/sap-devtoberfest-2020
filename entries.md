@@ -48,6 +48,30 @@
 
 
 
+## abap-wasm: WebAssembly Virtual Machine / Interpreter / Runtime in ABAP
+[https://github.com/larshp/abap-wasm](https://github.com/larshp/abap-wasm)
+
+* Stars: 1, Forks: 0, Watchers: 1
+* Open Issues: 2, Has Projects: false, Has Wiki: false
+* Created At: Fri, 27 Dec 2019 10:59:08 GMT, Updated At: Tue, 01 Sep 2020 19:24:45 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [larshp](https://github.com/larshp)
+* Contributors: [larshp](https://github.com/larshp)
+
+
+
+## abapGit: Git client for ABAP
+[https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
+
+* Stars: 716, Forks: 315, Watchers: 716
+* Open Issues: 236, Has Projects: false, Has Wiki: false
+* Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Tue, 01 Sep 2020 14:32:48 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [larshp](https://github.com/larshp)
+* Contributors: [larshp](https://github.com/larshp), [christianguenter2](https://github.com/christianguenter2), [sbcgua](https://github.com/sbcgua), [EduardoCopat](https://github.com/EduardoCopat), [mbtools](https://github.com/mbtools), [flaiker](https://github.com/flaiker), [FreHu](https://github.com/FreHu), [bigld](https://github.com/bigld), [christian102094](https://github.com/christian102094), [filak-sap](https://github.com/filak-sap), [JohannesKonings](https://github.com/JohannesKonings), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [mariusraht2](https://github.com/mariusraht2), [jrodriguez-rc](https://github.com/jrodriguez-rc), [mkaesemann](https://github.com/mkaesemann), [TheWirtschaftsmann](https://github.com/TheWirtschaftsmann), [thomas-erdoesi](https://github.com/thomas-erdoesi), [gregorwolf](https://github.com/gregorwolf), [mfsap](https://github.com/mfsap), [g-back](https://github.com/g-back), [mrsimpson](https://github.com/mrsimpson), [nununo](https://github.com/nununo), [ThomasPloski](https://github.com/ThomasPloski), [christianguenter3](https://github.com/christianguenter3), [marcellourbani](https://github.com/marcellourbani), [sandraros](https://github.com/sandraros), [sshlapak](https://github.com/sshlapak), [jwigert](https://github.com/jwigert), [VishnAndr](https://github.com/VishnAndr), [pokrakam](https://github.com/pokrakam)
+
+
+
 ## vscode_abap_remote_fs: Remote filesystem for ABAP systems
 [https://github.com/marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs)
 
@@ -63,12 +87,12 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 58, Forks: 15, Watchers: 58
-* Open Issues: 21, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 01 Sep 2020 12:20:47 GMT
+* Stars: 58, Forks: 16, Watchers: 58
+* Open Issues: 22, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 01 Sep 2020 19:34:29 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [jrodriguez-rc](https://github.com/jrodriguez-rc), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
 
 
 

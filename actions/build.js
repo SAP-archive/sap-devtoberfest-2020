@@ -42,17 +42,18 @@ const main = async _ => {
                         page
                     })
                     if (contributors.data.length === 0) {
-                      break;
+                        break;
                     }
                     page++;
                     data.contributors = data.contributors.concat(contributors.data)
                 }
-
-                if(data.license.url){
-                    const parts = gh(data.license.url)
-                   //console.log(parts.pathname)
-                    let license = await octokit.request(`GET /${parts.pathname}`, {})
-                    data.license.html_url = license.data.html_url
+                if (data.license) {
+                    if (data.license.url) {
+                        const parts = gh(data.license.url)
+                        //console.log(parts.pathname)
+                        let license = await octokit.request(`GET /${parts.pathname}`, {})
+                        data.license.html_url = license.data.html_url
+                    }
                 }
                 console.log(template({ data }))
             }

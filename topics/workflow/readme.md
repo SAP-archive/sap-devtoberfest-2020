@@ -12,6 +12,10 @@ We have a set of exercises that help you get to know the workflow service. They 
 
 You can follow these exercises yourself, at your own pace, using the resources in the [Virtual Event - SAP Cloud Platform Workflow](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/) repository. 
 
+If you have any questions when doing the exercises for this topic, you can [create an issue](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=exercise-question.md&title=Summarize+your+question+here) on this repository - please make sure you [use this issue template](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/new?assignees=&labels=question%2C+topic-workflow&template=exercise-question.md&title=Summarize+your+question+here) with the labels 'topic-workflow' and 'question'. Thanks!
+
+You may find it useful to browse the [closed issues tagged "topic-workflow"](https://github.com/SAP-samples/sap-devtoberfest-2020/issues?q=label%3Atopic-workflow+is%3Aclosed) for additional information. For example, a newly available one-click method of getting to the Workflow tools is described in [issue #32 Will the Workflow tools be available via a simpler route?](https://github.com/SAP-samples/sap-devtoberfest-2020/issues/32).
+
 ## Videos 
 
 We've also recorded these exercises individually, for you to watch. We'll be airing them all for the first time on YouTube as [premieres](https://support.google.com/youtube/answer/9080341). Premieres are videos that appear initially on YouTube at a specific date and time, and the video author is usually there in the chat and available to answer questions on the content. 
@@ -43,7 +47,7 @@ These office hours sessions are also in the [public Google Calendar](https://cal
 
 # The content - video & exercise links
 
-| Video | Description | Length |
+| Video | Description | Video Length |
 | - | - | - |
 | [![Introduction](thumbnail-0.jpg)](https://youtu.be/KlNLbSxsM6s) | [An introduction to the exercise content](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event) | 05 mins |
 | [![Exercise 01](thumbnail-1.jpg)](https://youtu.be/DyjM-VoRLjw)  | [Exercise 01 - Setting up for Workflow on SAP Cloud Platform](https://github.com/SAP-samples/cloud-platform-workflow-virtual-event/blob/master/exercises/01/readme.md)  <br><br>[Premieres](https://youtu.be/DyjM-VoRLjw) on Mon 24 Aug at 1100 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_ex1.ics) | 16 mins |

@@ -1,0 +1,25 @@
+{
+  "name": "sap-devtoberfest-2020",
+  "version": "1.0.0",
+  "description": "Devtoberfest 2020 build Contest Projects",
+  "main": "./actions/build.js",
+  "scripts": {
+    "build": "node ./actions/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sap-samples/sap-devtoberfest-2020"
+  },
+  "keywords": [],
+  "author": "Stolen from DJ Adams (qmacro)",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/sap-samples/sap-devtoberfest-2020#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "rss-parser": "^3.9.0",
+    "then-request": "^6.0.2",
+    "@octokit/core": "^3.1.2",
+    "parse-github-url": "^1.0.2",
+    "@octokit/auth-action": "^1.2.2"
+  }
+}

@@ -1,18 +1,18 @@
-# Devtoberfest from SAP
-<img src="./Devtoberfest2020.png" width="200">
+# Devtoberfest 2020 from SAP
+<img src="./Devtoberfest2020.jpg" width="200">
 
-## This week (Week 1 : 24 → 28 Aug 2020)
+## This week (Week 2 : 31 Aug → 04 Sep Aug 2020)
 
-This week we have the SAP Cloud Platform Workflow enablement content for you - as [a series of premieres on YouTube and exercises](topics/workflow/readme.md) for you to do at your own pace. 
+This week we have the SAP Cloud Platform, ABAP Environment & ABAP RESTful Application Programming Model (RAP) content for you - as [a series of premieres on YouTube and exercises](topics/abap/readme.md) for you to do at your own pace. 
 
 ## Description
 
-**Devtoberfest from SAP – An open celebration of what makes us developers – Coding and Collaboration!**
+**Devtoberfest 2020 from SAP – An open celebration of what makes us developers – Coding and Collaboration!**
 
 This is an eight week celebration by developers, for developers to kick off the SAP TechEd 2020 season.
 
 * The event will launch with 8 weeks of technical enablement/educational online sessions open to the entire community to highlight key technologies and techniques and plant seed ideas
-  * Topics will include: Kyma, Cloud Application Programming Model, Fiori, ABAP, SAP Cloud Platform APIs, Workflow, Building VSCode Extensions, Running Community Open Source Projects
+  * [Topics](./topics/) will include: Kyma, Cloud Application Programming Model, Fiori, ABAP, SAP Cloud Platform APIs, Workflow, Building VSCode Extensions, Running Community Open Source Projects
 * Then event will culminate in a one week, build sprint
 * The Challenge:
   * Come up with your own developer problem – for the pure love of being a developer. Build something that makes your fellow SAP developers lives better and do so in open source so everyone can share in it. All projects during the build sprint will be given back to the SAP developer community. What you decide to build could be a tool, a library, or even just a code sample. Or an enhancement to an existing community project
@@ -42,6 +42,10 @@ If you want to participate in the contest/building challenge, then you must [reg
 
 In order to track the open source projects that will be judged, we also ask that you add the URL to your project in the [entry.txt](entry.txt) via pull request.
 
+## Entries
+
+For a current list of contest entries and details about their projects, [please see details here](entries.md)
+
 ## Open Source and SAP
 
 For more information on the role of Open Source in the SAP world: [https://developers.sap.com/open-source.html](https://developers.sap.com/open-source.html).
@@ -57,6 +61,8 @@ This is an initial list and we will be adding more sessions and details as the e
 ## Schedule
 
 We have an overview schedule of topics per week visible here in [the Kanban board for the project](https://github.com/SAP-samples/sap-devtoberfest-2020/projects/1). [Each topic page](https://github.com/SAP-samples/sap-devtoberfest-2020/tree/master/topics) will also list the detailed dates, times and URLs. Once you [register for the event](#how-to-enter), we will also notify you via e-mail of the major events in the schedule.
+
+All of the scheduled content is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos.
 
 ## Questions or Comments
 

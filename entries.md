@@ -101,7 +101,7 @@
 
 * Stars: 61, Forks: 16, Watchers: 61
 * Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 02 Sep 2020 18:43:09 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 03 Sep 2020 00:44:53 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag)
@@ -111,7 +111,7 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
-* Stars: 18, Forks: 3, Watchers: 18
+* Stars: 18, Forks: 4, Watchers: 18
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sat, 29 Aug 2020 16:22:40 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)

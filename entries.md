@@ -76,7 +76,7 @@
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
 * Stars: 719, Forks: 316, Watchers: 719
-* Open Issues: 233, Has Projects: false, Has Wiki: false
+* Open Issues: 237, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Thu, 03 Sep 2020 13:08:24 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -99,9 +99,9 @@
 ## abap-for-java-developers: Introducing ABAP concepts to Java developers using Java samples represented in ABAP
 [https://github.com/pliegl/abap-for-java-developers](https://github.com/pliegl/abap-for-java-developers)
 
-* Stars: 0, Forks: 0, Watchers: 0
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 03 Sep 2020 07:38:46 GMT, Updated At: Thu, 03 Sep 2020 08:00:39 GMT
+* Created At: Thu, 03 Sep 2020 07:38:46 GMT, Updated At: Thu, 03 Sep 2020 15:30:27 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [pliegl](https://github.com/pliegl)
 * Contributors: [pliegl](https://github.com/pliegl)
@@ -111,9 +111,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 64, Forks: 18, Watchers: 64
+* Stars: 65, Forks: 18, Watchers: 65
 * Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 03 Sep 2020 13:31:20 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 03 Sep 2020 15:38:03 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)

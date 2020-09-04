@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Asia/Singapore
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Singapore
+X-LIC-LOCATION:Asia/Singapore
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:SGT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200904T210248Z
+DTSTART;TZID=Asia/Singapore:20200930T160000
+DTEND;TZID=Asia/Singapore:20200930T170000
+SUMMARY:Devtoberfest - Building VSCode Extensions with Jhodel Cailan
+UID:20200904T210248Z-97267223067@fe80:0:0:0:8b5:d4ff:fe39:818feth0
+TZID:Asia/Singapore
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://sap-se.zoom.com/j/97267223067\n	D
+ escription: As part of the Devtoberfest week focusing on the topic of bu
+ ilding VSCode Extensions\, we will have this interactive interview and Q
+ &amp\;A session with SAP Community member Jhodel Cailan https://twitter.
+ com/CailanJhodel to discuss his experience building Blue Phoenix https:/
+ /github.com/jcailan/vscode-blue-phoenix\n\nOr join by phone:\n    Dial(f
+ or higher quality\, dial a number based on your current location):\n    
+     US: +1 301 715 8592  or +1 312 626 6799  or +1 929 205 6099  or +1 2
+ 53 215 8782  or +1 346 248 7799  or +1 669 900 6833 \n        Germany: +
+ 49 69 3807 9883  or +49 695 050 2596  or +49 69 7104 9922  or +49 30 567
+ 9 5800 \n    Webinar ID: 972 6722 3067\n    International numbers availa
+ ble: https://sap-se.zoom.com/u/abNx18QrpD\n\n\nOr an H.323/SIP room syst
+ em:\n    H.323: \n        162.255.37.11 (US West)\n        162.255.36.11
+  (US East)\n        221.122.88.195 (China)\n        115.114.131.7 (India
+  Mumbai)\n        115.114.115.7 (India Hyderabad)\n        213.19.144.11
+ 0 (Amsterdam Netherlands)\n        213.244.140.110 (Germany)\n        10
+ 3.122.166.55 (Australia)\n        209.9.211.110 (Hong Kong SAR)\n       
+  149.137.40.110 (Singapore)\n        64.211.144.160 (Brazil)\n        69
+ .174.57.160 (Canada)\n        207.226.132.110 (Japan)\n    Webinar ID: 9
+ 72 6722 3067\n\n    SIP: 97267223067@zoomcrc.com\n
+LOCATION:https://sap-se.zoom.us/j/97267223067
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

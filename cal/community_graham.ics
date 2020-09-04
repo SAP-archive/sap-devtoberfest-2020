@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200904T211856Z
+DTSTART;TZID=Australia/Sydney:20201015T100000
+DTEND;TZID=Australia/Sydney:20201015T110000
+SUMMARY:Devtoberfest - Community Week with Graham Robinson
+UID:20200904T211856Z-99762669374@fe80:0:0:0:c26:5eff:fe34:83ddeth0
+TZID:Australia/Sydney
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://sap-se.zoom.com/j/99762669374\n	D
+ escription: As part of Devtoberfest Community Week we will be interviewi
+ ng and hosting live Q&amp\;A sessions with leading SAP community and ope
+ n source contributors. \n\nThis will be an interactive interview and Q&a
+ mp\;A session with long time SAP Mentor and community leader\, Graham Ro
+ binson. https://twitter.com/grahamrobbo  We will discuss the impact of o
+ pen source and community projects on the SAP world in general but partic
+ ularly what it has meant for ABAP developers and independent consultants
+ .\n\nOr join by phone:\n    Dial(for higher quality\, dial a number base
+ d on your current location):\n        US: +1 312 626 6799  or +1 929 205
+  6099  or +1 301 715 8592  or +1 346 248 7799  or +1 669 900 6833  or +1
+  253 215 8782 \n        Germany: +49 695 050 2596  or +49 69 7104 9922  
+ or +49 30 5679 5800  or +49 69 3807 9883 \n    Webinar ID: 997 6266 9374
+ \n    International numbers available: https://sap-se.zoom.com/u/aZBY3wA
+ VN\n\n\nOr an H.323/SIP room system:\n    H.323: \n        162.255.37.11
+  (US West)\n        162.255.36.11 (US East)\n        221.122.88.195 (Chi
+ na)\n        115.114.131.7 (India Mumbai)\n        115.114.115.7 (India 
+ Hyderabad)\n        213.19.144.110 (Amsterdam Netherlands)\n        213.
+ 244.140.110 (Germany)\n        103.122.166.55 (Australia)\n        209.9
+ .211.110 (Hong Kong SAR)\n        149.137.40.110 (Singapore)\n        64
+ .211.144.160 (Brazil)\n        69.174.57.160 (Canada)\n        207.226.1
+ 32.110 (Japan)\n    Webinar ID: 997 6266 9374\n\n    SIP: 99762669374@zo
+ omcrc.com\n
+LOCATION:https://sap-se.zoom.us/j/99762669374
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

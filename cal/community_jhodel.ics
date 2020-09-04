@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Asia/Singapore
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Singapore
+X-LIC-LOCATION:Asia/Singapore
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:SGT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200904T210952Z
+DTSTART;TZID=Asia/Singapore:20201014T160000
+DTEND;TZID=Asia/Singapore:20201014T170000
+SUMMARY:Devtoberfest - Community Week with Jhodel Cailan
+UID:20200904T210952Z-94415584344@fe80:0:0:0:c7a:a4ff:febc:25d3eth0
+TZID:Asia/Singapore
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://sap-se.zoom.com/j/94415584344\n	D
+ escription: As part of Devtoberfest Community Week we will be interviewi
+ ng and hosting live Q&amp\;A sessions with leading SAP community and ope
+ n source contributors. \n\nThis session will be an interactive interview
+  with Jhodel Cailan https://twitter.com/CailanJhodel of the two opensour
+ ce projects: \n- https://github.com/jcailan/vscode-blue-phoenix\n- https
+ ://github.com/jcailan/cdse\n\nOr join by phone:\n    Dial(for higher qua
+ lity\, dial a number based on your current location):\n        US: +1 30
+ 1 715 8592  or +1 312 626 6799  or +1 929 205 6099  or +1 253 215 8782  
+ or +1 346 248 7799  or +1 669 900 6833 \n        Germany: +49 30 5679 58
+ 00  or +49 69 3807 9883  or +49 695 050 2596  or +49 69 7104 9922 \n    
+ Webinar ID: 944 1558 4344\n    International numbers available: https://
+ sap-se.zoom.com/u/abgJpuJk6r\n\n\nOr an H.323/SIP room system:\n    H.32
+ 3: \n        162.255.37.11 (US West)\n        162.255.36.11 (US East)\n 
+        221.122.88.195 (China)\n        115.114.131.7 (India Mumbai)\n   
+      115.114.115.7 (India Hyderabad)\n        213.19.144.110 (Amsterdam 
+ Netherlands)\n        213.244.140.110 (Germany)\n        103.122.166.55 
+ (Australia)\n        209.9.211.110 (Hong Kong SAR)\n        149.137.40.1
+ 10 (Singapore)\n        64.211.144.160 (Brazil)\n        69.174.57.160 (
+ Canada)\n        207.226.132.110 (Japan)\n    Webinar ID: 944 1558 4344\
+ n\n    SIP: 94415584344@zoomcrc.com\n
+LOCATION:https://sap-se.zoom.us/j/94415584344
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

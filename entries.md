@@ -64,11 +64,11 @@
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 
 * Stars: 9, Forks: 1, Watchers: 9
-* Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 24 Aug 2020 18:43:01 GMT
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Sun, 06 Sep 2020 15:51:10 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
-* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger)
+* Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot)
 
 
 
@@ -88,7 +88,7 @@
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
 * Stars: 720, Forks: 316, Watchers: 720
-* Open Issues: 231, Has Projects: false, Has Wiki: false
+* Open Issues: 230, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Sun, 06 Sep 2020 07:45:55 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -123,9 +123,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 67, Forks: 19, Watchers: 67
+* Stars: 68, Forks: 19, Watchers: 68
 * Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sun, 06 Sep 2020 06:18:10 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sun, 06 Sep 2020 12:25:53 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)

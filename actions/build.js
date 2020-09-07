@@ -30,19 +30,30 @@ const main = async _ => {
                 })
                 const data = response.data
                 data.created_at_formatted = new Date(data.created_at).toUTCString()
-                data.updated_at_formatted = new Date(data.updated_at).toUTCString()                
+                data.updated_at_formatted = new Date(data.updated_at).toUTCString()
 
-                let contributors = await octokit.request('GET /repos/{owner}/{repo}/contributors', {
-                    owner: parts.owner,
-                    repo: parts.name
-                })
-                data.contributors = contributors.data
-
-                if(data.license.url){
-                    const parts = gh(data.license.url)
-                   //console.log(parts.pathname)
-                    let license = await octokit.request(`GET /${parts.pathname}`, {})
-                    data.license.html_url = license.data.html_url
+                data.contributors = [];
+                let page = 1;
+                while (true) {
+                    let contributors = await octokit.request('GET /repos/{owner}/{repo}/contributors', {
+                        owner: parts.owner,
+                        repo: parts.name,
+                        per_page: 100,
+                        page
+                    })
+                    if (contributors.data.length === 0) {
+                        break;
+                    }
+                    page++;
+                    data.contributors = data.contributors.concat(contributors.data)
+                }
+                if (data.license) {
+                    if (data.license.url) {
+                        const parts = gh(data.license.url)
+                        //console.log(parts.pathname)
+                        let license = await octokit.request(`GET /${parts.pathname}`, {})
+                        data.license.html_url = license.data.html_url
+                    }
                 }
                 console.log(template({ data }))
             }

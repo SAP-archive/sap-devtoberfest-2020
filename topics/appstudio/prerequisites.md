@@ -14,7 +14,6 @@ Each attendee must have an SAP Cloud Platform trial account, and specifically, a
 
 - [Get a Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 - [Set Up SAP Business Application Studio for Development](https://developers.sap.com/tutorials/appstudio-onboarding.html)
-- [Create a Dev Space for Fiori Apps](https://developers.sap.com/tutorials/appstudio-devspace-fiori-create.html)
 
 Please make sure your trial account includes the following entitlements:
 

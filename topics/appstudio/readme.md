@@ -1,4 +1,4 @@
-# SAP Business Application Studio for Fiori Development
+# SAP Business Application Studio for SAP Fiori Development
 
 **This enablement content is for Devtoberfest Week 4 : Sep 14 → 18 Sep**
 

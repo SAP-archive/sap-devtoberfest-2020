@@ -27,7 +27,7 @@ Level up using the content linked from the [SAP Cloud Platform Workflow enableme
 
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
+<p><b><!--CURRENT WEEK--></b></p>
 <p>Week 2</p>
 <p>Calendar Week 36</p>
 <p>Aug 31 - Sep 04</p>
@@ -47,7 +47,7 @@ Find more information about this session on the [topic page](./abap/readme.md).
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 3</p>
 <p>Calendar Week 37</p>
 <p>Sep 07 - Sep 11</p>

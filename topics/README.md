@@ -56,7 +56,7 @@ Find more information about this session on the [topic page](./abap/readme.md).
 
 ## SAP Cloud Application Programming Model (CAP)
 
-Topic Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Tom Jung](https://github.com/jung-thomas)
+Topic Owners:  [Max Streifeneder](https://github.com/maxtreifeneder) and [Thomas Jung](https://github.com/jung-thomas)
 
 "The SAP Cloud Application Programming Model is a framework of languages, libraries, and tools for building enterprise-grade services and applications. It guides developers along a ‘golden path’ of proven best practices and a great wealth of out-of-the-box solutions to recurring tasks."
 
@@ -108,6 +108,27 @@ Find more information about this session on the [topic page](./hana-multimodel/R
 </td>
 </tr>
 
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Week 6</p>
+<p>Calendar Week 40</p>
+<p>Sep 28 - Oct 2</p>
+</td>
+<td>
+
+## Multiple Topics: Cloud APIs and Building VSCode Extensions
+
+Topic Owners: [DJ Adams](https://github.com/qmacro) and [Thomas Jung](https://github.com/jung-thomas)
+
+**Cloud APIs** 
+
+**Building VSCode Extensions**
+
+</td>
+</tr>
+
 <tr>
 <td>
 <p><b><!--CURRENT WEEK--></b></p>
@@ -117,7 +138,7 @@ Find more information about this session on the [topic page](./hana-multimodel/R
 </td>
 <td>
 
-## project "Kyma."
+## project "Kyma"
 
 Topic Owners:  [Kevin Muessig](https://github.com/KevinMuessig) and [Josh Bentley](https://github.com/jarjarbentley)
 
@@ -128,6 +149,69 @@ SAP has launched the SAP Cloud Platform Extension Factory, Kyma runtime. With th
 Learn what Kyma is and how you can adopt it as a company to better extend your existing On-Prem and Cloud solutions.
 
 Find more information about this session on the [topic page](./kyma/readme.md).
+</td>
+</tr>
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Week 8</p>  
+<p>Calendar Week 42</p>
+<p>Oct 12 - Oct 16</p>
+</td>
+<td>
+
+## Community Open Source Projects
+
+Topic Owners:  None
+
+This week will be unique amongst all the enablement topics.  Instead of focusing on a particluar technology or tool, this week will be all about creating, contributing to, or maintaining community open source projects. Instead of SAP presenters this week we will showcase key community members, past and present, who will speak on their experiences.  We will have open Q&A and panel discussions where these developer heroes share what its been like for them to create or utilize open source projects in the SAP world.
+
+Find more information about this session on the [topic page](./community-projects/readme.md).
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Week 9</p>  
+<p>Calendar Week 43</p>
+<p>Oct 19 - Oct 23</p>
+</td>
+<td>
+
+## GitHub
+
+Topic Owners:  Our friends from GitHub
+
+This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particluarly for open source content. And GitHub offers the most popuplar managed and public instance of Git.
+
+As many of you will be interactiving with GitHub to to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub. 
+
+Find more information about this session on the [topic page](./github/readme.md).
+</td>
+</tr>
+
+<tr>
+<td>
+<p><b><!--CURRENT WEEK--></b></p>
+<p>Week 10</p>  
+<p>Calendar Week 44</p>
+<p>Oct 24 - Oct 31</p>
+</td>
+<td>
+
+## Build Week
+
+Topic Owners:  You!
+
+This is the build sprint where you can create or contribute to an open source project to be part of the contest aspect of Devtoberfest. Build something that makes your fellow SAP developers lives better and do so in open source so everyone can share in it. What you decide to build could be a tool, a library, or even just a code sample. Or an enhancement to an existing community project.
+
+If you want to participate in the contest/building challenge, then you must [register as an individual with Eventbrite](https://www.eventbrite.com/e/devtoberfest-registration-116904322977).
+
+In order to track the open source projects that will be judged, we also ask that you add the URL to your project in the [entry.txt](https://github.com/SAP-samples/sap-devtoberfest-2020/blob/master/entry.txt) via pull request.
+
 </td>
 </tr>
 

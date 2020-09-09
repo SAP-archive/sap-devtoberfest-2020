@@ -76,7 +76,7 @@ Find more information about this session on the [topic page](./cap/README.md).
 </td>
 <td>
 
-## SAP Business Application Studio for Fiori Development
+## SAP Business Application Studio for SAP Fiori Development
 
 Topic Owner: [Marius Obert](https://github.com/IObert)
 

@@ -31,8 +31,8 @@ Don't worry if you can't make a premiere, though! After the premiere is over, th
 
 In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 23 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
-- 0800 CEST (UTC+2) → [Zoom meeting link]
-- 1400 CEST (UTC+2) → [Zoom meeting link]
+- 0800 CEST (UTC+2) → [Zoom meeting link](https://sap-se.zoom.us/j/94931819373)
+- 1400 CEST (UTC+2) → [Zoom meeting link](https://sap-se.zoom.us/j/92648047589)
 
 These office hours sessions **will also be** in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier.
 

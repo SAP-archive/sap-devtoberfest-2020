@@ -10,7 +10,8 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 ## Parts
 
-| Description | Premiers on |Duration | Link to recording |
-|-|-|-|-|
-|SAP HANA's Spatial Engine| tba |-|-|
-|SAP HANA's Graph Engine| tba |-|-|
+| Video                                                                               | Description                                                                                               | Length  |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------- |
+| ![Introduction](DevtoberfestHANAAA00Intro.png)                     | Do you know SAP HANA Advanced Analytics? <br>Premiers on: date and time tba <br> | 41 mins |
+|-|SAP HANA's Spatial Engine| tba |
+|-|SAP HANA's Graph Engine| tba |

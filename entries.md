@@ -88,7 +88,7 @@
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
 * Stars: 720, Forks: 316, Watchers: 720
-* Open Issues: 234, Has Projects: false, Has Wiki: false
+* Open Issues: 235, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Fri, 11 Sep 2020 14:42:06 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -125,10 +125,10 @@
 
 * Stars: 79, Forks: 21, Watchers: 79
 * Open Issues: 23, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 11 Sep 2020 14:47:44 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 11 Sep 2020 14:48:33 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)
 
 
 
@@ -149,7 +149,7 @@
 
 * Stars: 0, Forks: 0, Watchers: 0
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 10 Sep 2020 17:14:03 GMT, Updated At: Thu, 10 Sep 2020 17:39:50 GMT
+* Created At: Thu, 10 Sep 2020 17:14:03 GMT, Updated At: Fri, 11 Sep 2020 16:14:57 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [tricktresor](https://github.com/tricktresor)
 * Contributors: [tricktresor](https://github.com/tricktresor)

@@ -5,14 +5,14 @@
 Here you'll find content to help you level up with the [project "Kyma"](https://kyma-project.io). This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions.
 
 - [project "Kyma"](https://kyma-project.io)
-- [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
+- [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
 - [Thomas Hertz - Get a fully managed runtime based on Kyma and Kubernetes](https://blogs.sap.com/2020/05/12/get-a-fully-managed-runtime-based-on-kyma-and-kubernetes/)
 
 All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos.
 
 ## Exercises
 
-We have a set of exercises that help you get to know the open source Kyma project as well as an introduction into the [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6).
+We have a set of exercises that help you get to know the open source Kyma project as well as an introduction into the [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6).
 They take you through a series of tasks, covering everything from a basic overview and introduction, through setting up a local Kyma installment as well as using a Hyper-Scaler, interaction and development for the Kyma runtime. You will learn how to utilize different services to extend your application deployments and how to make your application scalable.
 
 <!-- You can follow these exercises yourself, at your own pace, using the resources in the [Virtual Event - project "Kyma."]() repository. -->
@@ -34,10 +34,10 @@ Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 05 Oct | Tue 06 Oct | Wed 07 Oct | Thu 08 Oct | Fri 09 Oct |
 | - | - | - | - | - | - |
-| TBD | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
+| TBD | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
 | TBD | [Exercise 02](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 04](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
 
-There is also an introduction to the [SAP Cloud Platform Extension Factory, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
+There is also an introduction to the [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
 
 <!-- Need links to videos as soon as online, also needs time information-->
 

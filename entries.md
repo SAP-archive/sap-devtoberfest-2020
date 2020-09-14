@@ -15,9 +15,9 @@
 ## Devtoberfest-2020: Devtoberfest 2020 participation
 [https://github.com/bmaciag/Devtoberfest-2020](https://github.com/bmaciag/Devtoberfest-2020)
 
-* Stars: 0, Forks: 0, Watchers: 0
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Fri, 21 Aug 2020 06:05:03 GMT, Updated At: Fri, 21 Aug 2020 06:05:07 GMT
+* Created At: Fri, 21 Aug 2020 06:05:03 GMT, Updated At: Mon, 14 Sep 2020 13:26:48 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [bmaciag](https://github.com/bmaciag)
 * Contributors: [bmaciag](https://github.com/bmaciag)
@@ -28,8 +28,8 @@
 [https://github.com/goreraks/abapGitcustomizing](https://github.com/goreraks/abapGitcustomizing)
 
 * Stars: 0, Forks: 0, Watchers: 0
-* Open Issues: 5, Has Projects: true, Has Wiki: true
-* Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Sun, 13 Sep 2020 17:40:23 GMT
+* Open Issues: 3, Has Projects: true, Has Wiki: true
+* Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Mon, 14 Sep 2020 15:07:13 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [goreraks](https://github.com/goreraks)
 * Contributors: [goreraks](https://github.com/goreraks)
@@ -123,9 +123,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 83, Forks: 23, Watchers: 83
-* Open Issues: 22, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 14 Sep 2020 09:44:33 GMT
+* Stars: 84, Forks: 23, Watchers: 84
+* Open Issues: 23, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 14 Sep 2020 15:46:36 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)

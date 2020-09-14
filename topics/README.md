@@ -47,7 +47,7 @@ Find more information about this session on the [topic page](./abap/readme.md).
 
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
+<p><b><!--CURRENT WEEK--></b></p>
 <p>Week 3</p>
 <p>Calendar Week 37</p>
 <p>Sep 07 - Sep 11</p>
@@ -69,7 +69,7 @@ Find more information about this session on the [topic page](./cap/README.md).
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 4</p>
 <p>Calendar Week 38</p>
 <p>Sep 14 - Sep 18</p>

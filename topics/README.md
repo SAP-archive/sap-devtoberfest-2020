@@ -3,7 +3,7 @@
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
 level up before you get started.
 
-[Current Week's Content](./cap/README.md)
+[Current Week's Content](./appstudio/readme.md)
 
 <table>
 <tr>

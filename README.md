@@ -1,9 +1,9 @@
 # Devtoberfest 2020 from SAP
 <img src="./Devtoberfest2020.jpg" width="200">
 
-## This week (Week 3 : 07 Sep → 11 Sep Aug 2020)
+## This week (Week 4 : 14 Sep → 18 Sep 2020)
 
-This week we have the SAP Cloud Application Programming Model (CAP) content for you - as [a series of premieres on YouTube and exercises](topics/cap/README.md) for you to do at your own pace. 
+This week we have the SAP Business Application Studio for SAP Fiori Development content for you - as [a series of premieres on YouTube and exercises](topics/appstudio/readme.md) for you to do at your own pace. 
 
 ## Description
 

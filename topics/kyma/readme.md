@@ -64,4 +64,4 @@ In case you have anything you want to ask or discuss, relating to the content he
 | [![Exercise 4](thumbnail-005.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 4 - Expose your Service through an OAuth2 secured API](https://github.com/SAP-samples) | tba |
 | [![Exercise 5](thumbnail-006.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples) | tba |
 | [![Exercise 6](thumbnail-007.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 6 - Prepare your project "Kyma" environment for Scale](https://github.com/SAP-samples) | tba |
-| [![Managed Kyma](thumbnail-008.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform Extension Factory, Kyma runtime](https://github.com/SAP-samples) | tba |
+| [![Managed Kyma](thumbnail-008.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform, Kyma runtime](https://github.com/SAP-samples) | tba |

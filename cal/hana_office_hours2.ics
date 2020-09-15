@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200915T115350Z
+DTSTART;TZID=Europe/Berlin:20200930T140000
+DTEND;TZID=Europe/Berlin:20200930T150000
+SUMMARY:Devtoberfest - SAP HANA: Multi-model - Office Hours #2
+UID:20200915T115350Z-96556204729@fe80:0:0:0:c32:f7ff:feb7:ad55ens5
+TZID:Europe/Berlin
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://sap-se.zoom.com/j/96556204729\n	D
+ escription: https://github.com/SAP-samples/sap-devtoberfest-2020/tree/ma
+ ster/topics/hana-multimodel\nSAP HANA’s Spatial Engine allows you to pro
+ cess and analyze spatial data like a geo-ninja. Learn how to handle geo-
+ spatial data and derive advanced insights on an SQL level. Since SAP HAN
+ A is following the OGC standards\, you will be easily able to visualize 
+ your work on almost any map.\n\nNetworks are all around us - road networ
+ ks\, social networks\, supplier networks\, communication networks etc. T
+ he SAP HANA Graph engine allows you to model\, process\, and analyze con
+ nected data. Learn how to work with graphs within the SAP HANA database.
+ \n\nIn case you have anything you want to ask or discuss\, relating to t
+ he content here\, we'll hold a couple of hour-long &quot\;office hours&q
+ uot\; sessions in the week following the video premieres.\n\nOr join by 
+ phone:\n    Dial(for higher quality\, dial a number based on your curren
+ t location):\n        US: +1 929 205 6099  or +1 301 715 8592  or +1 312
+  626 6799  or +1 669 900 6833  or +1 253 215 8782  or +1 346 248 7799 \n
+         Germany: +49 69 7104 9922  or +49 30 5679 5800  or +49 69 3807 9
+ 883  or +49 695 050 2596 \n    Webinar ID: 965 5620 4729\n    Internatio
+ nal numbers available: https://sap-se.zoom.com/u/a2dkdw0jz\n\n\nOr an H.
+ 323/SIP room system:\n    H.323: \n        162.255.37.11 (US West)\n    
+     162.255.36.11 (US East)\n        221.122.88.195 (China)\n        115
+ .114.131.7 (India Mumbai)\n        115.114.115.7 (India Hyderabad)\n    
+     213.19.144.110 (Amsterdam Netherlands)\n        213.244.140.110 (Ger
+ many)\n        103.122.166.55 (Australia)\n        209.9.211.110 (Hong K
+ ong SAR)\n        149.137.40.110 (Singapore)\n        64.211.144.160 (Br
+ azil)\n        69.174.57.160 (Canada)\n        207.226.132.110 (Japan)\n
+     Webinar ID: 965 5620 4729\n\n    SIP: 96556204729@zoomcrc.com\n
+LOCATION:https://sap-se.zoom.us/j/96556204729
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

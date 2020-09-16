@@ -10,9 +10,9 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 ## Parts
 
-| Video                                                                               | Description                                                                                               | Length  |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------- |
-| [![Introduction](thumbnails/tn00.png)](https://youtu.be/OkPMdbn1vBs))                   | <br>Premiers on: Mon, Sep 21 at 15:00 CEST (UTC+2) <br> | 39 mins <a>|
+| Video | Description | Length |
+| - | - | - |
+| [![Introduction](thumbnails/tn00.png)](https://youtu.be/OkPMdbn1vBs) | Do you know Advanced Analytics? <br>Premiers on: Mon, Sep 21 at 15:00 CEST (UTC+2) | 36 mins |
 |-|SAP HANA's Spatial Engine 01<br>Premiers on: Tue, Sep 22 at 15:00 CEST (UTC+2) <br>| tba |
 |-|SAP HANA's Spatial Engine 02<br>Premiers on: Tue, Sep 23 at 15:00 CEST (UTC+2) <br>| tba |
 |-|SAP HANA's Graph Engine <br>Premiers on: Thu, Sep 24 at 15:00 CEST (UTC+2) <br>| tba |

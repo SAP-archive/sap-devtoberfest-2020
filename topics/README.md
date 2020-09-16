@@ -206,7 +206,7 @@ Find more information about this session on the [topic page](./github/readme.md)
 <p><b><!--CURRENT WEEK--></b></p>
 <p>Week 10</p>  
 <p>Calendar Week 44</p>
-<p>Oct 24 - Oct 31</p>
+<p>Oct 24 - Nov 1</p>
 </td>
 <td>
 

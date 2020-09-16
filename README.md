@@ -8,6 +8,7 @@ This week we have the SAP Business Application Studio for SAP Fiori Development 
 ## Key Dates
 
 | Date | Description | 
+| ---------------- | ---------------- |
 | Sep 23 at 1700 CEST (UTC+2) | [Community Speed Networking](#devtoberfest-community-speed-networking-session) |
 | Oct 12 - 16 | [Community Open Source Week](./topics/community-projects/readme.md) |
 | Oct 23 at 1830 - Nov 2 at 0001 PST (UTC-8) | [Build Week](./topics/README.md#build-week) |

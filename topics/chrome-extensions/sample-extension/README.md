@@ -1,5 +1,7 @@
-# sapcp-jwt-xt
+# Sample Extension for devtoberfest
 This Chrome extension will simplify working with the XSUAA and its provided JWTs. The extension will add two buttons within the service instance view of the cockpit to get either a JWT with the **client credential flow** or the **authorization code flow**.
+
+This is **NOT** an official Chrome Extension supported by SAP. This only serves as a sample extension for the devtoberfest. 
 
 # How to install
 

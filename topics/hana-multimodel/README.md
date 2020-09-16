@@ -12,9 +12,13 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 | Video | Description | Length |
 | - | - | - |
-| [![Introduction](thumbnails/tn00.png)](https://youtu.be/OkPMdbn1vBs) | Do you know Advanced Analytics? <br>Premiers on: Mon, Sep 21 at 15:00 CEST (UTC+2) | 36 mins |
-|-|SAP HANA's Spatial Engine 01<br>Premiers on: Tue, Sep 22 at 15:00 CEST (UTC+2) <br>| tba |
-|-|SAP HANA's Spatial Engine 02<br>Premiers on: Tue, Sep 23 at 15:00 CEST (UTC+2) <br>| tba |
+| [![Introduction](thumbnails/tn00.png)](https://youtu.be/OkPMdbn1vBs) | Do you know SAP HANA Advanced Analytics? <br>Premiers on: Mon, Sep 21 at 15:00 CEST (UTC+2) | 36 mins |
+| [![0101](thumbnails/tn0101.png)](https://youtu.be/s48iAbBrYBI) | Introduction to (Geo-)Spatial Data <br>Premiers on: Tue, Sep 22 at 15:00 CEST (UTC+2) <br>| 6 mins |
+| [![0102](thumbnails/tn0102.png)](https://youtu.be/s48iAbBrYBI) | Spatial at SAP <br>Premiers on: Tue, Sep 22 at 15:15 CEST (UTC+2) <br>| 7 mins |
+| [![0103](thumbnails/tn0103.png)](https://youtu.be/uxNxFWmTTP4) | The Spatial Engine of SAP HANA Cloud <br>Premiers on: Tue, Sep 22 at 15:30 CEST (UTC+2) <br>| 16 mins |
+| [![0104](thumbnails/tn0104.png)](https://youtu.be/6dh_Hj6d9xM) | Dealing with Spatial Data in SQL <br>Premiers on: Tue, Sep 23 at 15:00 CEST (UTC+2) <br>| 19 mins |
+| [![0105](thumbnails/tn0105.png)](https://youtu.be/Jv1BIMpxoR4) | Machine Learning with Geospatial Data <br>Premiers on: Tue, Sep 23 at 15:30 CEST (UTC+2) <br>| 9 mins |
+| [![0106](thumbnails/tn0106.png)](https://youtu.be/9nF8ergZf-o) | Prediction of Housing Prices [demo] <br>Premiers on: Tue, Sep 23 at 15:30 CEST (UTC+2) <br>| 31 mins |
 |-|SAP HANA's Graph Engine <br>Premiers on: Thu, Sep 24 at 15:00 CEST (UTC+2) <br>| tba |
 
 ## Office hours sessions

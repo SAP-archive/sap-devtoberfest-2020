@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "SAP CP JWT Extension",
+    "version": "0.1",
+    "permissions": [
+        "clipboardWrite", "tabs", "activeTab", "https://account.int.sap.hana.ondemand.com/*",  "https://account.hana.ondemand.com/*", "https://*.authentication.sap.hana.ondemand.com", "https://*.authentication.eu10.hana.ondemand.com/*"
+      ],
+    "content_scripts": [
+        {
+          "matches": [
+            "https://account.int.sap.hana.ondemand.com/cockpit*",  "https://account.hana.ondemand.com/cockpit*"
+          ],
+          "js": ["content.js"]
+        }
+      ], 
+      "background": {
+        "scripts": ["backgroundScript.js"]
+        }
+  }

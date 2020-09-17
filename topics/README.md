@@ -126,13 +126,29 @@ This session **will also be** in the [public Google Calendar](https://calendar.g
 </td>
 <td>
 
-## Multiple Topics: Cloud APIs and Building VSCode Extensions
+## Multiple Topics: Cloud APIs, Building VSCode Extensions, and Google Chrome Extensions
 
-Topic Owners: [DJ Adams](https://github.com/qmacro) and [Thomas Jung](https://github.com/jung-thomas)
+Topic Owners: [DJ Adams](https://github.com/qmacro), [Thomas Jung](https://github.com/jung-thomas),  [Max Streifeneder](https://github.com/maxtreifeneder)
 
-**Cloud APIs** 
+### Cloud APIs
 
-**Building VSCode Extensions**
+### Building VSCode Extensions
+
+As we have seen over several weeks of sessions, the vast majority of the development experience is delivered via the Business Application Studio and/or VSCode.  The two have a close relationship sharing similar architecture, design and importantly the same approach to extensions.  This is how SAP is now able to develop new editors and development tools and deliver them to both Busienss Application Studio and VSCode.
+
+In this topic's sessions we will look at how a VSCode extension is developed and how you can begin to create your own extensions.
+
+Find more information about this session on the [topic page](./vscode-extensions/readme.md).
+
+### Google Chrome Extensions
+
+"Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences. They are built on web technologies such as HTML, JavaScript, and CSS.
+
+An extension must fulfill a single purpose that is narrowly defined and easy to understand. A single extension can include multiple components and a range of functionality, as long as everything contributes towards a common purpose.", so the [short description of Google Chrome Extensions](https://developer.chrome.com/extensions). 
+
+Do you use some chrome extensions yourself and have often thought about writing a chrome extension yourself, but you don't know what's necessary and what the first steps are? We interviewed Jeffrey Groneberg, Principal Cloud Solution Architect, about his first Chrome Extension.
+
+Find more information about this session on the [topic page](./chrome-extensions/README.md).
 
 </td>
 </tr>
@@ -223,25 +239,4 @@ In order to track the open source projects that will be judged, we also ask that
 </td>
 </tr>
 
-<tr>
-<td>
-<p><b><!--CURRENT WEEK--></b></p>
-<p><!--Week N--></p>  
-<p><!--Calendar Week NN--></p>
-<p>TBD</p>
-</td>
-<td>
-
-## Google Chrome Extensions
-
-"Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences. They are built on web technologies such as HTML, JavaScript, and CSS.
-
-An extension must fulfill a single purpose that is narrowly defined and easy to understand. A single extension can include multiple components and a range of functionality, as long as everything contributes towards a common purpose.", so the [short description of Google Chrome Extensions](https://developer.chrome.com/extensions). 
-
-Do you use some chrome extensions yourself and have often thought about writing a chrome extension yourself, but you don't know what's necessary and what the first steps are? We interviewed Jeffrey Groneberg, Principal Cloud Solution Architect, about his first Chrome Extension. 
-
-Find more information about this session on the [topic page](./chrome-extensions/README.md).
-
-</td>
-</tr>
 </table>

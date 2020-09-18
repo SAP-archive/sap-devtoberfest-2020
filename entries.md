@@ -88,7 +88,7 @@
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
 * Stars: 722, Forks: 318, Watchers: 722
-* Open Issues: 225, Has Projects: false, Has Wiki: false
+* Open Issues: 226, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Fri, 18 Sep 2020 12:01:49 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -99,7 +99,7 @@
 ## vscode_abap_remote_fs: Remote filesystem for ABAP systems
 [https://github.com/marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs)
 
-* Stars: 99, Forks: 14, Watchers: 99
+* Stars: 99, Forks: 15, Watchers: 99
 * Open Issues: 14, Has Projects: true, Has Wiki: true
 * Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Wed, 16 Sep 2020 11:16:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -124,8 +124,8 @@
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
 * Stars: 93, Forks: 23, Watchers: 93
-* Open Issues: 15, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 18 Sep 2020 08:12:20 GMT
+* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 18 Sep 2020 12:33:20 GMT
 * License: [Apache License 2.0](http://choosealicense.com/licenses/apache-2.0/)
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)

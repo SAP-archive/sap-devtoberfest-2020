@@ -1,4 +1,6 @@
 # Devtoberfest 2020 from SAP
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-devtoberfest-2020)](https://api.reuse.software/info/github.com/SAP-samples/sap-devtoberfest-2020)
+
 <img src="./Devtoberfest2020.jpg" width="200">
 
 ## This week (Week 4 : 14 Sep → 18 Sep 2020)

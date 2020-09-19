@@ -88,7 +88,7 @@
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
 * Stars: 723, Forks: 318, Watchers: 108
-* Open Issues: 226, Has Projects: false, Has Wiki: false
+* Open Issues: 227, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Sat, 19 Sep 2020 09:02:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -125,7 +125,7 @@
 
 * Stars: 96, Forks: 23, Watchers: 41
 * Open Issues: 14, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sat, 19 Sep 2020 13:27:06 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sat, 19 Sep 2020 13:27:51 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)

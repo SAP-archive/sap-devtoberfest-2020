@@ -3,7 +3,7 @@
 ## pythonify: Assemble tools/plugins/libraries/samples for jumpstarting SAP opinionated Python development for VSCode and BAS
 [https://github.com/andrewlunde/pythonify](https://github.com/andrewlunde/pythonify)
 
-* Stars: 0, Forks: 0, Watchers: 0
+* Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Thu, 03 Sep 2020 19:50:00 GMT, Updated At: Tue, 08 Sep 2020 14:51:29 GMT
 * License: 
@@ -27,7 +27,7 @@
 ## abapGitcustomizing: abapGit for customizing content
 [https://github.com/goreraks/abapGitcustomizing](https://github.com/goreraks/abapGitcustomizing)
 
-* Stars: 0, Forks: 0, Watchers: 0
+* Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Thu, 17 Sep 2020 15:39:16 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -39,7 +39,7 @@
 ## abap-dev-utilities: ABAP Development Tools
 [https://github.com/jrodriguez-rc/abap-dev-utilities](https://github.com/jrodriguez-rc/abap-dev-utilities)
 
-* Stars: 2, Forks: 0, Watchers: 2
+* Stars: 2, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Thu, 06 Aug 2020 16:43:59 GMT, Updated At: Sat, 19 Sep 2020 02:55:11 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -51,7 +51,7 @@
 ## abapdoc_confluence_export: Export ABAP Objects Documentation to Confluence
 [https://github.com/jrodriguez-rc/abapdoc_confluence_export](https://github.com/jrodriguez-rc/abapdoc_confluence_export)
 
-* Stars: 0, Forks: 0, Watchers: 0
+* Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 4, Has Projects: true, Has Wiki: true
 * Created At: Wed, 02 Sep 2020 15:56:36 GMT, Updated At: Tue, 15 Sep 2020 13:03:11 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -63,7 +63,7 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 
-* Stars: 9, Forks: 1, Watchers: 9
+* Stars: 9, Forks: 1, Watchers: 4
 * Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Fri, 18 Sep 2020 07:02:03 GMT
 * License: Other
@@ -75,7 +75,7 @@
 ## abap-wasm: WebAssembly Virtual Machine / Interpreter / Runtime in ABAP
 [https://github.com/larshp/abap-wasm](https://github.com/larshp/abap-wasm)
 
-* Stars: 1, Forks: 0, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 2
 * Open Issues: 2, Has Projects: false, Has Wiki: false
 * Created At: Fri, 27 Dec 2019 10:59:08 GMT, Updated At: Tue, 01 Sep 2020 19:24:45 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -87,7 +87,7 @@
 ## abapGit: Git client for ABAP
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
-* Stars: 723, Forks: 318, Watchers: 723
+* Stars: 723, Forks: 318, Watchers: 108
 * Open Issues: 226, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Sat, 19 Sep 2020 09:02:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -99,7 +99,7 @@
 ## vscode_abap_remote_fs: Remote filesystem for ABAP systems
 [https://github.com/marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs)
 
-* Stars: 99, Forks: 15, Watchers: 99
+* Stars: 99, Forks: 15, Watchers: 19
 * Open Issues: 14, Has Projects: true, Has Wiki: true
 * Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Wed, 16 Sep 2020 11:16:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -123,19 +123,19 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 96, Forks: 23, Watchers: 96
-* Open Issues: 15, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sat, 19 Sep 2020 11:09:50 GMT
+* Stars: 96, Forks: 23, Watchers: 41
+* Open Issues: 14, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sat, 19 Sep 2020 13:27:06 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [larshp](https://github.com/larshp), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [Sygyzmundovych](https://github.com/Sygyzmundovych), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)
 
 
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
-* Stars: 21, Forks: 5, Watchers: 21
+* Stars: 21, Forks: 5, Watchers: 19
 * Open Issues: 2, Has Projects: true, Has Wiki: true
 * Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Sat, 19 Sep 2020 03:42:46 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -147,7 +147,7 @@
 ## tree_template: Tricktresor Tree Template (#devtoberfest)
 [https://github.com/tricktresor/tree_template](https://github.com/tricktresor/tree_template)
 
-* Stars: 0, Forks: 0, Watchers: 0
+* Stars: 0, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
 * Created At: Thu, 10 Sep 2020 17:14:03 GMT, Updated At: Fri, 11 Sep 2020 16:14:57 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)

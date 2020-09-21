@@ -69,7 +69,6 @@ Find more information about this session on the [topic page](./cap/README.md).
 
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
 <p>Week 4</p>
 <p>Calendar Week 38</p>
 <p>Sep 14 - Sep 18</p>
@@ -89,7 +88,7 @@ Find more information about this session on the [topic page](./appstudio/readme.
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 5</p>
 <p>Calendar Week 39</p>
 <p>Sep 21 - Sep 25</p>

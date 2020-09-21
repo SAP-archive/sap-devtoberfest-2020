@@ -127,9 +127,15 @@ This session **will also be** in the [public Google Calendar](https://calendar.g
 
 ## Multiple Topics: Cloud APIs, Building VSCode Extensions, and Google Chrome Extensions
 
-Topic Owners: [DJ Adams](https://github.com/qmacro), [Thomas Jung](https://github.com/jung-thomas),  [Max Streifeneder](https://github.com/maxtreifeneder)
+Topic Owners: [DJ Adams](https://github.com/qmacro), [Thomas Jung](https://github.com/jung-thomas),  [Max Streifeneder](https://github.com/maxstreifeneder)
 
 ### Cloud APIs
+
+APIs are more prominent than ever in the cloud, and in the context of SAP Cloud Platform it is important to understand the scope of APIs, where to find information about them, how OAuth 2.0 is used to protect them, and perhaps most of all to get a hands-on feeling for how APIs calls are made. 
+
+In the sessions for this Cloud APIs topic, we'll look at where we can find information on API resources, we'll get a solid understanding of OAuth 2.0, and we'll then take a set of APIs for a spin, setting up for and calling various endpoints from within the SAP Business Application Studio and within the SAP Business API Hub too.
+
+Find out more about the sessions for this topic on the [Cloud APIs topic page](./cloud-apis/readme.md).
 
 ### Building VSCode Extensions
 

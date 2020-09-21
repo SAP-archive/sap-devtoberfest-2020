@@ -3,9 +3,9 @@
 
 <img src="./Devtoberfest2020.jpg" width="200">
 
-## This week (Week 4 : 14 Sep → 18 Sep 2020)
+## This week (Week 5 : 21 Sep → 24 Sep 2020)
 
-This week we have the SAP Business Application Studio for SAP Fiori Development content for you - as [a series of premieres on YouTube and exercises](topics/appstudio/readme.md) for you to do at your own pace. 
+This week we have the SAP HANA Advanced Analytics (with the foocus on multi-model) content for you - as [a series of premieres on YouTube](topics/hana-multimodel/readme.md) for you. 
 
 ## Key Dates
 

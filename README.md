@@ -5,7 +5,7 @@
 
 ## This week (Week 5 : 21 Sep → 24 Sep 2020)
 
-This week we have the SAP HANA Advanced Analytics (with the foocus on multi-model) content for you - as [a series of premieres on YouTube](topics/hana-multimodel/readme.md) for you. 
+This week we have the SAP HANA Advanced Analytics (with the foocus on multi-model) content for you - as [a series of premieres on YouTube](topics/hana-multimodel/README.md#sap-hana-multi-model) for you. 
 
 ## Key Dates
 

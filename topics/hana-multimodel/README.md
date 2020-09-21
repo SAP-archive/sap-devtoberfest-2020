@@ -24,7 +24,7 @@ Here's what the premiere schedule looks like:
 
 | Video | Description | Length |
 | - | - | - |
-| [![Introduction](thumbnails/tn00.png)](https://youtu.be/OkPMdbn1vBs) | Do you know SAP HANA Advanced Analytics? <br>Premiers on: Mon, Sep 21 at 15:00 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_1.ics) | 36 mins |
+| [![Introduction](thumbnails/tn00.png)](https://youtu.be/OkPMdbn1vBs) | **Do you know SAP HANA Advanced Analytics?** <br>Premiered on: Mon, Sep 21 | 36 mins |
 | [![0101](thumbnails/tn0101.png)](https://youtu.be/s48iAbBrYBI) | Introduction to (Geo-)Spatial Data <br>Premiers on: Tue, Sep 22 at 15:00 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_2.ics) | 6 mins |
 | [![0102](thumbnails/tn0102.png)](https://youtu.be/W-3th2mhJA4) | Spatial at SAP <br>Premiers on: Tue, Sep 22 at 15:15 CEST (UTC+2) <br> [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_3.ics) | 7 mins |
 | [![0103](thumbnails/tn0103.png)](https://youtu.be/uxNxFWmTTP4) | The Spatial Engine of SAP HANA Cloud <br>Premiers on: Tue, Sep 22 at 15:30 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_4.ics) | 16 mins |

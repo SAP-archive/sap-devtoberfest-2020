@@ -28,6 +28,13 @@ For you, this means that you can set a reminder for the premieres to get notific
 Don't worry if you can't make a premiere, though! After the premiere is over, the video will be available for anyone to watch at any time after that, just like a normal YouTube video (and it will keep the same URL). 
 
 Here's what the premiere schedule looks like - note that there are different lengths and start times for each video premiere (currently all times are approximate):
+Here's what the premiere schedule looks like:
+
+| Date / Time      | Mon 28 Sep        | Tues 29 Sep       | Wed 30 Sep  | Thurs 1 Oct |
+| ---------------- | ---------------- | --------------- | --------------- | --------------- |
+| 1100 BST (UTC+1) | [Exercise 01](https://youtu.be/efnYDfEwqDs) | [Exercise 03](https://youtu.be/FvYyQQiKzmQ) | | [Exercise 05]() |
+| 1115 BST (UTC+1) | [Exercise 02](https://youtu.be/ie3V0HuJg8M) | [Exercise 04]() |  
+| 1130 BST (UTC+1) | | | | [Exercise 06]() |
 
 | Video | Description | Video Length |
 | - | - | - |

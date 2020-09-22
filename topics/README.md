@@ -129,6 +129,19 @@ This session **will also be** in the [public Google Calendar](https://calendar.g
 
 Topic Owners: [DJ Adams](https://github.com/qmacro), [Thomas Jung](https://github.com/jung-thomas),  [Max Streifeneder](https://github.com/maxstreifeneder)
 
+Like other weeks, the topic page will have the detailed schedule. However unlike other weeks we have a mixture of multiple topics this week.  Therefore here is also an overview of the entire schedule for the week:
+
+| Date / Time      | Mon 28 Sep        | Tues 29 Sep       | Wed 30 Sep  | Thurs 1 Oct | Fri 2 Oct |
+| ---------------- | ---------------- | --------------- | --------------- | --------------- | --------------- |
+| 0800 CEST (UTC+2) | | | [HANA Multi-model Office Hours #1](https://sap-se.zoom.us/j/96414122925) | |
+| 1000 CEST (UTC+2) | | | [Building VSCode Extensions with Jhodel Cailan](https://sap-se.zoom.com/j/97267223067) | | |
+| 1200 CEST (UTC+2) | [Cloud APIs Ex 01](https://youtu.be/efnYDfEwqDs) | [Cloud APIs Ex 03](https://youtu.be/FvYyQQiKzmQ) | | [Cloud APIs Ex 05]() | [Chrome Extensions](https://youtu.be/gWeLFsElh1s) |
+| 1215 CEST (UTC+2) | [Cloud APIs 02](https://youtu.be/ie3V0HuJg8M) | [Cloud APIs Ex 04]() |  |
+| 1230 CEST (UTC+2) | | | | [Cloud APIs Ex 06]() | |
+| 1400 CEST (UTC+2) | | | [HANA Multi-model Office Hours #2](https://sap-se.zoom.us/j/96556204729) | |
+| 1800 EST (UTC-4) | [VSCode Extensions - Introduction](https://youtu.be/vE-5RZkYOXo) | [VSCode Extensions -Large Scale Example](https://youtu.be/VVRyRy9hFDw) | | |
+| 1800 EST (UTC-4) | [VSCode Extensions - Hello World Tutorial](https://youtu.be/aoR7q_d4KuE) |                 |  | |
+
 ### Cloud APIs
 
 APIs are more prominent than ever in the cloud, and in the context of SAP Cloud Platform it is important to understand the scope of APIs, where to find information about them, how OAuth 2.0 is used to protect them, and perhaps most of all to get a hands-on feeling for how APIs calls are made. 

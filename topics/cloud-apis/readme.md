@@ -29,20 +29,10 @@ Don't worry if you can't make a premiere, though! After the premiere is over, th
 
 Here's what the premiere schedule looks like - note that there are different lengths and start times for each video premiere (currently all times are approximate):
 
-**Monday 28 Sep**
-
-1100 BST (UTC+1) Exercise 01 - Get an overview of API resources (15 mins)<br>
-1115 BST (UTC+1) Exercise 02 - Understand OAuth 2.0 at a high level (15 mins)<br>
-
-**Tuesday 29 Sep**
-
-1100 BST (UTC+1) Exercise 03 - Setting up your dev space in App Studio (30 mins)<br>
-1130 BST (UTC+1) Exercise 04 - Creating a Workflow service instance & deploying a definition (30 mins)<br>
-
-**Wednesday 30 Sep**
-
-1100 BST (UTC+1) Exercise 05 - Workflow API calls, scopes, access token contents & more (30 mins)<br>
-1130 BST (UTC+1) Exercise 06 - Calling the Workflow API from within the API Hub (30 mins)<br>
+| Video | Description | Video Length |
+| - | - | - |
+| [![Exercise 01](cloud-apis-1.png)](https://youtu.be/efnYDfEwqDs)  | [Exercise 01 - Get an overview of API resources](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/01/readme.md)  <br><br>[Premieres](https://youtu.be/efnYDfEwqDs) on Mon 28 Sep at 1100 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex1.ics) | 12 mins |
+| [![Exercise 02](cloud-apis-2.png)](https://youtu.be/ie3V0HuJg8M)  | [Exercise 02 - Understand OAuth 2.0 at a high level](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/02/readme.md)  <br><br>[Premieres](https://youtu.be/ie3V0HuJg8M) on Mon 28 Sep at 1115 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex1.ics) | 16 mins |
 
 
 ## Office hours sessions

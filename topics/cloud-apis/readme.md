@@ -8,7 +8,7 @@ All of the scheduled content described on this page (the premieres and the offic
 
 ## Exercises
 
-We have a set of exercises that help you learn about Cloud APIs. In the first part, you'll get an overview of API resources on SAP Cloud Platform, and also we'll help you understand OAuth 2.0 which is essential when it comes to protecting and using cloud APIs. In the second part, we take a deep dive into a specific set of APIs (for SAP Cloud Platform Workflow). What's important is not the fact that the APIs are related to Workflow or anything else; what's important is that you:
+We have a [set of exercises that help you learn about Cloud APIs](https://github.com/SAP-samples/cloud-apis-virtual-event/). In the first part, you'll get an overview of API resources on SAP Cloud Platform, and also we'll help you understand OAuth 2.0 which is essential when it comes to protecting and using cloud APIs. In the second part, we take a deep dive into a specific set of APIs (for SAP Cloud Platform Workflow). What's important is not the fact that the APIs are related to Workflow or anything else; what's important is that you:
 
 - learn how you can set up your own development space in the SAP Business Application Studio with tools that will help you explore and call the APIs
 - understand how to request access tokens and deal with authorization issues

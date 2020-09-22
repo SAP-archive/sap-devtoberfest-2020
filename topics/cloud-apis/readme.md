@@ -43,7 +43,7 @@ Here's what the premiere schedule looks like - note that there are different len
 
 In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on **Wed 07 Oct**. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
-- 0800 BST (UTC+1) → [Zoom meeting link]() | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_office_hours1.ics)
+- 0800 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/97591864805) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_office_hours1.ics)
 - 1400 BST (UTC+1) → [Zoom meeting link]() | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_office_hours2.ics)
 
 These office hours sessions are also in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier.

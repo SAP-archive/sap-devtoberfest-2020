@@ -133,14 +133,14 @@ Like other weeks, the topic page will have the detailed schedule. However unlike
 
 | Date / Time      | Mon 28 Sep        | Tues 29 Sep       | Wed 30 Sep  | Thurs 1 Oct | Fri 2 Oct |
 | ---------------- | ---------------- | --------------- | --------------- | --------------- | --------------- |
-| 0800 CEST (UTC+2) | | | HANA Multi-model</br>Office Hours #1</br>[Link](https://sap-se.zoom.us/j/96414122925) | |
-| 1000 CEST (UTC+2) | | | VSCode Extensions</br>with Jhodel Cailan</br>[Link](https://sap-se.zoom.com/j/97267223067) | | |
-| 1200 CEST (UTC+2) | Cloud APIs</br>Ex 01</br>[Link](https://youtu.be/efnYDfEwqDs) | Cloud APIs</br>Ex 03</br>[Link](https://youtu.be/FvYyQQiKzmQ) | | Cloud APIs</br>Ex 05</br>[Link]() | Chrome Extensions</br>[Link](https://youtu.be/gWeLFsElh1s) |
-| 1215 CEST (UTC+2) | Cloud APIs</br> Ex 02</br>[Link](https://youtu.be/ie3V0HuJg8M) | Cloud APIs</br>Ex 04</br>[Link]() |  |
-| 1230 CEST (UTC+2) | | | | Cloud APIs</br>Ex 06</br>[Link]() | |
-| 1400 CEST (UTC+2) | | | HANA Multi-model</br>Office Hours #2</br>[Link](https://sap-se.zoom.us/j/96556204729) | |
-| 1800 EST (UTC-4) | VSCode Extensions</br>Intro</br>[Link](https://youtu.be/vE-5RZkYOXo) | VSCode Extensions</br>Large Scale Example</br>[Link](https://youtu.be/VVRyRy9hFDw) | | |
-| 1800 EST (UTC-4) | VSCode Extensions</br>Hello World Tutorial</br>[Link](https://youtu.be/aoR7q_d4KuE) |                 |  | |
+| 0800 CEST</br>(UTC+2) | | | HANA Multi-model</br>Office Hours #1</br>[Link](https://sap-se.zoom.us/j/96414122925) | |
+| 1000 CEST</br>(UTC+2) | | | VSCode Extensions</br>with Jhodel Cailan</br>[Link](https://sap-se.zoom.com/j/97267223067) | | |
+| 1200 CEST</br>(UTC+2) | Cloud APIs</br>Ex 01</br>[Link](https://youtu.be/efnYDfEwqDs) | Cloud APIs</br>Ex 03</br>[Link](https://youtu.be/FvYyQQiKzmQ) | | Cloud APIs</br>Ex 05</br>[Link]() | Chrome Extensions</br>[Link](https://youtu.be/gWeLFsElh1s) |
+| 1215 CEST</br>(UTC+2) | Cloud APIs</br> Ex 02</br>[Link](https://youtu.be/ie3V0HuJg8M) | Cloud APIs</br>Ex 04</br>[Link]() |  |
+| 1230 CEST</br>(UTC+2) | | | | Cloud APIs</br>Ex 06</br>[Link]() | |
+| 1400 CEST</br>(UTC+2) | | | HANA Multi-model</br>Office Hours #2</br>[Link](https://sap-se.zoom.us/j/96556204729) | |
+| 1800 EST</br>(UTC-4) | VSCode Extensions</br>Intro</br>[Link](https://youtu.be/vE-5RZkYOXo) | VSCode Extensions</br>Large Scale Example</br>[Link](https://youtu.be/VVRyRy9hFDw) | | |
+| 1800 EST</br>(UTC-4) | VSCode Extensions</br>Hello World Tutorial</br>[Link](https://youtu.be/aoR7q_d4KuE) |                 |  | |
 
 ### Cloud APIs
 

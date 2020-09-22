@@ -139,7 +139,7 @@ Find out more about the sessions for this topic on the [Cloud APIs topic page](.
 
 ### Building VSCode Extensions
 
-As we have seen over several weeks of sessions, the vast majority of the development experience is delivered via the Business Application Studio and/or VSCode.  The two have a close relationship sharing similar architecture, design and importantly the same approach to extensions.  This is how SAP is now able to develop new editors and development tools and deliver them to both Busienss Application Studio and VSCode.
+As we have seen over several weeks of sessions, the vast majority of the development experience is delivered via the Business Application Studio and/or VSCode.  The two have a close relationship sharing similar architecture, design and importantly the same approach to extensions.  This is how SAP is now able to develop new editors and development tools and deliver them to both SAP Business Application Studio and VSCode.
 
 In this topic's sessions we will look at how a VSCode extension is developed and how you can begin to create your own extensions.
 

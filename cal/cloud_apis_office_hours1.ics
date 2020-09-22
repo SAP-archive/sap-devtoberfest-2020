@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200922T195757Z
+DTSTART;TZID=Europe/London:20201007T080000
+DTEND;TZID=Europe/London:20201007T090000
+SUMMARY:Devtoberfest - Cloud APIs - Office Hours #1
+UID:20200922T195757Z-97591864805@fe80:0:0:0:8a7:91ff:fe65:bfa3ens5
+TZID:Europe/London
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://sap-se.zoom.com/j/97591864805\n	D
+ escription: https://github.com/SAP-samples/sap-devtoberfest-2020/blob/ma
+ ster/topics/cloud-apis/readme.md#office-hours-sessions\n\nOr join by pho
+ ne:\n    Dial(for higher quality\, dial a number based on your current l
+ ocation):\n        US: +1 312 626 6799  or +1 929 205 6099  or +1 301 71
+ 5 8592  or +1 346 248 7799  or +1 669 900 6833  or +1 253 215 8782 \n   
+      Germany: +49 69 7104 9922  or +49 30 5679 5800  or +49 69 3807 9883
+   or +49 695 050 2596 \n    Webinar ID: 975 9186 4805\n    International
+  numbers available: https://sap-se.zoom.com/u/aeyXCqGo8N\n\n\nOr an H.32
+ 3/SIP room system:\n    H.323: \n        162.255.37.11 (US West)\n      
+   162.255.36.11 (US East)\n        221.122.88.195 (China)\n        115.1
+ 14.131.7 (India Mumbai)\n        115.114.115.7 (India Hyderabad)\n      
+   213.19.144.110 (Amsterdam Netherlands)\n        213.244.140.110 (Germa
+ ny)\n        103.122.166.55 (Australia)\n        209.9.211.110 (Hong Kon
+ g SAR)\n        149.137.40.110 (Singapore)\n        64.211.144.160 (Braz
+ il)\n        69.174.57.160 (Canada)\n        207.226.132.110 (Japan)\n  
+   Webinar ID: 975 9186 4805\n\n    SIP: 97591864805@zoomcrc.com\n
+LOCATION:https://sap-se.zoom.us/j/97591864805
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

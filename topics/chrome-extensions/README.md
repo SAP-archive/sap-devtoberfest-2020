@@ -12,4 +12,4 @@ The focus of this enablement session is to provide some first impressions and pe
 
 | Video     | Description                                                 | Length   |
 | --------- | ----------------------------------------------------------- | -------- |
-| tbd | Building your first Chrome extension with Jeffrey Groneberg | tbd |
+| tbd | Building your first Chrome extension with Jeffrey Groneberg | 37 mins |

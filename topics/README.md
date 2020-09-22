@@ -133,7 +133,7 @@ Like other weeks, the topic page will have the detailed schedule. However unlike
 
 | Date / Time      | Mon 28 Sep        | Tues 29 Sep       | Wed 30 Sep  | Thurs 1 Oct | Fri 2 Oct |
 | ---------------- | ---------------- | --------------- | --------------- | --------------- | --------------- |
-| 0800 CEST (UTC+2) | | | [HANA Multi-model Office Hours #1](https://sap-se.zoom.us/j/96414122925) | |
+| 0800 CEST (UTC+2) | | | [HANA Multi-model<wbr>Office Hours #1](https://sap-se.zoom.us/j/96414122925) | |
 | 1000 CEST (UTC+2) | | | [Building VSCode Extensions with Jhodel Cailan](https://sap-se.zoom.com/j/97267223067) | | |
 | 1200 CEST (UTC+2) | [Cloud APIs Ex 01](https://youtu.be/efnYDfEwqDs) | [Cloud APIs Ex 03](https://youtu.be/FvYyQQiKzmQ) | | [Cloud APIs Ex 05]() | [Chrome Extensions](https://youtu.be/gWeLFsElh1s) |
 | 1215 CEST (UTC+2) | [Cloud APIs 02](https://youtu.be/ie3V0HuJg8M) | [Cloud APIs Ex 04]() |  |

@@ -10,6 +10,17 @@ All of the scheduled content described on this page is available in a [public Go
 
 ## Parts
 
+Here's what the premiere schedule looks like:
+
+| Date / Time      | Mon 28 Sep        | Tue 29 Sep       | Wed 30 Sep      |
+| ---------------- | ---------------- | --------------- | --------------- |
+| 0400 EST (UTC-4) | | | [Building VSCode Extensions with Jhodel Cailan](https://sap-se.zoom.com/j/97267223067) |
+| 1800 EST (UTC-4) | [Introduction](https://youtu.be/vE-5RZkYOXo) | [Large Scale Example](https://youtu.be/VVRyRy9hFDw) |
+| 1800 EST (UTC-4) | [Hello World Tutorial](https://youtu.be/aoR7q_d4KuE) |                 |  
+
 | Video     | Description                                                 | Length   |
 | --------- | ----------------------------------------------------------- | -------- |
+| [![Introduction](VSCode1.png)](https://youtu.be/vE-5RZkYOXo) | Introduction <br><br>Premieres on Mon 28 Sep at 1800 EST (UTC-4) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/vscode_intro.ics)  | 14 min |
+| [![Hello World Tutorial](VSCode2.png)](https://youtu.be/aoR7q_d4KuE) | Hello World Tutorial <br><br>Premieres on Mon 28 Sep at 1815 EST (UTC-4) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/vscode_ex1.ics)  | 15 min |
+| [![Large Scale Example](VSCode3.png)](https://youtu.be/VVRyRy9hFDw) | Large Scale Example <br><br>Premieres on Tue 29 Sep at 1800 EST (UTC-4) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/vscode_ex2.ics)  | 36 min |
 | Webinar | Building VSCode Extensions with Jhodel Cailan </br>As part of the Devtoberfest week focusing on the topic of building VSCode Extensions, we will have this interactive interview and Q&A session with SAP Community member Jhodel Cailan https://twitter.com/CailanJhodel to discuss his experience building Blue Phoenix https://github.com/jcailan/vscode-blue-phoenix</br></br>Wednesday, September 30 at 1600 Singapore Standard Time (GMT+8)</br>[Zoom meeting link](https://sap-se.zoom.us/j/97267223067)</br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/vscode_jhodel.ics) | [Live Q&A Session](https://sap-se.zoom.us/j/97267223067) |

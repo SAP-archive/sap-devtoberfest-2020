@@ -33,7 +33,7 @@ Here's what the premiere schedule looks like:
 | Date / Time      | Mon 28 Sep        | Tues 29 Sep       | Wed 30 Sep  | Thurs 1 Oct |
 | ---------------- | ---------------- | --------------- | --------------- | --------------- |
 | 1100 BST (UTC+1) | [Exercise 01](https://youtu.be/efnYDfEwqDs) | [Exercise 03](https://youtu.be/FvYyQQiKzmQ) | | [Exercise 05]() |
-| 1115 BST (UTC+1) | [Exercise 02](https://youtu.be/ie3V0HuJg8M) | [Exercise 04]() |  
+| 1115 BST (UTC+1) | [Exercise 02](https://youtu.be/ie3V0HuJg8M) | [Exercise 04]() |  | Exercise 05 cntd |
 | 1145 BST (UTC+1) | | | | [Exercise 06]() |
 
 | Video | Description | Video Length |

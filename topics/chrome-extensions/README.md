@@ -12,4 +12,4 @@ The focus of this enablement session is to provide some first impressions and pe
 
 | Video     | Description                                                 | Length   |
 | --------- | ----------------------------------------------------------- | -------- |
-| tbd | Building your first Chrome extension with Jeffrey Groneberg</br>Premieres on Friday 2 Oct at XXXX CEST (UTC+2) | 37 mins |
+| tbd | Building your first Chrome extension with Jeffrey Groneberg</br>Premieres on Friday 2 Oct at 2PM CEST (UTC+2) | 37 mins |

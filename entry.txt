@@ -11,3 +11,4 @@ https://github.com/jrodriguez-rc/abapdoc_confluence_export
 https://github.com/pliegl/abap-for-java-developers
 https://github.com/andrewlunde/pythonify
 https://github.com/tricktresor/tree_template
+https://github.com/marcobuescher/devtoberfest2020

@@ -34,7 +34,7 @@ Here's what the premiere schedule looks like:
 | ---------------- | ---------------- | --------------- | --------------- | --------------- |
 | 1100 BST (UTC+1) | [Exercise 01](https://youtu.be/efnYDfEwqDs) | [Exercise 03](https://youtu.be/FvYyQQiKzmQ) | | [Exercise 05]() |
 | 1115 BST (UTC+1) | [Exercise 02](https://youtu.be/ie3V0HuJg8M) | [Exercise 04]() |  
-| 1130 BST (UTC+1) | | | | [Exercise 06]() |
+| 1145 BST (UTC+1) | | | | [Exercise 06]() |
 
 | Video | Description | Video Length |
 | - | - | - |

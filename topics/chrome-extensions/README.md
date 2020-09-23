@@ -12,4 +12,4 @@ The focus of this enablement session is to provide some first impressions and pe
 
 | Video                                                                                | Description                                                                                                   | Length  |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------- |
-| [![Get started with Chrome Extensions](thumbnail.png)](https://youtu.be/gWeLFsElh1s) | Building your first Chrome extension with Jeffrey Groneberg</br>Premieres on Friday 2 Oct at 2PM CEST (UTC+2) | 37 mins |
+| [![Get started with Chrome Extensions](thumbnail.png)](https://youtu.be/gWeLFsElh1s) | Building your first Chrome extension with Jeffrey Groneberg</br>Premieres on Friday 2 Oct at 2PM CEST (UTC+2)</br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/chrome_extensions.ics) | 37 mins |

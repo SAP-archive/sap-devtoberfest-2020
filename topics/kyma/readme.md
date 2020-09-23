@@ -57,11 +57,11 @@ In case you have anything you want to ask or discuss, relating to the content he
 
 | Video | Description | Video Length |
 | - | - | - |
-| [![Introduction](thumbnail-001.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [What is project "Kyma"?](https://github.com/SAP-samples) | 02 mins |
-| [![Exercise 1](thumbnail-002.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 1 - Setup a local project "Kyma" installment](https://github.com/SAP-samples) | 11 mins |
-| [![Exercise 2](thumbnail-003.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 2 - Run project "Kyma" on a Hyper-Scaler](https://github.com/SAP-samples)| 16 mins
-| [![Exercise 3](thumbnail-004.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 3 - Deploy to the project "Kyma" Runtime](https://github.com/SAP-samples) | tba |
-| [![Exercise 4](thumbnail-005.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 4 - Expose your Service through an OAuth2 secured API](https://github.com/SAP-samples) | tba |
-| [![Exercise 5](thumbnail-006.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples) | tba |
-| [![Exercise 6](thumbnail-007.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 6 - Prepare your project "Kyma" environment for Scale](https://github.com/SAP-samples) | tba |
-| [![Managed Kyma](thumbnail-008.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform, Kyma runtime](https://github.com/SAP-samples) | tba |
+| [![Introduction](00_Introduction.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [What is project "Kyma"?](https://github.com/SAP-samples) | 02 mins |
+| [![Exercise 1](01_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 1 - Setup a local project "Kyma" installment](https://github.com/SAP-samples) | 11 mins |
+| [![Exercise 2](02_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 2 - Run project "Kyma" on a Hyper-Scaler](https://github.com/SAP-samples)| 16 mins
+| [![Exercise 3](03_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 3 - Deploy to the project "Kyma" Runtime](https://github.com/SAP-samples) | 20 mins |
+| [![Exercise 4](04_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 4 - Expose your Service through an OAuth2 secured API](https://github.com/SAP-samples) | tba |
+| [![Exercise 5](05_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples) | tba |
+| [![Exercise 6](06_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 6 - Prepare your project "Kyma" environment for Scale](https://github.com/SAP-samples) | tba |
+| [![Managed Kyma](07_Kyma_Day.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [SAP Cloud Platform, Kyma runtime](https://github.com/SAP-samples) | tba |

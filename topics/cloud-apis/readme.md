@@ -34,7 +34,7 @@ Here's what the premiere schedule looks like:
 | ---------------- | ---------------- | --------------- | --------------- | --------------- |
 | 1100 BST (UTC+1) | [Exercise 01](https://youtu.be/efnYDfEwqDs) | [Exercise 03](https://youtu.be/yKkBoR1rqlk) | | [Exercise 05](https://youtu.be/4BZimZlZvzw) |
 | 1115 BST (UTC+1) | [Exercise 02](https://youtu.be/ie3V0HuJg8M) | [Exercise 04](https://youtu.be/8vQIEwAZcqw) |  | Exercise 05 cntd |
-| 1145 BST (UTC+1) | | | | [Exercise 06]() |
+| 1145 BST (UTC+1) | | | | [Exercise 06](https://youtu.be/C92_0AL0wLY) |
 
 | Video | Description | Video Length |
 | - | - | - |
@@ -43,7 +43,7 @@ Here's what the premiere schedule looks like:
 | [![Exercise 03](cloud-apis-3.png)](https://youtu.be/yKkBoR1rqlk)  | [Exercise 03 - Setting up your dev space in the SAP Business Application Studio](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/03/readme.md)  <br><br>[Premieres](https://youtu.be/yKkBoR1rqlk) on Tue 29 Sep at 1100 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex3.ics) | 14 mins |
 | [![Exercise 04](cloud-apis-4.png)](https://youtu.be/8vQIEwAZcqw)  | [Exercise 04 - Creating a Workflow service instance & deploying a definition](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/04/readme.md)  <br><br>[Premieres](https://youtu.be/8vQIEwAZcqw) on Tue 29 Sep at 1115 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex4.ics) | 13 mins |
 | [![Exercise 05](cloud-apis-5.png)](https://youtu.be/4BZimZlZvzw)  | [Exercise 05 - Workflow API calls, authorities, access token contents & more](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/05/readme.md)  <br><br>[Premieres](https://youtu.be/4BZimZlZvzw) on Thu 01 Oct at 1100 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex5.ics) | 42 mins |
-| [![Exercise 06](cloud-apis-6.png)](https://youtu.be/)  | [Exercise 06 - Calling the Workflow API from within the SAP API Business Hub](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/06/readme.md)  <br><br>[Premieres](https://youtu.be/) on Thu 01 Oct at 1145 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex6.ics) | nn mins |
+| [![Exercise 06](cloud-apis-6.png)](https://youtu.be/C92_0AL0wLY)  | [Exercise 06 - Calling the Workflow API from within the SAP API Business Hub](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/06/readme.md)  <br><br>[Premieres](https://youtu.be/C92_0AL0wLY) on Thu 01 Oct at 1145 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex6.ics) | 20 mins |
 
 
 ## Office hours sessions

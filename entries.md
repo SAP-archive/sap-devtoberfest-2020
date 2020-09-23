@@ -3,9 +3,9 @@
 ## pythonify: Assemble tools/plugins/libraries/samples for jumpstarting SAP opinionated Python development for VSCode and BAS
 [https://github.com/andrewlunde/pythonify](https://github.com/andrewlunde/pythonify)
 
-* Stars: 0, Forks: 0, Watchers: 1
-* Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 03 Sep 2020 19:50:00 GMT, Updated At: Tue, 08 Sep 2020 14:51:29 GMT
+* Stars: 1, Forks: 0, Watchers: 2
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Thu, 03 Sep 2020 19:50:00 GMT, Updated At: Wed, 23 Sep 2020 15:16:31 GMT
 * License: 
 * Owner: [andrewlunde](https://github.com/andrewlunde)
 * Contributors: [andrewlunde](https://github.com/andrewlunde)
@@ -28,7 +28,7 @@
 [https://github.com/goreraks/abapGitcustomizing](https://github.com/goreraks/abapGitcustomizing)
 
 * Stars: 3, Forks: 0, Watchers: 2
-* Open Issues: 3, Has Projects: true, Has Wiki: true
+* Open Issues: 6, Has Projects: true, Has Wiki: true
 * Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Wed, 23 Sep 2020 11:16:44 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [goreraks](https://github.com/goreraks)
@@ -63,9 +63,9 @@
 ## wdi5: cross-platform test framework for hybrid UI5 apps. wdi5 &#x3D; Webdriver.IO + UI5 Test API + appium
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 
-* Stars: 9, Forks: 1, Watchers: 4
+* Stars: 10, Forks: 1, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 21 Sep 2020 12:14:55 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Wed, 23 Sep 2020 15:36:01 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -88,7 +88,7 @@
 [https://github.com/larshp/abapGit](https://github.com/larshp/abapGit)
 
 * Stars: 727, Forks: 319, Watchers: 110
-* Open Issues: 214, Has Projects: false, Has Wiki: false
+* Open Issues: 215, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Wed, 23 Sep 2020 10:38:18 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -101,10 +101,22 @@
 
 * Stars: 99, Forks: 15, Watchers: 19
 * Open Issues: 15, Has Projects: true, Has Wiki: true
-* Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Wed, 23 Sep 2020 07:26:05 GMT
+* Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Wed, 23 Sep 2020 15:23:44 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [marcellourbani](https://github.com/marcellourbani)
 * Contributors: [marcellourbani](https://github.com/marcellourbani), [filak-sap](https://github.com/filak-sap), [larshp](https://github.com/larshp), [dependabot[bot]](https://github.com/apps/dependabot)
+
+
+
+## devtoberfest2020: 
+[https://github.com/marcobuescher/devtoberfest2020](https://github.com/marcobuescher/devtoberfest2020)
+
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Created At: Wed, 23 Sep 2020 14:35:13 GMT, Updated At: Wed, 23 Sep 2020 14:35:17 GMT
+* License: 
+* Owner: [marcobuescher](https://github.com/marcobuescher)
+* Contributors: [marcobuescher](https://github.com/marcobuescher)
 
 
 
@@ -123,21 +135,21 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 98, Forks: 24, Watchers: 41
+* Stars: 98, Forks: 25, Watchers: 40
 * Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 23 Sep 2020 10:39:00 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 23 Sep 2020 18:11:04 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [IObert](https://github.com/IObert), [maxstreifeneder](https://github.com/maxstreifeneder), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [pliegl](https://github.com/pliegl)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
 
 
 
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
-* Stars: 21, Forks: 6, Watchers: 19
+* Stars: 22, Forks: 6, Watchers: 20
 * Open Issues: 3, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Tue, 22 Sep 2020 15:01:20 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Wed, 23 Sep 2020 15:28:33 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf)

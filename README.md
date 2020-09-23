@@ -22,9 +22,8 @@ This week we have the SAP HANA Advanced Analytics (with the focus on multi-model
 ## Devtoberfest **Community Speed Networking session**
 This special session is an opportunity for project leads of contest entrants to come together and explain their project goals/vision and to recruit member to help them out during the upcoming build week. You can of course attend if you just want to learn about all the great community projects. But if you are looking for a project to join, this is your chance to learn about some of the possible options.
 Wednesday, September 23rd, 2020
-[Recording of the Webinar](https://www.youtube.com/watch?v=p7ufQ8q-OpY)
 
-This session **will also be** in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+[Recording of the Webinar](https://www.youtube.com/watch?v=p7ufQ8q-OpY)
 
 ## Description
 

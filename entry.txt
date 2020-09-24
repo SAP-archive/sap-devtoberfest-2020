@@ -5,7 +5,7 @@ https://github.com/bmaciag/Devtoberfest-2020
 https://github.com/goreraks/abapGitcustomizing
 https://github.com/jrodriguez-rc/abap-dev-utilities
 https://github.com/marcellourbani/vscode_abap_remote_fs
-https://github.com/larshp/abapGit
+https://github.com/abapGit/abapGit
 https://github.com/larshp/abap-wasm
 https://github.com/jrodriguez-rc/abapdoc_confluence_export
 https://github.com/pliegl/abap-for-java-developers

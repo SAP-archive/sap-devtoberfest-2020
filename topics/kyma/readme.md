@@ -34,9 +34,9 @@ Here's what the premiere schedule looks like:
 
 | Date / Time | Mon 05 Oct | Tue 06 Oct | Wed 07 Oct | Thu 08 Oct | Fri 09 Oct |
 | - | - | - | - | - | - |
-| 1300 CEST (UTC+2) | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
-| 1330 CEST (UTC+2) | [Exercise 02](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |  |
-| TBD | | [Exercise 04](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | | [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) |
+| 1300 CEST (UTC+2) | [Exercise 01](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 03](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 05](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 06](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
+| 1330 CEST (UTC+2) | [Exercise 02](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 04](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) |
+| TBD | | | | | [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) |
 
 There is also an introduction to the [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
 

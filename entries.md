@@ -28,7 +28,7 @@
 [https://github.com/goreraks/abapGitcustomizing](https://github.com/goreraks/abapGitcustomizing)
 
 * Stars: 3, Forks: 0, Watchers: 2
-* Open Issues: 6, Has Projects: true, Has Wiki: true
+* Open Issues: 7, Has Projects: true, Has Wiki: true
 * Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Wed, 23 Sep 2020 11:16:44 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [goreraks](https://github.com/goreraks)
@@ -136,8 +136,8 @@
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
 * Stars: 98, Forks: 25, Watchers: 40
-* Open Issues: 11, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 23 Sep 2020 20:14:50 GMT
+* Open Issues: 12, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 24 Sep 2020 00:49:59 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [tricktresor](https://github.com/tricktresor), [marcellourbani](https://github.com/marcellourbani), [goreraks](https://github.com/goreraks), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

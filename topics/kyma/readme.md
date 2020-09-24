@@ -59,7 +59,7 @@ In case you have anything you want to ask or discuss, relating to the content he
 | Video | Description | Video Length |
 | - | - | - |
 | [![Introduction](00_Introduction.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [What is project "Kyma"?](https://github.com/SAP-samples) | 02 mins |
-| [![Exercise 1](01_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 1 - Setup a local project "Kyma" installment](https://github.com/SAP-samples) | 11 mins |
+| [![Exercise 1](01_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 1 - Setup a local project "Kyma" instalment](https://github.com/SAP-samples) | 11 mins |
 | [![Exercise 2](02_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 2 - Run project "Kyma" on a Hyper-Scaler](https://github.com/SAP-samples)| 16 mins
 | [![Exercise 3](03_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 3 - Deploy to the project "Kyma" Runtime](https://github.com/SAP-samples) | 20 mins |
 | [![Exercise 4](04_Exercise.png)](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) | [Exercise 4 - Expose your Service through an OAuth2 secured API](https://github.com/SAP-samples) | tba |

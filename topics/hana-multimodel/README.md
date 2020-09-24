@@ -12,17 +12,7 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 ## Videos with presentations and demos
 
-
-Here's what the premiere schedule looks like:
-
-| Date / Time      | Mon 21 Sep        | Tue 22 Sep       | Wed 23 Sep       | Thu 24 Sep      |
-| ---------------- | ---------------- | --------------- | --------------- | --------------- |
-| 1500 CEST (UTC+2) | [Do you know SAP HANA Advanced Analytics?](https://www.youtube.com/watch?v=OkPMdbn1vBs&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=1) | [Introduction to (Geo-)Spatial Data](https://www.youtube.com/watch?v=s48iAbBrYBI&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=2) | [Dealing with Spatial Data in SQL [demo]](https://www.youtube.com/watch?v=6dh_Hj6d9xM&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=5) | [Introduction to the network analysis](https://www.youtube.com/watch?v=_JnKtv66E-w&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=8) |
-| 1515 CEST (UTC+2) |  | [Spatial at SAP](https://www.youtube.com/watch?v=W-3th2mhJA4&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=3)  | | [From raw data to a graph: how to get there?](https://www.youtube.com/watch?v=tCPTr0q-tUQ&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=9)               |
-| 1530 CEST (UTC+2) |  | [The Spatial Engine of SAP HANA Cloud](https://www.youtube.com/watch?v=uxNxFWmTTP4&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=4) | [Machine Learning with Geospatial Data](https://www.youtube.com/watch?v=Jv1BIMpxoR4&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=6)  | [The SAP HANA Graph engine basics](https://www.youtube.com/watch?v=b7fEUj-1Igg&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=10) |
-| 1545 CEST (UTC+2) | | | [Prediction of Housing Prices demo](https://www.youtube.com/watch?v=9nF8ergZf-o&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=7) | [Core graph procedures and advanced use cases](https://www.youtube.com/watch?v=765Z980kR5U&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=11) |
-
-| Video | Description | Length |
+| Video (click to view) | Description | Length |
 | - | - | - |
 | [![Introduction](thumbnails/tn00.png)](https://www.youtube.com/watch?v=OkPMdbn1vBs&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=1) | **Do you know SAP HANA Advanced Analytics?** <br>Premiered on: Mon, Sep 21 | 36 mins |
 | [![0101](thumbnails/tn0101.png)](https://www.youtube.com/watch?v=s48iAbBrYBI&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=2) | **Introduction to (Geo-)Spatial Data** <br>Premiered on: Tue, Sep 22 | 6 mins |
@@ -31,10 +21,10 @@ Here's what the premiere schedule looks like:
 | [![0104](thumbnails/tn0104.png)](https://www.youtube.com/watch?v=6dh_Hj6d9xM&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=5) | **Dealing with Spatial Data in SQL [demo]** <br>Premiered on: Wed, Sep 23 | 19 mins |
 | [![0105](thumbnails/tn0105.png)](https://www.youtube.com/watch?v=Jv1BIMpxoR4&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=6) | **Machine Learning with Geospatial Data** <br>Premiered on: Wed, Sep 23 | 9 mins |
 | [![0106](thumbnails/tn0106.png)](https://www.youtube.com/watch?v=9nF8ergZf-o&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=7) | **Prediction of Housing Prices [demo]** <br>Premiered on: Wed, Sep 23 | 31 mins |
-| [![0201](thumbnails/tn0201.png)](https://www.youtube.com/watch?v=_JnKtv66E-w&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=8) | **Introduction to the network analysis** <br>Premiers on: Thu, Sep 24 at 15:00 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_8.ics) | 11 mins |
-| [![0202](thumbnails/tn0202.png)](https://www.youtube.com/watch?v=tCPTr0q-tUQ&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=9) | **From raw data to a graph: how to get there?** <br>Premiers on: Thu, Sep 24 at 15:15 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_9.ics) | 10 mins |
-| [![0203](thumbnails/tn0203.png)](https://www.youtube.com/watch?v=b7fEUj-1Igg&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=10) | **The SAP HANA Graph engine basics** <br>Premiers on: Thu, Sep 24 at 15:30 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_10.ics) | 14 mins |
-| [![0204](thumbnails/tn0204.png)](https://www.youtube.com/watch?v=765Z980kR5U&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=11) | **Core graph procedures and advanced use cases** <br>Premiers on: Thu, Sep 24 at 15:45 CEST (UTC+2) <br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_11.ics) | 28 mins |
+| [![0201](thumbnails/tn0201.png)](https://www.youtube.com/watch?v=_JnKtv66E-w&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=8) | **Introduction to the network analysis** <br>Premiered on: Thu, Sep 24 | 11 mins |
+| [![0202](thumbnails/tn0202.png)](https://www.youtube.com/watch?v=tCPTr0q-tUQ&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=9) | **From raw data to a graph: how to get there?** <br>Premiered on: Thu, Sep 24 | 10 mins |
+| [![0203](thumbnails/tn0203.png)](https://www.youtube.com/watch?v=b7fEUj-1Igg&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=10) | **The SAP HANA Graph engine basics** <br>Premiered on: Thu, Sep 24 | 14 mins |
+| [![0204](thumbnails/tn0204.png)](https://www.youtube.com/watch?v=765Z980kR5U&list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl&index=11) | **Core graph procedures and advanced use cases** <br>Premiered on: Thu, Sep 24 | 28 mins |
 
 ## Office hours sessions
 

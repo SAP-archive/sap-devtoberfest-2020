@@ -12,3 +12,4 @@ https://github.com/pliegl/abap-for-java-developers
 https://github.com/andrewlunde/pythonify
 https://github.com/tricktresor/tree_template
 https://github.com/marcobuescher/devtoberfest2020
+https://github.com/jcailan/cap-fe-samples

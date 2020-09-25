@@ -13,3 +13,4 @@ https://github.com/andrewlunde/pythonify
 https://github.com/tricktresor/tree_template
 https://github.com/marcobuescher/devtoberfest2020
 https://github.com/jcailan/cap-fe-samples
+https://github.com/bigld/abapGit-Repository-Notification

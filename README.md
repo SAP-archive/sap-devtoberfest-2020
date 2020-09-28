@@ -3,9 +3,9 @@
 
 <img src="./Devtoberfest2020.jpg" width="200">
 
-## This week (Week 5 : 21 Sep → 24 Sep 2020)
+## This week
 
-This week we have the SAP HANA Advanced Analytics (with the focus on multi-model) content for you - as [a series of premieres on YouTube](topics/hana-multimodel/README.md#sap-hana-multi-model) for you. 
+We're now in **Week 6 (28 Sep → 02 Oct 2020)** with [Multiple Topics: Cloud APIs, Building VSCode Extensions, and Google Chrome Extensions](topics/README.md#multiple-topics-cloud-apis-building-vscode-extensions-and-google-chrome-extensions).
 
 ## Key Dates
 

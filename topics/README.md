@@ -3,7 +3,7 @@
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
 level up before you get started.
 
-[Current Week's Content](./hana-multimodel/README.md#sap-hana-multi-model)
+[Current Week's Content](#multiple-topics-cloud-apis-building-vscode-extensions-and-google-chrome-extensions)
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ Find more information about this session on the [topic page](./appstudio/readme.
 
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
+<p><!--<b>CURRENT WEEK</b>--></p>
 <p>Week 5</p>
 <p>Calendar Week 39</p>
 <p>Sep 21 - Sep 25</p>
@@ -117,7 +117,7 @@ Wednesday, September 23rd, 2020
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 6</p>
 <p>Calendar Week 40</p>
 <p>Sep 28 - Oct 2</p>

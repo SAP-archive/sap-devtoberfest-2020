@@ -139,7 +139,7 @@ Like other weeks, the topic page will have the detailed schedule. However unlike
 | 1245 CEST</br>(UTC+2) | | | | Cloud APIs</br>Ex 06</br>[Link](https://youtu.be/C92_0AL0wLY) | |
 | 1400 CEST</br>(UTC+2) | | | HANA Multi-model</br>Office Hours #2</br>[Link](https://sap-se.zoom.us/j/96556204729) | Chrome Extensions</br>[Link](https://youtu.be/gWeLFsElh1s) |
 | 1800 EST</br>(UTC-4) | VSCode Extensions</br>Intro</br>[Link](https://youtu.be/vE-5RZkYOXo) | VSCode Extensions</br>Large Scale Example</br>[Link](https://youtu.be/VVRyRy9hFDw) | | |
-| 1800 EST</br>(UTC-4) | VSCode Extensions</br>Hello World Tutorial</br>[Link](https://youtu.be/aoR7q_d4KuE) |                 |  | |
+| 1815 EST</br>(UTC-4) | VSCode Extensions</br>Hello World Tutorial</br>[Link](https://youtu.be/aoR7q_d4KuE) |                 |  | |
 
 ### Cloud APIs
 

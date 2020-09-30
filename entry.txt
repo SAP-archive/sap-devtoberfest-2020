@@ -14,3 +14,5 @@ https://github.com/tricktresor/tree_template
 https://github.com/marcobuescher/devtoberfest2020
 https://github.com/jcailan/cap-fe-samples
 https://github.com/bigld/abapGit-Repository-Notification
+https://github.com/ssaisanthosh/SAP-Cloud-CMIS-Uploader
+https://github.com/ssaisanthosh/SAPUI5-ValueHelp

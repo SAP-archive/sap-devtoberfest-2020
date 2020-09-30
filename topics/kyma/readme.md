@@ -35,8 +35,9 @@ Here's what the premiere schedule looks like:
 | Date / Time | Mon 05 Oct | Tue 06 Oct | Wed 07 Oct | Thu 08 Oct | Fri 09 Oct |
 | - | - | - | - | - | - |
 | 1230 CEST (UTC+2) | [Introduction](https://youtu.be/4tWH3Jl9Pss)
-| 1300 CEST (UTC+2) | [Exercise 01](https://youtu.be/dU6ICrGswUs) | [Exercise 03](https://youtu.be/GnXg9pkj8CU) | [Exercise 05](https://youtu.be/0WnB3ZnSPjA) | [Exercise 06](https://youtu.be/bH2TQ2irG6g) |
-| 1330 CEST (UTC+2) | [Exercise 02](https://youtu.be/223hOXBnpoc) | [Exercise 04](https://youtu.be/CUYam3HicNU) |
+| 1245CEST (UTC+2) | [Exercise 01](https://youtu.be/dU6ICrGswUs)
+| 1300 CEST (UTC+2) | [Exercise 02](https://youtu.be/223hOXBnpoc) | [Exercise 03](https://youtu.be/GnXg9pkj8CU) | [Exercise 05](https://youtu.be/0WnB3ZnSPjA) | [Exercise 06](https://youtu.be/bH2TQ2irG6g) |
+| 1330 CEST (UTC+2) |  | [Exercise 04](https://youtu.be/CUYam3HicNU) |
 | TBD | | | | | [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) |
 
 There is also an introduction to the [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6) by one of our Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.

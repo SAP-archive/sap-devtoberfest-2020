@@ -28,9 +28,4 @@ Networks are all around us - road networks, social networks, supplier networks, 
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 30 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
-
-- 0800 CEST (UTC+2) → [Zoom meeting link](https://sap-se.zoom.us/j/96414122925) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_office_hours1.ics)
-- 1400 CEST (UTC+2) → [Zoom meeting link](https://sap-se.zoom.us/j/96556204729) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/hana_office_hours2.ics)
-
-These office hours sessions **will also be** in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier.
+For those who wanted to ask or discuss, relating to the content here, we held a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 30 Sep. They were in the form of Zoom meetings and were not recoorded.

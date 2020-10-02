@@ -3,8 +3,8 @@
 ## abapGit: Git client for ABAP
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
-* Stars: 735, Forks: 323, Watchers: 111
-* Open Issues: 209, Has Projects: false, Has Wiki: false
+* Stars: 735, Forks: 323, Watchers: 110
+* Open Issues: 210, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Fri, 02 Oct 2020 08:26:52 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -76,8 +76,8 @@
 [https://github.com/eclipse/dirigible](https://github.com/eclipse/dirigible)
 
 * Stars: 111, Forks: 36, Watchers: 19
-* Open Issues: 83, Has Projects: true, Has Wiki: true
-* Created At: Mon, 11 May 2015 13:51:46 GMT, Updated At: Fri, 02 Oct 2020 11:43:43 GMT
+* Open Issues: 82, Has Projects: true, Has Wiki: true
+* Created At: Mon, 11 May 2015 13:51:46 GMT, Updated At: Fri, 02 Oct 2020 16:04:19 GMT
 * License: Other
 * Owner: [eclipse](https://github.com/eclipse)
 * Contributors: [delchev](https://github.com/delchev), [ThuF](https://github.com/ThuF), [shturec](https://github.com/shturec), [dpanayotov](https://github.com/dpanayotov), [SvetlinZarev-SAP](https://github.com/SvetlinZarev-SAP), [fen4o](https://github.com/fen4o), [SvetlinZarev](https://github.com/SvetlinZarev), [ialidzhikov](https://github.com/ialidzhikov), [DimoHG](https://github.com/DimoHG), [atanasproychev](https://github.com/atanasproychev), [km2k](https://github.com/km2k), [dgiormov](https://github.com/dgiormov), [JordanJordanov](https://github.com/JordanJordanov), [dependabot[bot]](https://github.com/apps/dependabot), [fossabot](https://github.com/fossabot), [dzahariev](https://github.com/dzahariev), [eclipsewebmaster](https://github.com/eclipsewebmaster), [g-pavlov](https://github.com/g-pavlov), [VladoKat](https://github.com/VladoKat), [waynebeaton](https://github.com/waynebeaton), [ekaterina-mitova](https://github.com/ekaterina-mitova), [konstantinmomchev](https://github.com/konstantinmomchev)
@@ -159,9 +159,9 @@
 ## vscode_abap_remote_fs: Remote filesystem for ABAP systems
 [https://github.com/marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs)
 
-* Stars: 99, Forks: 15, Watchers: 20
+* Stars: 100, Forks: 15, Watchers: 20
 * Open Issues: 16, Has Projects: true, Has Wiki: true
-* Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Mon, 28 Sep 2020 07:12:41 GMT
+* Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Fri, 02 Oct 2020 13:02:05 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [marcellourbani](https://github.com/marcellourbani)
 * Contributors: [marcellourbani](https://github.com/marcellourbani), [filak-sap](https://github.com/filak-sap), [larshp](https://github.com/larshp), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -195,9 +195,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 103, Forks: 32, Watchers: 41
+* Stars: 104, Forks: 33, Watchers: 41
 * Open Issues: 9, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 02 Oct 2020 12:23:23 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 02 Oct 2020 15:29:41 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [goreraks](https://github.com/goreraks), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

@@ -5,7 +5,7 @@
 
 ## This week
 
-We're now in **Week 6 (28 Sep → 02 Oct 2020)** with [Multiple Topics: Cloud APIs, Building VSCode Extensions, and Google Chrome Extensions](topics/README.md#multiple-topics-cloud-apis-building-vscode-extensions-and-google-chrome-extensions).
+We're now in **Week 7 (05 → 09 Oct 2020)** with [project "Kyma"](topics/README.md#project-kyma).
 
 ## Key Dates
 

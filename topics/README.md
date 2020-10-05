@@ -3,7 +3,7 @@
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
 level up before you get started.
 
-[Current Week's Content](#multiple-topics-cloud-apis-building-vscode-extensions-and-google-chrome-extensions)
+[Current Week's Content](#project-kyma)
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ Wednesday, September 23rd, 2020
 
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
+<p><!--<b>CURRENT WEEK</b>--></p>
 <p>Week 6</p>
 <p>Calendar Week 40</p>
 <p>Sep 28 - Oct 2</p>
@@ -172,7 +172,7 @@ Find more information about this session on the [topic page](./chrome-extensions
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 7</p>
 <p>Calendar Week 41</p>
 <p>Oct 05 - Oct 09</p>

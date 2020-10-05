@@ -12,9 +12,9 @@ We will get the week started with the ABAP Cowboy and founder of the ABAPGit pro
 
 Monday, Oct 12 Noon CET (UTC+1) → [Zoom meeting link](https://sap-se.zoom.com/j/97084345140) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_lars.ics)
 
-### Volker Buzek
+### Volker Buzek & Gregor Wolf
 
-This session will be lead by Volker Buzek https://twitter.com/vobu who will be talking about community projects in general but in particular the entry in Devtoberfest he's been working on - https://github.com/sapmentors/cds-pg
+This session will be lead by Volker Buzek https://twitter.com/vobu and Gregor Wolf https://twitter.com/wolf_gregor who will be talking about community projects in general but in particular the entry in Devtoberfest they have been working on - https://github.com/sapmentors/cds-pg
 
 Tuesday, October 13 1600 CET (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/95272377100) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_volker.ics)
 

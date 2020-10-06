@@ -7,6 +7,7 @@ Here you'll find content to help you level up with the [project "Kyma"](https://
 - [project "Kyma"](https://kyma-project.io)
 - [SAP Cloud Platform, Kyma runtime](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/1b320a69-c013-417c-bf55-2683299777c6)
 - [Thomas Hertz - Get a fully managed runtime based on Kyma and Kubernetes](https://blogs.sap.com/2020/05/12/get-a-fully-managed-runtime-based-on-kyma-and-kubernetes/)
+- [Kyma – A Flexible Way to Connect and Extend Applications](https://open.sap.com/courses/kyma1)
 
 All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos.
 

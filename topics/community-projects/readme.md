@@ -33,6 +33,13 @@ This will be an interactive interview and Q&A session with long time SAP Mentor 
 
 Thursday, October 15th at 1000 AEST (UTC+10) → [Zoom meeting link](https://sap-se.zoom.us/j/99762669374) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_graham.ics)
 
+### Luigi Dell'Aquila
+
+Luigi (https://twitter.com/ldellaquila) is a long time contributor to open source projects and one of the core developers of OrientDB (https://orientdb.org/). Each month it is downloaded more than 80,000 times. To date, the open source community that powers the project has hundreds of contributors. 
+Join us as Luigi shares his experience working on such a large-scale open source project and a successful product. And ask your questions too.
+
+Thursday, Oct 15 1500 CET (UTC+1) → [Zoom meeting link]https://sap-se.zoom.us/j/92402125325) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_orientdb.ics)
+
 ### SAPlink Founders - Ed Herrmann and Dan McWeeney
 
 In this session we will have a reunion with the godfathers of open source in the SAP world - the founders of the SAPlink project: Ed Herrmann and Dan McWeeney.

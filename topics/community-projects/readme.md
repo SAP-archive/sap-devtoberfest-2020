@@ -38,7 +38,7 @@ Thursday, October 15th at 1000 AEST (UTC+10) → [Zoom meeting link](https://sap
 Luigi (https://twitter.com/ldellaquila) is a long time contributor to open source projects and one of the core developers of OrientDB (https://orientdb.org/). Each month it is downloaded more than 80,000 times. To date, the open source community that powers the project has hundreds of contributors. 
 Join us as Luigi shares his experience working on such a large-scale open source project and a successful product. And ask your questions too.
 
-Thursday, Oct 15 1500 CET (UTC+1) → [Zoom meeting link]https://sap-se.zoom.us/j/92402125325) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_orientdb.ics)
+Thursday, Oct 15 1500 CET (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/92402125325) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_orientdb.ics)
 
 ### SAPlink Founders - Ed Herrmann and Dan McWeeney
 

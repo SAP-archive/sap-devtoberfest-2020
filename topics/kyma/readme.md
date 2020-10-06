@@ -47,15 +47,13 @@ There is also an introduction to the [SAP Cloud Platform, Kyma runtime](https://
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres. The date and time will be announced shortly.
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 16 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
-<!-- They will be in the form of Zoom meetings and scheduled to allow participation from most timezones: -->
+- 0700 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/91350242413) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_office_hours1.ics)
+- 1300 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/94055879224) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_office_hours2.ics)
 
-<!--
-- 0800 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/95873935644) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours2.ics)
-- 1400 BST (UTC+1) → [Zoom meeting link](https://sap-se.zoom.us/j/99812944506) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/workflow_office_hours1.ics) -->
 
-<!--These office hours sessions are also in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier. -->
+These office hours sessions are also in the [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) mentioned earlier. 
 
 # The content - video & exercise links
 

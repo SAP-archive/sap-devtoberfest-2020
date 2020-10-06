@@ -47,7 +47,7 @@ There is also an introduction to the [SAP Cloud Platform, Kyma runtime](https://
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 16 Sep. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Wed 14 Oct. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
 - 0700 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/91350242413) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_office_hours1.ics)
 - 1300 EDT (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/94055879224) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_office_hours2.ics)

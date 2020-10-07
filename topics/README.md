@@ -206,7 +206,7 @@ Find more information about this session on the [topic page](./kyma/readme.md).
 
 Topic Owners:  None
 
-This week will be unique amongst all the enablement topics.  Instead of focusing on a particluar technology or tool, this week will be all about creating, contributing to, or maintaining community open source projects. Instead of SAP presenters this week we will showcase key community members, past and present, who will speak on their experiences.  We will have open Q&A and panel discussions where these developer heroes share what its been like for them to create or utilize open source projects in the SAP world.
+This week will be unique amongst all the enablement topics.  Instead of focusing on a particular technology or tool, this week will be all about creating, contributing to, or maintaining community open source projects. Instead of SAP presenters this week we will showcase key community members, past and present, who will speak on their experiences.  We will have open Q&A and panel discussions where these developer heroes share what its been like for them to create or utilize open source projects in the SAP world.
 
 Find more information about this session on the [topic page](./community-projects/readme.md).
 </td>

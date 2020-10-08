@@ -37,9 +37,9 @@ Here's what the premiere schedule looks like:
 | - | - | - | - | - | - |
 | 1230 CEST (UTC+2) | [Introduction](https://youtu.be/4tWH3Jl9Pss)
 | 1245CEST (UTC+2) | [Exercise 01](https://youtu.be/dU6ICrGswUs)
-| 1300 CEST (UTC+2) | [Exercise 02](https://youtu.be/223hOXBnpoc) | [Exercise 03](https://youtu.be/GnXg9pkj8CU) | [Exercise 05](https://youtu.be/0WnB3ZnSPjA) | [Exercise 06](https://youtu.be/bH2TQ2irG6g) |
+| 1300 CEST (UTC+2) | [Exercise 02](https://youtu.be/223hOXBnpoc) | [Exercise 03](https://youtu.be/GnXg9pkj8CU) | [Exercise 05](https://youtu.be/0WnB3ZnSPjA) | [Exercise 06](https://youtu.be/bH2TQ2irG6g) | [SAP Cloud Platform, Kyma runtime - Valentin Vieriu](https://youtu.be/ozew4JRos-w)
 | 1330 CEST (UTC+2) |  | [Exercise 04](https://youtu.be/CUYam3HicNU) |
-| 1400 CEST (UTC+2) | | | | | [SAP Cloud Platform, Kyma runtime](https://youtu.be/6r8PwihJxsA) |
+| 1400 CEST (UTC+2) | | | | | [SAP Cloud Platform, Kyma runtime - Jamie Cawley](https://youtu.be/6r8PwihJxsA) |
 
 There is also an introduction to the [SAP Cloud Platform, Kyma runtime](https://youtu.be/6r8PwihJxsA) by one of our Kyma expert guest speakers as well as a short introduction video to this weeks enablement content.
 
@@ -66,4 +66,5 @@ These office hours sessions are also in the [public Google Calendar](https://cal
 | [![Exercise 4](04_Exercise.png)](https://youtu.be/CUYam3HicNU) | [Exercise 4 - Expose your Service through an OAuth2 secured API](https://github.com/SAP-samples/kyma-runtime-virtual-event/tree/master/exercises/04) </br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_ex4.ics)| 20 mins |
 | [![Exercise 5](05_Exercise.png)](https://youtu.be/0WnB3ZnSPjA) | [Exercise 5 - Create extensions to get Additional Services](https://github.com/SAP-samples/kyma-runtime-virtual-event/tree/master/exercises/05) </br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_ex5.ics) | 27 mins |
 | [![Exercise 6](06_Exercise.png)](https://youtu.be/bH2TQ2irG6g) | [Exercise 6 - Prepare your project "Kyma" environment for Scale](https://github.com/SAP-samples/kyma-runtime-virtual-event/tree/master/exercises/06) </br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_ex6.ics) | 9 mins |
-| [![Managed Kyma](07_Kyma_Day.png)](https://youtu.be/6r8PwihJxsA) | [SAP Cloud Platform, Kyma runtime](https://youtu.be/6r8PwihJxsA) </br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_ex7.ics) | 65 mins |
+| [![Managed Kyma](07_Kyma_Day.png)](https://youtu.be/6r8PwihJxsA) | [SAP Cloud Platform, Kyma runtime - Jamie Cawley](https://youtu.be/6r8PwihJxsA) </br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/kyma_ex7.ics) | 65 mins |
+| [![Managed Kyma](07_Kyma_Day.png)](https://youtu.be/6r8PwihJxsA) | [SAP Cloud Platform, Kyma runtime - Valentin Vieriu](https://youtu.be/ozew4JRos-w) | 38 mins |

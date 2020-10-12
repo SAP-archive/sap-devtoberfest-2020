@@ -5,7 +5,7 @@
 
 ## This week
 
-We're now in **Week 7 (05 → 09 Oct 2020)** with [project "Kyma"](topics/README.md#project-kyma).
+We're now in **Week 8 (12 → 16 Oct 2020)** with [Community Open Source Projects](./topics/community-projects/readme.md).
 
 ## Key Dates
 

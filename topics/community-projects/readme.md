@@ -10,7 +10,7 @@ As part of Devtoberfest Community Week we will be interviewing and hosting live 
 
 We will get the week started with the ABAP Cowboy and founder of the ABAPGit project himself - Lars Hvam Petersen. https://twitter.com/LarsHvam
 
-Monday, Oct 12 Noon CET (UTC+1) → [Zoom meeting link](https://sap-se.zoom.com/j/97084345140) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_lars.ics)
+Monday, Oct 12 Noon CET (UTC+1) → [Replay of Session](https://youtu.be/UH9LekiYY5g)
 
 ### Volker Buzek & Gregor Wolf
 

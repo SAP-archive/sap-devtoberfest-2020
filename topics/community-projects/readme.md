@@ -25,7 +25,7 @@ This session will be an interactive interview with Jhodel Cailan https://twitter
 - https://github.com/jcailan/vscode-blue-phoenix
 - https://github.com/jcailan/cdse
   
-Wednesday, October 14th at 1600 SGT (UTC+8) → [Zoom meeting link](https://sap-se.zoom.us/j/94415584344) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_jhodel.ics)
+Wednesday, October 14th at 1600 SGT (UTC+8) → [Replay of Session](https://youtu.be/lI7Fdy_XHUk)
 
 ### Graham Robinson
 

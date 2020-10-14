@@ -22,7 +22,7 @@ As many of you will be interacting with GitHub to host your open source project 
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Thurs 22 Oct. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold an hour-long "office hours" sessions, specifically on Thurs 22 Oct. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
 * 1600 CEST (UTC+2) → [Zoom meeting link](https://sap-se.zoom.us/j/99688601513) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/github_office_hours.ics)
 

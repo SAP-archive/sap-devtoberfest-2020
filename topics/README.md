@@ -226,9 +226,9 @@ Find more information about this session on the [topic page](./community-project
 
 Topic Owners:  Our friends from GitHub
 
-This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particluarly for open source content. And GitHub offers the most popuplar managed and public instance of Git.
+This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particularly for open source content. And GitHub offers the most popular managed and public instance of Git.
 
-As many of you will be interactiving with GitHub to to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub.
+As many of you will be interacting with GitHub to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub.
 
 Find more information about this session on the [topic page](./github/readme.md).
 </td>

@@ -31,7 +31,7 @@ Wednesday, October 14th at 1600 SGT (UTC+8) → [Replay of Session](https://yout
 
 This will be an interactive interview and Q&A session with long time SAP Mentor and community leader, Graham Robinson. https://twitter.com/grahamrobbo We will discuss the impact of open source and community projects on the SAP world in general but particularly what it has meant for ABAP developers and independent consultants.
 
-Thursday, October 15th at 1000 AEST (UTC+10) → [Zoom meeting link](https://sap-se.zoom.us/j/99762669374) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_graham.ics)
+Thursday, October 15th at 1000 AEST (UTC+10) → [Replay of Session](https://www.youtube.com/watch?v=j9HaNYHmgt0) 
 
 ### Luigi Dell'Aquila
 

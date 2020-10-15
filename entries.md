@@ -4,7 +4,7 @@
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
 * Stars: 740, Forks: 330, Watchers: 110
-* Open Issues: 204, Has Projects: false, Has Wiki: false
+* Open Issues: 207, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Wed, 14 Oct 2020 16:37:54 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -77,7 +77,7 @@
 
 * Stars: 111, Forks: 35, Watchers: 18
 * Open Issues: 83, Has Projects: true, Has Wiki: true
-* Created At: Mon, 11 May 2015 13:51:46 GMT, Updated At: Tue, 13 Oct 2020 09:11:36 GMT
+* Created At: Mon, 11 May 2015 13:51:46 GMT, Updated At: Thu, 15 Oct 2020 12:03:32 GMT
 * License: Other
 * Owner: [eclipse](https://github.com/eclipse)
 * Contributors: [delchev](https://github.com/delchev), [ThuF](https://github.com/ThuF), [shturec](https://github.com/shturec), [dpanayotov](https://github.com/dpanayotov), [SvetlinZarev-SAP](https://github.com/SvetlinZarev-SAP), [fen4o](https://github.com/fen4o), [SvetlinZarev](https://github.com/SvetlinZarev), [ialidzhikov](https://github.com/ialidzhikov), [DimoHG](https://github.com/DimoHG), [atanasproychev](https://github.com/atanasproychev), [km2k](https://github.com/km2k), [dgiormov](https://github.com/dgiormov), [dependabot[bot]](https://github.com/apps/dependabot), [JordanJordanov](https://github.com/JordanJordanov), [fossabot](https://github.com/fossabot), [dzahariev](https://github.com/dzahariev), [eclipsewebmaster](https://github.com/eclipsewebmaster), [g-pavlov](https://github.com/g-pavlov), [VladoKat](https://github.com/VladoKat), [waynebeaton](https://github.com/waynebeaton), [ekaterina-mitova](https://github.com/ekaterina-mitova), [konstantinmomchev](https://github.com/konstantinmomchev)
@@ -209,7 +209,7 @@
 
 * Stars: 110, Forks: 37, Watchers: 44
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 15 Oct 2020 00:56:01 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 15 Oct 2020 06:22:10 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

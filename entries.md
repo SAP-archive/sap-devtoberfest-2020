@@ -3,8 +3,8 @@
 ## abapGit: Git client for ABAP
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
-* Stars: 740, Forks: 329, Watchers: 110
-* Open Issues: 205, Has Projects: false, Has Wiki: false
+* Stars: 740, Forks: 330, Watchers: 110
+* Open Issues: 204, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Wed, 14 Oct 2020 16:37:54 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -159,7 +159,7 @@
 ## vscode_abap_remote_fs: Remote filesystem for ABAP systems
 [https://github.com/marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs)
 
-* Stars: 100, Forks: 15, Watchers: 20
+* Stars: 100, Forks: 16, Watchers: 20
 * Open Issues: 16, Has Projects: true, Has Wiki: true
 * Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Sat, 03 Oct 2020 08:09:21 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -209,7 +209,7 @@
 
 * Stars: 110, Forks: 37, Watchers: 44
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 14 Oct 2020 21:03:09 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 15 Oct 2020 00:56:01 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
@@ -219,9 +219,9 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
-* Stars: 31, Forks: 11, Watchers: 20
+* Stars: 32, Forks: 11, Watchers: 21
 * Open Issues: 3, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Fri, 02 Oct 2020 09:11:37 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 15 Oct 2020 02:40:54 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [mikezaschka](https://github.com/mikezaschka), [larshp](https://github.com/larshp), [d-sooter](https://github.com/d-sooter)

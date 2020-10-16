@@ -44,4 +44,4 @@ Thursday, Oct 15 1500 CET (UTC+1) → [Replay of Session](https://youtu.be/wwWzq
 
 In this session we will have a reunion with the godfathers of open source in the SAP world - the founders of the SAPlink project: Ed Herrmann and Dan McWeeney.
 
-Thursday, October 15th at 1300 Eastern US (UTC-4) → [Zoom meeting link](https://sap-se.zoom.us/j/95197397746) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/community_saplink.ics)
+Thursday, October 15th at 1300 Eastern US (UTC-4) → [Replay of Session](https://youtu.be/vaEQc52tBCQ) 

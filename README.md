@@ -5,7 +5,7 @@
 
 ## This week
 
-We're now in **Week 8 (12 → 16 Oct 2020)** with [Community Open Source Projects](./topics/community-projects/readme.md).
+We're now in **Week 9 (19 → 23 Oct 2020)** with [GitHub](./topics/github/readme.md).
 
 ## Key Dates
 

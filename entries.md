@@ -183,9 +183,9 @@
 ## bw_toolbox: 📊 🔨 📦 Collection of all tools for SAP BW useful for daily work
 [https://github.com/pawelwiejkut/bw_toolbox](https://github.com/pawelwiejkut/bw_toolbox)
 
-* Stars: 6, Forks: 4, Watchers: 3
+* Stars: 7, Forks: 4, Watchers: 3
 * Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Sun, 28 Oct 2018 18:36:49 GMT, Updated At: Tue, 13 Oct 2020 17:57:08 GMT
+* Created At: Sun, 28 Oct 2018 18:36:49 GMT, Updated At: Sun, 18 Oct 2020 20:42:59 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [pawelwiejkut](https://github.com/pawelwiejkut)
 * Contributors: [pawelwiejkut](https://github.com/pawelwiejkut), [larshp](https://github.com/larshp)
@@ -209,7 +209,7 @@
 
 * Stars: 111, Forks: 39, Watchers: 45
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sun, 18 Oct 2020 12:25:09 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Sun, 18 Oct 2020 18:20:38 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

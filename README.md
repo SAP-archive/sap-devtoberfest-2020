@@ -16,7 +16,7 @@ We're now in **Week 9 (19 → 23 Oct 2020)** with [GitHub](./topics/github/readm
 | Oct 23 at 1830 - Nov 2 at 0001 PST (UTC-8) | [Build Week](./topics/README.md#build-week) |
 | Nov 2 one minute past midnight Pacific Standard Time (UTC-8) | Final Deadline for all commits to projects to be considered in the contest |
 | Nov 2 - Nov 6 | SAP Judging |
-| Nov 6 | Annoucement of Finalist |
+| Nov 6 | Announcement of Finalists |
 | Nov 6 - TBD | Community Voting |
 
 ## Devtoberfest **Community Speed Networking session**

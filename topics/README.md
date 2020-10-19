@@ -236,7 +236,7 @@ Find more information about this session on the [topic page](./github/readme.md)
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 10</p>
 <p>Calendar Week 44</p>
 <p>Oct 24 - Nov 1</p>

@@ -99,9 +99,9 @@
 ## cap-fe-samples: SAP Fiori Element using CAP Model - Sample Project
 [https://github.com/jcailan/cap-fe-samples](https://github.com/jcailan/cap-fe-samples)
 
-* Stars: 8, Forks: 1, Watchers: 3
+* Stars: 9, Forks: 1, Watchers: 3
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 24 Sep 2020 00:47:47 GMT, Updated At: Wed, 14 Oct 2020 21:26:19 GMT
+* Created At: Thu, 24 Sep 2020 00:47:47 GMT, Updated At: Tue, 20 Oct 2020 14:09:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jcailan](https://github.com/jcailan)
 * Contributors: [jcailan](https://github.com/jcailan)
@@ -209,7 +209,7 @@
 
 * Stars: 115, Forks: 40, Watchers: 47
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 20 Oct 2020 06:22:38 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 20 Oct 2020 12:26:34 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

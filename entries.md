@@ -108,6 +108,18 @@
 
 
 
+## abap-ci-plugin: ABAP CI for Jenkins
+[https://github.com/jenkinsci/abap-ci-plugin](https://github.com/jenkinsci/abap-ci-plugin)
+
+* Stars: 0, Forks: 3, Watchers: 0
+* Open Issues: 0, Has Projects: true, Has Wiki: false
+* Created At: Tue, 16 Jun 2020 20:51:07 GMT, Updated At: Mon, 10 Aug 2020 19:47:38 GMT
+* License: [MIT License](http://choosealicense.com/licenses/mit/)
+* Owner: [jenkinsci](https://github.com/jenkinsci)
+* Contributors: [andau](https://github.com/andau)
+
+
+
 ## abap-dev-utilities: ABAP Development Tools
 [https://github.com/jrodriguez-rc/abap-dev-utilities](https://github.com/jrodriguez-rc/abap-dev-utilities)
 
@@ -207,9 +219,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 115, Forks: 40, Watchers: 47
+* Stars: 115, Forks: 41, Watchers: 47
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 20 Oct 2020 12:26:34 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 20 Oct 2020 19:03:00 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

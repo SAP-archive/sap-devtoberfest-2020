@@ -3,7 +3,7 @@
 ## abapGit: Git client for ABAP
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
-* Stars: 743, Forks: 335, Watchers: 110
+* Stars: 743, Forks: 335, Watchers: 111
 * Open Issues: 205, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Tue, 20 Oct 2020 07:17:54 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -221,10 +221,10 @@
 
 * Stars: 115, Forks: 41, Watchers: 47
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 20 Oct 2020 19:03:00 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 20 Oct 2020 19:04:45 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
 
 
 
@@ -267,9 +267,9 @@
 ## SAPUI5-ValueHelp: 
 [https://github.com/ssaisanthosh/SAPUI5-ValueHelp](https://github.com/ssaisanthosh/SAPUI5-ValueHelp)
 
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 20 Jan 2020 13:59:01 GMT, Updated At: Thu, 17 Sep 2020 14:43:34 GMT
+* Created At: Mon, 20 Jan 2020 13:59:01 GMT, Updated At: Tue, 20 Oct 2020 19:53:33 GMT
 * License: 
 * Owner: [ssaisanthosh](https://github.com/ssaisanthosh)
 * Contributors: [ssaisanthosh](https://github.com/ssaisanthosh)

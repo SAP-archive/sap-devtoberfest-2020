@@ -4,7 +4,7 @@
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
 * Stars: 743, Forks: 335, Watchers: 111
-* Open Issues: 205, Has Projects: false, Has Wiki: false
+* Open Issues: 206, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Tue, 20 Oct 2020 07:17:54 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -53,7 +53,7 @@
 
 * Stars: 0, Forks: 0, Watchers: 6
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 25 Jun 2020 13:27:35 GMT, Updated At: Tue, 13 Oct 2020 11:18:52 GMT
+* Created At: Thu, 25 Jun 2020 13:27:35 GMT, Updated At: Wed, 21 Oct 2020 10:15:24 GMT
 * License: [Eclipse Public License 2.0](http://choosealicense.com/licenses/epl-2.0/)
 * Owner: [dirigiblelabs](https://github.com/dirigiblelabs)
 * Contributors: [ThuF](https://github.com/ThuF)
@@ -75,9 +75,9 @@
 ## dirigible: Eclipse Dirigible™ Project
 [https://github.com/eclipse/dirigible](https://github.com/eclipse/dirigible)
 
-* Stars: 111, Forks: 35, Watchers: 18
+* Stars: 112, Forks: 35, Watchers: 18
 * Open Issues: 83, Has Projects: true, Has Wiki: true
-* Created At: Mon, 11 May 2015 13:51:46 GMT, Updated At: Tue, 20 Oct 2020 08:25:50 GMT
+* Created At: Mon, 11 May 2015 13:51:46 GMT, Updated At: Wed, 21 Oct 2020 11:51:11 GMT
 * License: Other
 * Owner: [eclipse](https://github.com/eclipse)
 * Contributors: [delchev](https://github.com/delchev), [ThuF](https://github.com/ThuF), [shturec](https://github.com/shturec), [dpanayotov](https://github.com/dpanayotov), [SvetlinZarev-SAP](https://github.com/SvetlinZarev-SAP), [fen4o](https://github.com/fen4o), [SvetlinZarev](https://github.com/SvetlinZarev), [ialidzhikov](https://github.com/ialidzhikov), [DimoHG](https://github.com/DimoHG), [atanasproychev](https://github.com/atanasproychev), [km2k](https://github.com/km2k), [dgiormov](https://github.com/dgiormov), [dependabot[bot]](https://github.com/apps/dependabot), [JordanJordanov](https://github.com/JordanJordanov), [fossabot](https://github.com/fossabot), [dzahariev](https://github.com/dzahariev), [eclipsewebmaster](https://github.com/eclipsewebmaster), [g-pavlov](https://github.com/g-pavlov), [VladoKat](https://github.com/VladoKat), [waynebeaton](https://github.com/waynebeaton), [ekaterina-mitova](https://github.com/ekaterina-mitova), [konstantinmomchev](https://github.com/konstantinmomchev)
@@ -87,7 +87,7 @@
 ## abapGitcustomizing: abapGit for customizing content
 [https://github.com/goreraks/abapGitcustomizing](https://github.com/goreraks/abapGitcustomizing)
 
-* Stars: 3, Forks: 0, Watchers: 2
+* Stars: 3, Forks: 1, Watchers: 2
 * Open Issues: 5, Has Projects: true, Has Wiki: true
 * Created At: Mon, 22 Jun 2020 13:20:54 GMT, Updated At: Sat, 03 Oct 2020 05:51:59 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
@@ -160,7 +160,7 @@
 [https://github.com/larshp/abap-wasm](https://github.com/larshp/abap-wasm)
 
 * Stars: 1, Forks: 0, Watchers: 3
-* Open Issues: 2, Has Projects: false, Has Wiki: false
+* Open Issues: 7, Has Projects: false, Has Wiki: false
 * Created At: Fri, 27 Dec 2019 10:59:08 GMT, Updated At: Tue, 20 Oct 2020 08:36:11 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
@@ -219,9 +219,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 115, Forks: 41, Watchers: 47
-* Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 21 Oct 2020 00:57:59 GMT
+* Stars: 118, Forks: 41, Watchers: 48
+* Open Issues: 9, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 21 Oct 2020 11:16:43 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
@@ -243,9 +243,9 @@
 ## cds-scp-api: CDS Extension for SAP Cloud Platform API Consumption
 [https://github.com/sapmentors/cds-scp-api](https://github.com/sapmentors/cds-scp-api)
 
-* Stars: 5, Forks: 0, Watchers: 16
+* Stars: 6, Forks: 0, Watchers: 16
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Tue, 06 Oct 2020 14:35:20 GMT, Updated At: Mon, 19 Oct 2020 01:04:13 GMT
+* Created At: Tue, 06 Oct 2020 14:35:20 GMT, Updated At: Wed, 21 Oct 2020 06:51:23 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [raeijpe](https://github.com/raeijpe)

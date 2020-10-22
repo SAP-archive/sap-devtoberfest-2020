@@ -4,7 +4,7 @@
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
 * Stars: 744, Forks: 335, Watchers: 112
-* Open Issues: 208, Has Projects: false, Has Wiki: false
+* Open Issues: 209, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Wed, 21 Oct 2020 12:35:53 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -219,9 +219,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 119, Forks: 41, Watchers: 48
+* Stars: 120, Forks: 41, Watchers: 48
 * Open Issues: 9, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 21 Oct 2020 17:49:57 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 21 Oct 2020 19:15:17 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

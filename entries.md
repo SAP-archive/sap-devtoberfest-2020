@@ -4,7 +4,7 @@
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
 * Stars: 744, Forks: 335, Watchers: 112
-* Open Issues: 208, Has Projects: false, Has Wiki: false
+* Open Issues: 209, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Thu, 22 Oct 2020 17:04:46 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -99,9 +99,9 @@
 ## cap-fe-samples: SAP Fiori Element using CAP Model - Sample Project
 [https://github.com/jcailan/cap-fe-samples](https://github.com/jcailan/cap-fe-samples)
 
-* Stars: 10, Forks: 1, Watchers: 4
+* Stars: 11, Forks: 1, Watchers: 4
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Thu, 24 Sep 2020 00:47:47 GMT, Updated At: Wed, 21 Oct 2020 12:31:35 GMT
+* Created At: Thu, 24 Sep 2020 00:47:47 GMT, Updated At: Thu, 22 Oct 2020 18:58:22 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jcailan](https://github.com/jcailan)
 * Contributors: [jcailan](https://github.com/jcailan)
@@ -112,7 +112,7 @@
 [https://github.com/jenkinsci/abap-ci-plugin](https://github.com/jenkinsci/abap-ci-plugin)
 
 * Stars: 0, Forks: 3, Watchers: 0
-* Open Issues: 0, Has Projects: true, Has Wiki: false
+* Open Issues: 1, Has Projects: true, Has Wiki: false
 * Created At: Tue, 16 Jun 2020 20:51:07 GMT, Updated At: Mon, 10 Aug 2020 19:47:38 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jenkinsci](https://github.com/jenkinsci)
@@ -221,7 +221,7 @@
 
 * Stars: 121, Forks: 41, Watchers: 48
 * Open Issues: 9, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 22 Oct 2020 12:39:50 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Thu, 22 Oct 2020 18:21:42 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [btbernard](https://github.com/btbernard), [larshp](https://github.com/larshp), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
@@ -231,9 +231,9 @@
 ## cds-pg: PostgreSQL adapter for SAP CDS (CAP)
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
-* Stars: 34, Forks: 12, Watchers: 21
+* Stars: 35, Forks: 12, Watchers: 21
 * Open Issues: 3, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Tue, 20 Oct 2020 07:00:53 GMT
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Thu, 22 Oct 2020 19:06:27 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [mikezaschka](https://github.com/mikezaschka), [larshp](https://github.com/larshp), [d-sooter](https://github.com/d-sooter)

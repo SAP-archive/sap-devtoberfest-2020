@@ -183,9 +183,9 @@
 ## cds-dbm: Delta deployment and migrations for SAP CAP database adapters.
 [https://github.com/mikezaschka/cds-dbm](https://github.com/mikezaschka/cds-dbm)
 
-* Stars: 0, Forks: 0, Watchers: 1
+* Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Mon, 26 Oct 2020 12:07:36 GMT
+* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Mon, 26 Oct 2020 19:52:07 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [mikezaschka](https://github.com/mikezaschka)
 * Contributors: [mikezaschka](https://github.com/mikezaschka)
@@ -221,7 +221,7 @@
 
 * Stars: 122, Forks: 41, Watchers: 49
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 26 Oct 2020 18:29:38 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 26 Oct 2020 18:31:02 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

@@ -5,7 +5,7 @@
 
 ## This week
 
-We're now in **Week 9 (19 → 23 Oct 2020)** with [GitHub](./topics/github/readme.md).
+We're now in **Week 10 (23 Oct → 2 Nov 2020)** with [Build Week](./topicsREADME.md#build-week).
 
 ## Key Dates
 
@@ -16,8 +16,8 @@ We're now in **Week 9 (19 → 23 Oct 2020)** with [GitHub](./topics/github/readm
 | Oct 23 at 1830 - Nov 2 at 0001 PST (UTC-8) | [Build Week](./topics/README.md#build-week) |
 | Nov 2 one minute past midnight Pacific Standard Time (UTC-8) | Final Deadline for all commits to projects to be considered in the contest |
 | Nov 2 - Nov 6 | SAP Judging |
-| Nov 6 | Annoucement of Finalist |
-| Nov 6 - TBD | Community Voting |
+| Nov 9 | Annoucement of Finalist |
+| Nov 9 - TBD | Community Voting |
 
 ## Devtoberfest **Community Speed Networking session**
 This special session is an opportunity for project leads of contest entrants to come together and explain their project goals/vision and to recruit member to help them out during the upcoming build week. You can of course attend if you just want to learn about all the great community projects. But if you are looking for a project to join, this is your chance to learn about some of the possible options.

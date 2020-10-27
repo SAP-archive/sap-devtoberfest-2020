@@ -2,6 +2,8 @@
 
 **This enablement content is for Devtoberfest Week 6 : 28 Sep → 02 Oct 2020.**
 
+Update Oct 2020: See the [Bonus content](#Bonus-content) section on this page for extra content.
+
 Here you'll find content to help you level up with the Cloud APIs, on SAP Cloud Platform. This content consists of **exercises**, **videos** of those exercises, and **office hours** sessions.
 
 All of the scheduled content described on this page (the premieres and the office hours session) is available in a [public Google Calendar](https://calendar.google.com/calendar?cid=Ym1ibGJucHFkOHMwcWZoYnZnMjJqazE3OWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so that you can bring the events into your own calendar and get reminders for each of them. Alternatively, if you're subscribed to the [SAP Developers YouTube Channel](https://www.youtube.com/user/sapdevs) you can get reminder notifications for individual live stream and premiere videos.
@@ -45,6 +47,9 @@ Here's what the premiere schedule looks like:
 | [![Exercise 05](cloud-apis-5.png)](https://youtu.be/4BZimZlZvzw)  | [Exercise 05 - Workflow API calls, authorities, access token contents & more](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/05/readme.md)  <br><br>[Premieres](https://youtu.be/4BZimZlZvzw) on Thu 01 Oct at 1100 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex5.ics) | 42 mins |
 | [![Exercise 06](cloud-apis-6.png)](https://youtu.be/C92_0AL0wLY)  | [Exercise 06 - Calling the Workflow API from within the SAP API Business Hub](https://github.com/SAP-samples/cloud-apis-virtual-event/tree/main/exercises/06/readme.md)  <br><br>[Premieres](https://youtu.be/C92_0AL0wLY) on Thu 01 Oct at 1145 BST (UTC+1)<br><br>[ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/cloud_apis_ex6.ics) | 20 mins |
 
+## Bonus content
+
+Since the publication of the enablement content for this topic, we've put together another couple of exercises and accompanying videos for you - 07 and 08. Check out the complete [Cloud APIs playlist](https://www.youtube.com/playlist?list=PL6RpkC85SLQDmBzWkt2ZFE93QsZAnts-y) on YouTube to see these new videos and also the corresponding virtual event content, specifically the exercise group [Authentication, refresh tokens & data pagination with the SAP Ariba APIs using Python](https://github.com/SAP-samples/cloud-apis-virtual-event/#the-exercises). 
 
 ## Office hours sessions
 

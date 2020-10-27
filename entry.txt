@@ -1,7 +1,6 @@
 https://github.com/sap-samples/sap-devtoberfest-2020
 https://github.com/js-soft/wdio-ui5
 https://github.com/sapmentors/cds-pg
-https://github.com/bmaciag/Devtoberfest-2020
 https://github.com/goreraks/abapGitcustomizing
 https://github.com/jrodriguez-rc/abap-dev-utilities
 https://github.com/marcellourbani/vscode_abap_remote_fs
@@ -20,3 +19,6 @@ https://github.com/eclipse/dirigible
 https://github.com/dirigiblelabs/sample-crm
 https://github.com/dirigiblelabs/sample-survey
 https://github.com/pawelwiejkut/bw_toolbox
+https://github.com/sapmentors/cds-scp-api
+https://github.com/jenkinsci/abap-ci-plugin
+https://github.com/mikezaschka/cds-dbm

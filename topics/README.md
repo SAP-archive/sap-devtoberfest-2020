@@ -3,7 +3,7 @@
 To help you get started building, we've come up with a set of topics that we think might be useful, and have put together content so you can
 level up before you get started.
 
-[Current Week's Content](#project-kyma)
+[Current Week's Content](#Build-Week)
 
 <table>
 <tr>
@@ -172,7 +172,7 @@ Find more information about this session on the [topic page](./chrome-extensions
 
 <tr>
 <td>
-<p><b>CURRENT WEEK</b></p>
+<p><b><!--CURRENT WEEK--></b></p>
 <p>Week 7</p>
 <p>Calendar Week 41</p>
 <p>Oct 05 - Oct 09</p>
@@ -215,7 +215,6 @@ Find more information about this session on the [topic page](./community-project
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
 <p>Week 9</p>
 <p>Calendar Week 43</p>
 <p>Oct 19 - Oct 23</p>
@@ -226,9 +225,9 @@ Find more information about this session on the [topic page](./community-project
 
 Topic Owners:  Our friends from GitHub
 
-This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particluarly for open source content. And GitHub offers the most popuplar managed and public instance of Git.
+This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particularly for open source content. And GitHub offers the most popular managed and public instance of Git.
 
-As many of you will be interactiving with GitHub to to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub.
+As many of you will be interacting with GitHub to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub.
 
 Find more information about this session on the [topic page](./github/readme.md).
 </td>
@@ -236,7 +235,7 @@ Find more information about this session on the [topic page](./github/readme.md)
 
 <tr>
 <td>
-<p><b><!--CURRENT WEEK--></b></p>
+<p><b>CURRENT WEEK</b></p>
 <p>Week 10</p>
 <p>Calendar Week 44</p>
 <p>Oct 24 - Nov 1</p>

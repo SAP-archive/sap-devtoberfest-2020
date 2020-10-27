@@ -2,9 +2,9 @@
 
 **This enablement content is part Devtoberfest Week 10 : Oct 24 - Nov 1.**
 
-This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particluarly for open source content. And GitHub offers the most popuplar managed and public instance of Git.
+This week the enablement topic is GitHub itself. In order to share your open source project you need some technology to host and serve out your content. Git is largely the defacto standard for source control in general and particularly for open source content. And GitHub offers the most popular managed and public instance of Git.
 
-As many of you will be interactiving with GitHub to to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub.
+As many of you will be interacting with GitHub to host your open source project or contributing to one as part of the Devtoberfest contest next week.  Therefore it would be useful to learn about some of the most powerful features of GitHub itself.  In this week we have learning materials and interactive Q&A session offered by experts directly from GitHub.
 
 ## Videos
 
@@ -22,7 +22,7 @@ As many of you will be interactiving with GitHub to to host your open source pro
 
 ## Office hours sessions
 
-In case you have anything you want to ask or discuss, relating to the content here, we'll hold a couple of hour-long "office hours" sessions in the week following the video premieres, specifically on Thurs 22 Oct. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
+In case you have anything you want to ask or discuss, relating to the content here, we'll hold an hour-long "office hours" sessions, specifically on Thurs 22 Oct. They will be in the form of Zoom meetings and scheduled to allow participation from most timezones:
 
 * 1600 CEST (UTC+2) → [Zoom meeting link](https://sap-se.zoom.us/j/99688601513) | [ICS Download](https://sap-samples.github.io/sap-devtoberfest-2020/cal/github_office_hours.ics)
 

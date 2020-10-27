@@ -5,7 +5,7 @@
 
 ## This week
 
-We're now in **Week 10 (23 Oct → 2 Nov 2020)** with [Build Week](./topicsREADME.md#build-week).
+We're now in **Week 10 (23 Oct → 2 Nov 2020)** with [Build Week](./topics/README.md#build-week).
 
 ## Key Dates
 

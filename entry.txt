@@ -22,3 +22,4 @@ https://github.com/pawelwiejkut/bw_toolbox
 https://github.com/sapmentors/cds-scp-api
 https://github.com/jenkinsci/abap-ci-plugin
 https://github.com/mikezaschka/cds-dbm
+https://github.com/pawelwiejkut/hana_sharepoint_list_adapter

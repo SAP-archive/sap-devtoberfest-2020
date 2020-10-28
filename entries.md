@@ -3,9 +3,9 @@
 ## abapGit: Git client for ABAP
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
-* Stars: 746, Forks: 337, Watchers: 111
-* Open Issues: 213, Has Projects: false, Has Wiki: false
-* Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Tue, 27 Oct 2020 15:14:20 GMT
+* Stars: 747, Forks: 337, Watchers: 111
+* Open Issues: 214, Has Projects: false, Has Wiki: false
+* Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Tue, 27 Oct 2020 18:35:35 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
 * Contributors: [larshp](https://github.com/larshp), [christianguenter2](https://github.com/christianguenter2), [sbcgua](https://github.com/sbcgua), [mbtools](https://github.com/mbtools), [EduardoCopat](https://github.com/EduardoCopat), [flaiker](https://github.com/flaiker), [FreHu](https://github.com/FreHu), [bigld](https://github.com/bigld), [mariusraht2](https://github.com/mariusraht2), [dependabot-preview[bot]](https://github.com/apps/dependabot-preview), [christian102094](https://github.com/christian102094), [filak-sap](https://github.com/filak-sap), [JohannesKonings](https://github.com/JohannesKonings), [jrodriguez-rc](https://github.com/jrodriguez-rc), [g-back](https://github.com/g-back), [mkaesemann](https://github.com/mkaesemann), [TheWirtschaftsmann](https://github.com/TheWirtschaftsmann), [thomas-erdoesi](https://github.com/thomas-erdoesi), [gregorwolf](https://github.com/gregorwolf), [mfsap](https://github.com/mfsap), [mrsimpson](https://github.com/mrsimpson), [nununo](https://github.com/nununo), [ThomasPloski](https://github.com/ThomasPloski), [pokrakam](https://github.com/pokrakam), [christianguenter3](https://github.com/christianguenter3), [marcellourbani](https://github.com/marcellourbani), [sandraros](https://github.com/sandraros), [sshlapak](https://github.com/sshlapak), [jwigert](https://github.com/jwigert), [VishnAndr](https://github.com/VishnAndr), [ed-holland](https://github.com/ed-holland), [hectormartinezn](https://github.com/hectormartinezn), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [alexanderpetrenz](https://github.com/alexanderpetrenz), [GoWale](https://github.com/GoWale), [christianp86](https://github.com/christianp86), [GiantCrocodile](https://github.com/GiantCrocodile), [grahamrobbo](https://github.com/grahamrobbo), [ibnbr](https://github.com/ibnbr), [olirogers](https://github.com/olirogers), [Sdfraga](https://github.com/Sdfraga), [AlexandreHT](https://github.com/AlexandreHT), [absap](https://github.com/absap), [d023604](https://github.com/d023604), [RedWolf112](https://github.com/RedWolf112), [Srinu3366](https://github.com/Srinu3366), [hf-kklein](https://github.com/hf-kklein), [tiefox](https://github.com/tiefox), [gepparta](https://github.com/gepparta), [germanysources](https://github.com/germanysources), [geert-janklaps](https://github.com/geert-janklaps), [habrahams](https://github.com/habrahams), [Elberet](https://github.com/Elberet), [ElNovi](https://github.com/ElNovi), [matt1as](https://github.com/matt1as), [insidy](https://github.com/insidy), [RainerWinkler](https://github.com/RainerWinkler), [SebastianWolf-SAP](https://github.com/SebastianWolf-SAP), [kwaishang](https://github.com/kwaishang), [valdirmendesdev](https://github.com/valdirmendesdev), [abapChaoLiu](https://github.com/abapChaoLiu), [juancarlosrodriguezf](https://github.com/juancarlosrodriguezf), [p-dmitrij](https://github.com/p-dmitrij), [BlackmanCC](https://github.com/BlackmanCC), [Sirius-A](https://github.com/Sirius-A), [deborsa](https://github.com/deborsa), [ChristopheCaparros](https://github.com/ChristopheCaparros), [chrismills](https://github.com/chrismills), [wombling](https://github.com/wombling), [damir-majer](https://github.com/damir-majer), [thedoginthewok](https://github.com/thedoginthewok), [Hir0ki](https://github.com/Hir0ki), [esjewett](https://github.com/esjewett), [FunMustBe](https://github.com/FunMustBe), [giovannidegani](https://github.com/giovannidegani), [ivanfemia](https://github.com/ivanfemia), [jsiglen](https://github.com/jsiglen), [nomssi](https://github.com/nomssi), [flyingSAP](https://github.com/flyingSAP), [KDS42](https://github.com/KDS42), [kjetil-kilhavn](https://github.com/kjetil-kilhavn), [14r5](https://github.com/14r5), [IvxLars](https://github.com/IvxLars), [mauriciolauffer](https://github.com/mauriciolauffer), [maxim-engel-sap](https://github.com/maxim-engel-sap), [schneider-michael](https://github.com/schneider-michael), [pcf0](https://github.com/pcf0), [shaiSAP](https://github.com/shaiSAP), [treisinger](https://github.com/treisinger), [ErdoesiT](https://github.com/ErdoesiT), [ThoralfHaensel](https://github.com/ThoralfHaensel), [TimoJohn](https://github.com/TimoJohn), [se38](https://github.com/se38), [WolfTreak](https://github.com/WolfTreak), [alexanderchan](https://github.com/alexanderchan), [antonioyanez](https://github.com/antonioyanez), [cherifimourad](https://github.com/cherifimourad), [fdupret](https://github.com/fdupret), [greg2git](https://github.com/greg2git), [h13m9](https://github.com/h13m9), [kvtorp](https://github.com/kvtorp), [pfaller](https://github.com/pfaller), [sambarza](https://github.com/sambarza), [fidley](https://github.com/fidley)
@@ -101,7 +101,7 @@
 
 * Stars: 1, Forks: 3, Watchers: 1
 * Open Issues: 0, Has Projects: true, Has Wiki: false
-* Created At: Tue, 16 Jun 2020 20:51:07 GMT, Updated At: Mon, 26 Oct 2020 10:23:45 GMT
+* Created At: Tue, 16 Jun 2020 20:51:07 GMT, Updated At: Tue, 27 Oct 2020 20:53:54 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jenkinsci](https://github.com/jenkinsci)
 * Contributors: [andau](https://github.com/andau), [wozjac](https://github.com/wozjac)
@@ -136,7 +136,7 @@
 [https://github.com/js-soft/wdi5](https://github.com/js-soft/wdi5)
 
 * Stars: 12, Forks: 1, Watchers: 4
-* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 19 Oct 2020 08:18:37 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
@@ -184,8 +184,8 @@
 [https://github.com/mikezaschka/cds-dbm](https://github.com/mikezaschka/cds-dbm)
 
 * Stars: 1, Forks: 0, Watchers: 1
-* Open Issues: 0, Has Projects: true, Has Wiki: true
-* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Mon, 26 Oct 2020 19:52:07 GMT
+* Open Issues: 1, Has Projects: true, Has Wiki: true
+* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Tue, 27 Oct 2020 21:47:26 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [mikezaschka](https://github.com/mikezaschka)
 * Contributors: [mikezaschka](https://github.com/mikezaschka)
@@ -201,6 +201,18 @@
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [pawelwiejkut](https://github.com/pawelwiejkut)
 * Contributors: [pawelwiejkut](https://github.com/pawelwiejkut), [reyemsaibot](https://github.com/reyemsaibot), [larshp](https://github.com/larshp)
+
+
+
+## hana_sharepoint_list_adapter: 📊💿 Sharepoint list adapter for SAP HANA 
+[https://github.com/pawelwiejkut/hana_sharepoint_list_adapter](https://github.com/pawelwiejkut/hana_sharepoint_list_adapter)
+
+* Stars: 0, Forks: 0, Watchers: 1
+* Open Issues: 2, Has Projects: true, Has Wiki: true
+* Created At: Mon, 26 Oct 2020 19:35:04 GMT, Updated At: Tue, 27 Oct 2020 20:58:57 GMT
+* License: 
+* Owner: [pawelwiejkut](https://github.com/pawelwiejkut)
+* Contributors: [pawelwiejkut](https://github.com/pawelwiejkut)
 
 
 
@@ -221,10 +233,10 @@
 
 * Stars: 122, Forks: 42, Watchers: 49
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 27 Oct 2020 12:27:57 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 27 Oct 2020 18:51:58 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
-* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [pawelwiejkut](https://github.com/pawelwiejkut), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
+* Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [pawelwiejkut](https://github.com/pawelwiejkut), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)
 
 
 
@@ -232,8 +244,8 @@
 [https://github.com/sapmentors/cds-pg](https://github.com/sapmentors/cds-pg)
 
 * Stars: 36, Forks: 12, Watchers: 20
-* Open Issues: 5, Has Projects: true, Has Wiki: true
-* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Fri, 23 Oct 2020 02:39:38 GMT
+* Open Issues: 4, Has Projects: true, Has Wiki: true
+* Created At: Thu, 13 Aug 2020 13:40:34 GMT, Updated At: Tue, 27 Oct 2020 21:54:43 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [sapmentors](https://github.com/sapmentors)
 * Contributors: [vobu](https://github.com/vobu), [gregorwolf](https://github.com/gregorwolf), [mikezaschka](https://github.com/mikezaschka), [larshp](https://github.com/larshp), [d-sooter](https://github.com/d-sooter)

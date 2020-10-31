@@ -147,9 +147,9 @@
 ## abap-wasm: WebAssembly Virtual Machine / Interpreter / Runtime in ABAP
 [https://github.com/larshp/abap-wasm](https://github.com/larshp/abap-wasm)
 
-* Stars: 2, Forks: 0, Watchers: 3
+* Stars: 3, Forks: 0, Watchers: 3
 * Open Issues: 5, Has Projects: false, Has Wiki: false
-* Created At: Fri, 27 Dec 2019 10:59:08 GMT, Updated At: Fri, 30 Oct 2020 11:52:11 GMT
+* Created At: Fri, 27 Dec 2019 10:59:08 GMT, Updated At: Fri, 30 Oct 2020 19:33:50 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [larshp](https://github.com/larshp)
 * Contributors: [larshp](https://github.com/larshp)
@@ -185,7 +185,7 @@
 
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Thu, 29 Oct 2020 21:24:50 GMT
+* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Sat, 31 Oct 2020 00:17:23 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [mikezaschka](https://github.com/mikezaschka)
 * Contributors: [mikezaschka](https://github.com/mikezaschka)
@@ -231,9 +231,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 122, Forks: 44, Watchers: 49
-* Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 30 Oct 2020 12:17:36 GMT
+* Stars: 122, Forks: 45, Watchers: 49
+* Open Issues: 9, Has Projects: true, Has Wiki: true
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Fri, 30 Oct 2020 18:12:39 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [pawelwiejkut](https://github.com/pawelwiejkut), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

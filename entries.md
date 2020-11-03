@@ -4,7 +4,7 @@
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
 * Stars: 753, Forks: 337, Watchers: 113
-* Open Issues: 210, Has Projects: false, Has Wiki: false
+* Open Issues: 211, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Mon, 02 Nov 2020 14:03:16 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -137,7 +137,7 @@
 
 * Stars: 14, Forks: 1, Watchers: 4
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 02 Nov 2020 15:33:55 GMT
+* Created At: Wed, 25 Mar 2020 20:26:15 GMT, Updated At: Mon, 02 Nov 2020 21:02:33 GMT
 * License: Other
 * Owner: [js-soft](https://github.com/js-soft)
 * Contributors: [vobu](https://github.com/vobu), [dominikfeininger](https://github.com/dominikfeininger), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -233,7 +233,7 @@
 
 * Stars: 122, Forks: 45, Watchers: 49
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 02 Nov 2020 13:41:11 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 02 Nov 2020 18:13:37 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [pawelwiejkut](https://github.com/pawelwiejkut), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [sbarzaghialteaup](https://github.com/sbarzaghialteaup), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

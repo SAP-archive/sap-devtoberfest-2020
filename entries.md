@@ -195,9 +195,9 @@
 ## bw_toolbox: 📊 🔨 📦 Collection of all tools for SAP BW useful for daily work
 [https://github.com/pawelwiejkut/bw_toolbox](https://github.com/pawelwiejkut/bw_toolbox)
 
-* Stars: 11, Forks: 7, Watchers: 5
+* Stars: 12, Forks: 7, Watchers: 5
 * Open Issues: 2, Has Projects: true, Has Wiki: true
-* Created At: Sun, 28 Oct 2018 18:36:49 GMT, Updated At: Thu, 29 Oct 2020 12:41:59 GMT
+* Created At: Sun, 28 Oct 2018 18:36:49 GMT, Updated At: Tue, 03 Nov 2020 03:12:24 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [pawelwiejkut](https://github.com/pawelwiejkut)
 * Contributors: [pawelwiejkut](https://github.com/pawelwiejkut), [reyemsaibot](https://github.com/reyemsaibot), [RonaldKonijnenburg](https://github.com/RonaldKonijnenburg), [larshp](https://github.com/larshp)
@@ -233,7 +233,7 @@
 
 * Stars: 122, Forks: 45, Watchers: 49
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Mon, 02 Nov 2020 18:13:37 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Tue, 03 Nov 2020 00:37:18 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [pawelwiejkut](https://github.com/pawelwiejkut), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [sbarzaghialteaup](https://github.com/sbarzaghialteaup), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

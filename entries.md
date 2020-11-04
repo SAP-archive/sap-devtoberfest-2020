@@ -4,7 +4,7 @@
 [https://github.com/abapGit/abapGit](https://github.com/abapGit/abapGit)
 
 * Stars: 753, Forks: 336, Watchers: 113
-* Open Issues: 204, Has Projects: false, Has Wiki: false
+* Open Issues: 205, Has Projects: false, Has Wiki: false
 * Created At: Mon, 23 Jun 2014 05:39:25 GMT, Updated At: Tue, 03 Nov 2020 18:35:28 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [abapGit](https://github.com/abapGit)
@@ -88,7 +88,7 @@
 [https://github.com/jcailan/cap-fe-samples](https://github.com/jcailan/cap-fe-samples)
 
 * Stars: 13, Forks: 1, Watchers: 4
-* Open Issues: 0, Has Projects: true, Has Wiki: true
+* Open Issues: 1, Has Projects: true, Has Wiki: true
 * Created At: Thu, 24 Sep 2020 00:47:47 GMT, Updated At: Thu, 29 Oct 2020 18:21:23 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [jcailan](https://github.com/jcailan)
@@ -159,9 +159,9 @@
 ## vscode_abap_remote_fs: Remote filesystem for ABAP systems
 [https://github.com/marcellourbani/vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs)
 
-* Stars: 101, Forks: 17, Watchers: 20
+* Stars: 102, Forks: 17, Watchers: 20
 * Open Issues: 25, Has Projects: true, Has Wiki: true
-* Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Mon, 02 Nov 2020 08:54:34 GMT
+* Created At: Fri, 19 Oct 2018 08:37:40 GMT, Updated At: Wed, 04 Nov 2020 11:34:42 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [marcellourbani](https://github.com/marcellourbani)
 * Contributors: [marcellourbani](https://github.com/marcellourbani), [filak-sap](https://github.com/filak-sap), [larshp](https://github.com/larshp), [dependabot[bot]](https://github.com/apps/dependabot)
@@ -185,7 +185,7 @@
 
 * Stars: 1, Forks: 0, Watchers: 1
 * Open Issues: 1, Has Projects: true, Has Wiki: true
-* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Sat, 31 Oct 2020 00:17:23 GMT
+* Created At: Mon, 19 Oct 2020 16:04:24 GMT, Updated At: Wed, 04 Nov 2020 11:17:24 GMT
 * License: [MIT License](http://choosealicense.com/licenses/mit/)
 * Owner: [mikezaschka](https://github.com/mikezaschka)
 * Contributors: [mikezaschka](https://github.com/mikezaschka)
@@ -231,9 +231,9 @@
 ## sap-devtoberfest-2020: The home of Devtoberfest 2020 - an open celebration of what makes us developers – coding and collaboration! 
 [https://github.com/SAP-samples/sap-devtoberfest-2020](https://github.com/SAP-samples/sap-devtoberfest-2020)
 
-* Stars: 123, Forks: 45, Watchers: 49
+* Stars: 124, Forks: 45, Watchers: 50
 * Open Issues: 8, Has Projects: true, Has Wiki: true
-* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 04 Nov 2020 00:37:45 GMT
+* Created At: Fri, 03 Jul 2020 17:23:37 GMT, Updated At: Wed, 04 Nov 2020 09:04:48 GMT
 * License: 
 * Owner: [SAP-samples](https://github.com/SAP-samples)
 * Contributors: [jung-thomas](https://github.com/jung-thomas), [qmacro](https://github.com/qmacro), [rich-heilman](https://github.com/rich-heilman), [KevinMuessig](https://github.com/KevinMuessig), [Sygyzmundovych](https://github.com/Sygyzmundovych), [maxstreifeneder](https://github.com/maxstreifeneder), [IObert](https://github.com/IObert), [jarjarbentley](https://github.com/jarjarbentley), [larshp](https://github.com/larshp), [btbernard](https://github.com/btbernard), [jrodriguez-rc](https://github.com/jrodriguez-rc), [pawelwiejkut](https://github.com/pawelwiejkut), [VishnAndr](https://github.com/VishnAndr), [andrewlunde](https://github.com/andrewlunde), [bigld](https://github.com/bigld), [tricktresor](https://github.com/tricktresor), [jcailan](https://github.com/jcailan), [marcellourbani](https://github.com/marcellourbani), [mikezaschka](https://github.com/mikezaschka), [delchev](https://github.com/delchev), [goreraks](https://github.com/goreraks), [raeijpe](https://github.com/raeijpe), [ssaisanthosh](https://github.com/ssaisanthosh), [sbarzaghialteaup](https://github.com/sbarzaghialteaup), [vobu](https://github.com/vobu), [andau](https://github.com/andau), [bmaciag](https://github.com/bmaciag), [marcobuescher](https://github.com/marcobuescher), [pliegl](https://github.com/pliegl)

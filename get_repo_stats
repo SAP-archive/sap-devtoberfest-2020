@@ -1,0 +1,83 @@
+#!/usr/bin/env bash
+
+# Get repository statistics - get_repo_stats
+
+# Retrieve the info from the GitHub API for a list of repos.
+# Takes info from STDIN, looks for and processes lines containing
+# repo names, lines that look like this:
+# orgname/reponame: description
+# For example:
+# SAP-samples/sap-devtoberfest-2020: The home of Devtoberfest 2020
+
+set -o errexit
+
+# The maximum cache age we are happy for the GitHub stats to be
+declare cachetime=60 # mins
+
+# Which statistics we want for each repo (from the GitHub data)
+declare stats="[
+  .full_name,
+  .forks,
+  .open_issues,
+  .watchers,
+  .network_count,
+  .subscribers_count
+]"
+
+# Where we want to store the data files
+declare datadir
+datadir="$(dirname "$0")/data"
+
+
+log() {
+  # Log output goes to STDERR normally (&2)
+  >/dev/null echo "$@"
+}
+
+retrieve_repo_info() {
+
+  # Takes an org/repo name and a data directory and ensures that
+  # we have an up-to-date JSON file locally containing the GitHub
+  # stats for that repo. Uses the public GitHub API.
+
+  local repo=$1
+  local datadir=$2
+  local file="${datadir}/${repo/\//--}.json"
+
+  # Retrieve the data from GitHub if we don't have a file locally
+  # or if the file is more than cachetime mins old.
+  if [ ! -f "$file" ] || test "$(find "$file" -mmin $cachetime)"; then
+    curl \
+      --fail \
+      --silent \
+      "https://api.github.com/repos/${repo}" \
+      > "$file"
+    log "🌐"
+    sleep 0.5 # be nice
+  else
+    log "📁"
+  fi
+
+}
+
+main() {
+
+  # Ensure we have GitHub stats for each repo:
+  # - look for the org/repo: ... pattern
+  # - grab the bit before the : (i.e. the org/repo name)
+  # - check for / get the stats for each repo
+  grep -E '^[^-].+/.+:' - \
+    | cut -d':' -f1 \
+    | while read -r repo; do
+        log -n "$repo "
+        retrieve_repo_info "$repo" "$datadir"
+      done
+
+  # Process the JSON for all the repos and output as CSV
+  # jq -r option: raw output
+  # jq -s option: slurp multiple files into a single JSON array
+  jq -r -s ".[] | $stats | @csv" data/*
+
+}
+
+main "$@"

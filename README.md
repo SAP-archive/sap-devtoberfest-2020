@@ -5,7 +5,7 @@
 
 ## This week
 
-We're now in **Week 11 (2 Nov → 6 Nov 2020)** with SAP Judging.
+Finalist are announced and voting for the overall winner is now live: https://blogs.sap.com/2020/11/09/devtoberfest-contest-voting/. You have until Monday, November 23rd to cast your vote!
 
 ## Key Dates
 

@@ -5,7 +5,7 @@
 
 ## This week
 
-Finalist are announced and voting for the overall winner is now live: https://blogs.sap.com/2020/11/09/devtoberfest-contest-voting/. You have until Monday, November 23rd to cast your vote!
+Finalist are announced and voting for the overall winner is now complete: https://blogs.sap.com/2020/11/09/devtoberfest-contest-voting/. Voting closed on Monday, November 23rd!
 
 ## Key Dates
 
@@ -17,7 +17,7 @@ Finalist are announced and voting for the overall winner is now live: https://bl
 | Nov 2 one minute past midnight Pacific Standard Time (UTC-8) | Final Deadline for all commits to projects to be considered in the contest |
 | Nov 2 - Nov 6 | SAP Judging |
 | Nov 9 | Announcement of Finalists |
-| Nov 9 - TBD | Community Voting |
+| Nov 9 - Nov 23 | Community Voting |
 
 ## Devtoberfest **Community Speed Networking session**
 This special session is an opportunity for project leads of contest entrants to come together and explain their project goals/vision and to recruit member to help them out during the upcoming build week. You can of course attend if you just want to learn about all the great community projects. But if you are looking for a project to join, this is your chance to learn about some of the possible options.

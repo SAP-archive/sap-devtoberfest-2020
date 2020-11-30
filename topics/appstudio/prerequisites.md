@@ -21,9 +21,7 @@ Please make sure your trial account includes the following entitlements:
 |Service|Plan|Quota|
 |-|-|-|
 |SAP Business Application Studio|trial (Subscription)|/|
-|Destination|lite|1|
 |Application Runtime|memory|1|
-|HTML5 Applications|app-host|2MB
 |Portal|Standard|/|
 |UI5 flexibility for key users |keyuser|1|
 

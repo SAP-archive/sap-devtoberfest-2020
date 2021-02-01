@@ -8,11 +8,11 @@ Please ensure you complete all the prerequisites **before you start watching the
 
 Each participant should have their own laptop. The laptop should have Internet access and have enough power.
 
-## SAP Cloud Platform
+## SAP Business Technology Platform
 
-Each attendee must have an SAP Cloud Platform trial account, and specifically, a Cloud Foundry environment with an organization and a space defined. See the following tutorials for more details:
+Each attendee must have an SAP BTP Trial account, and specifically, a Cloud Foundry environment with an organization and a space defined. See the following tutorials for more details:
 
-- [Get a Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+- [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 - [Set Up SAP Business Application Studio for Development](https://developers.sap.com/tutorials/appstudio-onboarding.html)
 
 Please make sure your trial account includes the following entitlements:
@@ -22,8 +22,6 @@ Please make sure your trial account includes the following entitlements:
 |-|-|-|
 |SAP Business Application Studio|trial (Subscription)|/|
 |Application Runtime|memory|1|
-|Portal|Standard|/|
-|UI5 flexibility for key users |keyuser|1|
 
 In case some entitlements are missing, or you are unsure how to find the entitlements, please look at [this tutorial](https://developers.sap.com/tutorials/cp-cf-entitlements-add.html).
 

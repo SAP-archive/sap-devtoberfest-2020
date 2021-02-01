@@ -12,7 +12,7 @@ The requirements to follow the exercises in this repository, including hardware 
 
 ## Exercises
 
-We have a set of exercises that help you get to know the SAP Business Application Studio. They take you through a series of tasks, covering everything from setting the service up in an SAP BTO Trial account, to the creation and fine-tuning of a Fiori Elements project. While doing so, you will also get to know the Fiori Tools, which are integrated into the development environment. While doing so, you will also get to know the extensibility concept of the UI5 tooling, which you could leverage for your project in the build week.
+We have a set of exercises that help you get to know the SAP Business Application Studio. They take you through a series of tasks, covering everything from setting the service up in an SAP BTP Trial account, to the creation and fine-tuning of a Fiori Elements project. While doing so, you will also get to know the Fiori Tools, which are integrated into the development environment. While doing so, you will also get to know the extensibility concept of the UI5 tooling, which you could leverage for your project in the build week.
 
 You can follow these exercises yourself, at your own pace, using the tasks that **will be** made available in the [exercises](exercises) folder in this repository.
 
